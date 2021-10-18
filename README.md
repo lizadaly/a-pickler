@@ -5,8 +5,8 @@ by noted eccentric [Timothy Dexter](https://en.wikipedia.org/wiki/Timothy_Dexter
 
 This repo will contain three utilities:
 
-- A concordance generator, to iterate through the source of A Pickle for the Knowing Ones and generate a map of Dexter's spellings to standard English. The program should suggest words, skip known words, and store the condordance.
+- A concordance generator, to iterate through the source of _A Pickle for the Knowing Ones_ and generate a map of Dexter's spellings to standard English. The program should suggest words, skip known words, and store the condordance.
 - A script, `pickler.py`, to take an input text and turn it into a Dexter-style rendering. (To be started on or after November 1.)
 - A script, `unpickler.py`, which reverses the process and turns a Dexter-style document into plain-ish English. (To be started on or after November 1.)
 
-The pickler/depickler process will necessarily be lossy, but it should be funny.
+The pickler/depickler process will necessarily be lossy, but it should also be funny.
