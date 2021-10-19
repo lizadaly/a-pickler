@@ -8,36 +8,85 @@ from pathlib import Path
 import json
 from typing import Optional
 import pkg_resources
+from rich.text import Text
 from symspellpy import SymSpell, Verbosity
+from rich.console import Console
+from rich.prompt import Prompt
+from rich.progress import track
+from rich.panel import Panel
+from rich.layout import Layout
 from rich import print
+
+console = Console()
+CONTEXT_BUFFER = 10
+
+
+class OverridablePrompt(Prompt):
+    """Allow unlisted options"""
+
+    def check_choice(self, value: str) -> bool:
+        return True
 
 
 def generate_concordance_file(input_filename: str, output_filename: str):
     with Path(input_filename).open() as input, Path(output_filename).open(
         "w"
     ) as output:
-        buffer: list[tuple[str, Optional[str]]] = []
+        buffer: list[tuple[str, str, bool]] = []
         for line in input:
             for word in line.split(" "):
-                buffer.append((word, None))
+                buffer.append((word, word, False))
         json.dump(buffer, output)
 
 
 def spellcheck(concordance: Path):
+
+    words: list[tuple[str, str, bool]] = json.load(concordance.open())
+    console.clear()
+    try:
+        check_words(words)
+    finally:
+        with concordance.open("w") as out:
+            json.dump(words, out)
+
+
+def check_words(words: list[tuple[str, str, bool]]):
+    console.print("Loading spelling dictionary...")
     sym_spell = SymSpell(max_dictionary_edit_distance=2, prefix_length=7)
     dictionary_path = pkg_resources.resource_filename(
         "symspellpy", "frequency_dictionary_en_82_765.txt"
     )
     sym_spell.load_dictionary(dictionary_path, term_index=0, count_index=1)
 
-    words = json.load(concordance.open())
+    for index, word_group in enumerate(words):
+        word, _, corrected = word_group
+        checkable_word = word.strip()
+        if checkable_word.isalnum() and not corrected:
+            suggestions = sym_spell.lookup(
+                checkable_word,
+                Verbosity.CLOSEST,
+                max_edit_distance=2,
+                transfer_casing=True,
+            )
 
-    for word_pair in words:
-        word, correction = word_pair
-        suggestions = sym_spell.lookup(word, Verbosity.CLOSEST, max_edit_distance=2)
-        print(word)
-        for s in suggestions:
-            print(s)
+            context = Text()
+            before = [w[1] for w in words[max(0, index - CONTEXT_BUFFER) : index]]
+            after = [
+                w[1]
+                for w in words[index + 1 : min(len(words) - 1, index + CONTEXT_BUFFER)]
+            ]
+            context.append(" ".join(before).replace("\n", ""))
+            context.append(Text(f" {checkable_word} ", style="bold magenta"))
+            context.append(" ".join(after).replace("\n", ""))
+            console.print(Panel(context))
+
+            correction = OverridablePrompt.ask(
+                f"[b]{word}[/b]: ",
+                choices=[s.term for s in suggestions[:5]],
+                default=suggestions[0].term,
+            )
+            words[index] = (word, correction, True)
+            console.clear()
 
 
 if __name__ == "__main__":
