@@ -15,7 +15,9 @@ def test_concordance():
         out = json.load(open(output_filename))
         assert len(out) == 15
         assert len(out[0]) == 2
-        assert out[0][0] == out[0][1]
+        assert out[0][0]
+        assert not out[0][1]
+
     finally:
         Path(input_filename).unlink()
         Path(output_filename).unlink()
