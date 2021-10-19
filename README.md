@@ -5,13 +5,13 @@ by noted eccentric [Timothy Dexter](https://en.wikipedia.org/wiki/Timothy_Dexter
 
 This repo will contain three utilities:
 
-- A concordance generator, to iterate through the source of _A Pickle for the Knowing Ones_ and generate a map of Dexter's spellings to standard English. The program should suggest words, skip known words, and store the concordance.
+- A dictionary generator, to iterate through the source of _A Pickle for the Knowing Ones_ and generate a map of Dexter's spellings to standard English. The program should suggest words, skip known words, and store the dictionary.
 - A script, `pickler.py`, to take an input text and turn it into a Dexter-style rendering. (To be started on or after November 1.)
 - A script, `unpickler.py`, which reverses the process and turns a Dexter-style document into plain-ish English. (To be started on or after November 1.)
 
 The pickler/depickler process will necessarily be lossy, but it should also be funny.
 
-## Concordance generator
+## Dictionary generator
 
 This loops through the source text, breaking on word boundaries, and generates an ordered data structure like the following:
 
@@ -32,4 +32,4 @@ of spell-checked options (via autocomplete), or the transcriber can type in a ne
 
 ```
 
-Any words added replace the `spellchecked_word` value in the concordance, and flip the `is_spellchecked` bit. Re-running the program will resume at the last-checked word. On control-C (or at completion), the concordance is saved.
+Any words added replace the `spellchecked_word` value in the dictionary, and flip the `is_spellchecked` bit. Re-running the program will resume at the last-checked word. On control-C (or at completion), the dictionary is saved.
