@@ -106,16 +106,28 @@ def check_words(words: WordList):
             console.clear()
 
 
+def postprocess_dictionary(dictionary: Path):
+    """Post-process to store all the canonical forms"""
+    words: WordList = json.load(dictionary.open())
+
+    populate_custom_dictionary(words)
+
+    for index, word_group in enumerate(words):
+        word, correction, _ = word_group
+        correction = custom_dictionary.get(word) or correction or word
+        words[index] = (word, correction, True)
+
+    with dictionary.open("w") as out:
+        json.dump(words, out, indent=2)
+
+
 def as_spellchecked(dictionary: Path):
     """Output as the spell-checked version"""
     words: WordList = json.load(dictionary.open())
     output: list[str] = []
-    populate_custom_dictionary(words)
-
     for word_group in words:
-
-        target = custom_dictionary.get(word_group[0]) or word_group[1] or ""
-        output.append(target)
+        _, corrected, _ = word_group
+        output.append(corrected)
 
     console.print(" ".join(output))
 
@@ -134,5 +146,8 @@ if __name__ == "__main__":
         )
     elif args.function == "spellcheck":
         spellcheck(Path("dictionary.json"))
+    elif args.function == "post-process":
+        postprocess_dictionary(Path("dictionary.json"))
+
     elif args.function == "spellchecked":
         as_spellchecked(Path("dictionary.json"))
