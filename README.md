@@ -10,3 +10,26 @@ This repo will contain three utilities:
 - A script, `unpickler.py`, which reverses the process and turns a Dexter-style document into plain-ish English. (To be started on or after November 1.)
 
 The pickler/depickler process will necessarily be lossy, but it should also be funny.
+
+## Concordance generator
+
+This loops through the source text, breaking on word boundaries, and generates an ordered data structure like the following:
+
+```
+[original_word, spellchecked_word, is_spellchecked]
+```
+
+Initially the first two values are the same, and the last is false.
+
+In the spellcheck pass, a text-based UI assists the transcriber by showing a window of context, with a selection
+of spell-checked options (via autocomplete), or the transcriber can type in a new word:
+
+```
+╭────────────────────────────────────────────────────────────────────────────────╮
+│ put in A Nuf here and thay may pepper and solt itt as they plese    ,, ,                                                                   │
+╰────────────────────────────────────────────────────────────────────────────────╯
+? [solt]: salt
+
+```
+
+Any words added replace the `spellchecked_word` value in the concordance, and flip the `is_spellchecked` bit. Re-running the program will resume at the last-checked word. On control-C (or at completion), the concordance is saved.
