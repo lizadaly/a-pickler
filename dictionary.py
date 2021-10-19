@@ -1,7 +1,7 @@
 # Read through each word in `a-pickle.txt` and for each word:
 # * Check against a spelling dictionary
 # * If misspelled or unknown, suggest a spelling
-# * Store the concordance
+# * Store the dictionary
 #
 
 from pathlib import Path
@@ -40,21 +40,21 @@ def generate_dictionary_file(input_filename: str, output_filename: str):
 def populate_custom_dictionary(words: WordList):
     for word_group in words:
         word, correction, is_corrected = word_group
-        if is_corrected:
+        if is_corrected and word != correction:
             custom_dictionary[word] = correction
 
 
-def spellcheck(concordance: Path):
+def spellcheck(dictionary: Path):
 
-    words: WordList = json.load(concordance.open())
+    words: WordList = json.load(dictionary.open())
     console.clear()
     populate_custom_dictionary(words)
 
     try:
         check_words(words)
     finally:
-        with concordance.open("w") as out:
-            json.dump(words, out)
+        with dictionary.open("w") as out:
+            json.dump(words, out, indent=2)
 
 
 def check_words(words: WordList):
@@ -106,6 +106,20 @@ def check_words(words: WordList):
             console.clear()
 
 
+def as_spellchecked(dictionary: Path):
+    """Output as the spell-checked version"""
+    words: WordList = json.load(dictionary.open())
+    output: list[str] = []
+    populate_custom_dictionary(words)
+
+    for word_group in words:
+
+        target = custom_dictionary.get(word_group[0]) or word_group[1] or ""
+        output.append(target)
+
+    console.print(" ".join(output))
+
+
 if __name__ == "__main__":
     import argparse
 
@@ -120,3 +134,5 @@ if __name__ == "__main__":
         )
     elif args.function == "spellcheck":
         spellcheck(Path("dictionary.json"))
+    elif args.function == "spellchecked":
+        as_spellchecked(Path("dictionary.json"))
