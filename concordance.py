@@ -11,21 +11,19 @@ import pkg_resources
 from rich.text import Text
 from symspellpy import SymSpell, Verbosity
 from rich.console import Console
-from rich.prompt import Prompt
-from rich.progress import track
 from rich.panel import Panel
 from rich.layout import Layout
 from rich import print
+import questionary
 
 console = Console()
-CONTEXT_BUFFER = 10
 
+# a list of all words as a 3-item tuple: the original, the spell-checked version, and whether it has been spell-checked yet
+WordList = list[tuple[str, str, bool]]
 
-class OverridablePrompt(Prompt):
-    """Allow unlisted options"""
+CONTEXT_BUFFER = 10  # Words before and after the word being spell-checked
 
-    def check_choice(self, value: str) -> bool:
-        return True
+custom_dictionary: dict[str, str] = {}  # Words already mapped
 
 
 def generate_concordance_file(input_filename: str, output_filename: str):
@@ -39,10 +37,19 @@ def generate_concordance_file(input_filename: str, output_filename: str):
         json.dump(buffer, output)
 
 
+def populate_custom_dictionary(words: WordList):
+    for word_group in words:
+        word, correction, is_corrected = word_group
+        if is_corrected:
+            custom_dictionary[word] = correction
+
+
 def spellcheck(concordance: Path):
 
-    words: list[tuple[str, str, bool]] = json.load(concordance.open())
+    words: WordList = json.load(concordance.open())
     console.clear()
+    populate_custom_dictionary(words)
+
     try:
         check_words(words)
     finally:
@@ -50,7 +57,7 @@ def spellcheck(concordance: Path):
             json.dump(words, out)
 
 
-def check_words(words: list[tuple[str, str, bool]]):
+def check_words(words: WordList):
     console.print("Loading spelling dictionary...")
     sym_spell = SymSpell(max_dictionary_edit_distance=2, prefix_length=7)
     dictionary_path = pkg_resources.resource_filename(
@@ -59,7 +66,12 @@ def check_words(words: list[tuple[str, str, bool]]):
     sym_spell.load_dictionary(dictionary_path, term_index=0, count_index=1)
 
     for index, word_group in enumerate(words):
-        word, _, corrected = word_group
+        word, correction, corrected = word_group
+
+        if word in custom_dictionary:
+            words[index] = (word, correction, True)
+            continue  # Skip this word automatically
+
         checkable_word = word.strip()
         if checkable_word.isalnum() and not corrected:
             suggestions = sym_spell.lookup(
@@ -70,9 +82,9 @@ def check_words(words: list[tuple[str, str, bool]]):
             )
 
             context = Text()
-            before = [w[1] for w in words[max(0, index - CONTEXT_BUFFER) : index]]
+            before = [w[1] or "" for w in words[max(0, index - CONTEXT_BUFFER) : index]]
             after = [
-                w[1]
+                w[1] or ""
                 for w in words[index + 1 : min(len(words) - 1, index + CONTEXT_BUFFER)]
             ]
             context.append(" ".join(before).replace("\n", ""))
@@ -80,12 +92,17 @@ def check_words(words: list[tuple[str, str, bool]]):
             context.append(" ".join(after).replace("\n", ""))
             console.print(Panel(context))
 
-            correction = OverridablePrompt.ask(
-                f"[b]{word}[/b]: ",
-                choices=[s.term for s in suggestions[:5]],
-                default=suggestions[0].term,
-            )
+            choices = [s.term for s in suggestions[:5]]
+
+            correction = questionary.autocomplete(
+                f"[{checkable_word}]:",
+                choices=choices if choices else [checkable_word],
+                default=choices[0] if choices else checkable_word,
+            ).unsafe_ask()
+
             words[index] = (word, correction, True)
+            custom_dictionary[word] = correction
+
             console.clear()
 
 

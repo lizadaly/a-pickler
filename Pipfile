@@ -7,6 +7,7 @@ name = "pypi"
 rich = "*"
 symspellpy = "*"
 types-setuptools = "*"
+questionary = "*"
 
 [dev-packages]
 mypy = "*"
