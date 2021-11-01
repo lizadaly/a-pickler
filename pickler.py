@@ -17,11 +17,11 @@ def normalize_dictionary(words: WordList) -> None:
 
 def strip_punctation(line: str) -> tuple[str, str]:
     """Strip punctuation from a line, returning the removed punctuation and the updated line"""
-    punct = str.maketrans(dict.fromkeys(string.punctuation))
-    non_punct = str.maketrans(dict.fromkeys(string.ascii_letters + " "))
+    punct = str.maketrans(dict.fromkeys(string.punctuation + "’“”—"))
+    non_punct = str.maketrans(dict.fromkeys(string.ascii_letters + string.digits + " "))
     alpha_only = line.translate(punct).replace("  ", " ")
     removed = line.translate(non_punct)
-    return alpha_only, removed
+    return alpha_only, removed.strip()
 
 
 def pickler(source: list[str]) -> list[str]:
@@ -33,7 +33,8 @@ def pickler(source: list[str]) -> list[str]:
 
     for line in source:
         line, line_punct = strip_punctation(line)
-        punct.append(line_punct)
+        if line_punct:
+            punct.append(line_punct)
         words = line.split(" ")
         for i, word in enumerate(words):
             orig_case = word
@@ -56,3 +57,5 @@ if __name__ == "__main__":
     args = parser.parse_args()
     source = Path(args.source)
     output = pickler(source.open().readlines())
+    for line in output:
+        print(line)
