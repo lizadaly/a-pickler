@@ -1,6 +1,37 @@
 import tempfile
 from dictionary import *
+from pickler import *
 from pathlib import Path
+
+
+def test_pickler():
+    """Passing text through the pickler should convert the words"""
+    source = ["When the moon hits your eye like a big pizza pie"]
+    output = " ".join(pickler(source)).strip()
+    assert "Wen the moune hits your eye lik a big pizza pie" == output
+
+
+def test_extract_punctuation():
+    """Punctuation from the source should be extracted and returned separately"""
+    source = "It is a truth universally acknowledged, that a single man (??) loves punctuation!!"
+    text, punct = strip_punctation(source)
+    assert (
+        "It is a truth universally acknowledged that a single man loves punctuation"
+        == text
+    )
+    assert ",(??)!!" == punct
+
+
+def test_extract_punctuation_appended():
+    """In a complete source document, punctuation should be extracted and appended at the end"""
+    source = [
+        "It is a truth universally acknowledged, that a single man (??) loves punctuation!!"
+    ]
+    output = " ".join(pickler(source))
+    assert (
+        "Itt is a trouth universally acknowledged that a single man leovs punctuation ,(??)!!"
+        == output
+    )
 
 
 def test_dictionary():
