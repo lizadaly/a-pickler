@@ -1,5 +1,8 @@
 from pathlib import Path
 import re
+from lxml import html
+
+from pickler import pickler
 
 ticker_symbol = "TSLA"
 default_dir = "sec-edgar-filings"
@@ -18,6 +21,7 @@ def download_if_needed(dir: Path):
 def clean_sgml_junk(dir: Path) -> list[str]:
     """Clean up an EDGAR filing by brute-force extracting all the text nodes of a reasonable length"""
     output: list[str] = []
+    punctuation: list[str] = []
 
     for filing_dir in sorted(dir.rglob("*")):
 
@@ -26,8 +30,19 @@ def clean_sgml_junk(dir: Path) -> list[str]:
             report = filing.open().read().replace("\n", "")
             p = r"<html>(.*?)</html>"
             if blob := re.search(p, report, re.MULTILINE):
-                html = blob.group(1)
-                output.append(html)
+                html_blob = blob.group(1)
+                parsed = html.fromstring(html_blob)
+                el_with_text = parsed.xpath("//*[text()!='']")
+                for el in el_with_text:
+                    text = el.text
+                    if text and text.strip():
+                        picklered, punct = pickler([text.strip()])
+                        punctuation.append("".join(punct))
+                        el.text = "".join(picklered)
+                output.append(
+                    html.tostring(parsed, encoding="unicode", pretty_print=True)
+                )
+    output.append(f"<p>{''.join(punctuation)}")
     return output
 
 

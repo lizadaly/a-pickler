@@ -17,17 +17,17 @@ def normalize_dictionary(words: WordList) -> None:
 
 def strip_punctation(line: str) -> tuple[str, str]:
     """Strip punctuation from a line, returning the removed punctuation and the updated line"""
-    punct = str.maketrans(dict.fromkeys(string.punctuation + "’“”—"))
+    punct = str.maketrans(
+        dict.fromkeys("'!\"#$%&'()*+,./:;<=>?@[\\]^_`{|}~'’“”")
+    )  # string.punctuation plus smart quotes minus hyphens
     non_punct = str.maketrans(dict.fromkeys(string.ascii_letters + string.digits + " "))
     alpha_only = line.translate(punct).replace("  ", " ")
     removed = line.translate(non_punct)
     return alpha_only, removed.strip()
 
 
-def pickler(source: list[str]) -> list[str]:
-
+def pickler(source: list[str]) -> tuple[list[str], list[str]]:
     normalize_dictionary(json.load(Path("dictionary.json").open()))
-    # print(mapping)
     output: list[str] = []
     punct: list[str] = []
 
@@ -45,8 +45,7 @@ def pickler(source: list[str]) -> list[str]:
                 if orig_case[0].isupper():
                     words[i] = mapping[word].capitalize()
         output.append(" ".join(words))
-    output.append("".join(punct))
-    return output
+    return output, punct
 
 
 if __name__ == "__main__":
