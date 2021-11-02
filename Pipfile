@@ -8,6 +8,8 @@ rich = "*"
 symspellpy = "*"
 types-setuptools = "*"
 questionary = "*"
+sec-edgar-downloader = "*"
+lxml = "*"
 
 [dev-packages]
 mypy = "*"
