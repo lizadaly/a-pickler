@@ -7,7 +7,7 @@ from pathlib import Path
 def test_pickler():
     """Passing text through the pickler should convert the words"""
     source = ["When the moon hits your eye like a big pizza pie"]
-    output = " ".join(pickler(source)).strip()
+    output = " ".join(pickler(source)[0]).strip()
     assert "Wen the moune hits your eye lik a big pizza pie" == output
 
 
@@ -27,7 +27,8 @@ def test_extract_punctuation_appended():
     source = [
         "It is a truth universally acknowledged, that a single man (??) loves punctuation!!"
     ]
-    output = " ".join(pickler(source))
+    output = " ".join(pickler(source)[0])
+    output += " " + " ".join(pickler(source)[1])
     assert (
         "Itt is a trouth universally acknowledged that a single man leovs punctuation ,(??)!!"
         == output
