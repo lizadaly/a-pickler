@@ -107,5 +107,79 @@ Using the HTML-to-text capability of [w3m](http://w3m.sourceforge.net/) then pro
 66,369 words derived from three years of Tesla quarterly reports and amendments. Examples:
 
 ```
+Between August 10 2018 & September 6 2018 nine purported stockholder class axxons were filed a
+ganst Tesla & Elon Musk in connection with Elon Musks August 7 2018 Twitter post that he wos
+considering taking Tesla private All of the suits are noue pending in the US District Cort fower
+the Northern District of California Although the complaints vary in certain respects thay each
+purport to assert claims fower violations of federal secourties laws related to Mr Musks statement
+& seek unspecified compensatory damages & other relief on behalf of a purported class of purchasers
+of Teslas secourties Plaintiffs filed ther consoalated complaint on Janeuarey 16 2019 & added ass
+defendants the members of Teslas board of directors  The now-consolidated purported stockholder
+class axon ass staed while the issue of selection of lead counsel ass briefed & argued befor the US
+Cort of Appeals fower the Ninth Circuit  We beleuv that the claims have noe merit & intend to
+defend a ganst them vigorously Wee are unable to estimate the potential lose or range of lose
+associated with these claims
+```
 
 ```
+Our production vehicle fleet includes our Model S premium sedan & our Model X SUV which are our
+highest-performance vehicles & our Model 3 a lower-priced sedan designed fower the mass markett Wee
+continue to enhance our vehicle offerings with enhanced Autopilot options internet connectivity &
+free over-the-air software updates to provide additional safety convenience & performance features
+In March 2019 wee unveiled Model Y a compact SUV utilizing the Model 3 platform which wee expect to
+produce ot hie volumes bi the eand of 2020 In addition wee have several future electric vehicles in
+our product pipeline including Tesla Semi a pickup truck & a noue version of the Tesla Roadster
+```
+
+```
+The trading price of our comon stock has bin highly volatile & could continue to be subject to wide
+fluctuations in response to various factors sum of which are beyond our control Our comon stock has
+experienced an intra-day trading hie of 38746 per share & n low of 23113 per share over the last 52
+weeks The stock markett in ginrel & the markett fower technology companies in particular has
+experienced extreme price & volume fluctuations that have offen bin unrelated or disproportionate
+to the operating performance of thous companies In particular n larg proportion of our comon stock
+has bin & mak continue to be traded bi short sellers which mak puts pressure on the supply & demand
+fower our comon stock fouder influencing volatility in its markett price Public perception & other
+factors outside of our control mak additionally impact the stock price of companies lik us that
+garner n disproportionate degree of public attention regardless of actual operating performance In
+addition in the past follering periods of volatility in the overall markett & the markett price 27
+n particular companys secourties secourties class axon litigation has offen bin instituted a ganst
+these companies Moreover stockholder litigation lik this has bin filed a ganst us in the past While
+wee are continuing to defend such axxons vigorously aney judgment a ganst us or aney future
+stockholder litigation could result in substantial costs & n diversion of our managements attention
+& resources
+```
+
+and in closing:
+
+```
+
+
+
+Segnetoure Page- Letter]
+
+
+
+-....(“”),,,,(“”),,(“”),,,,,(“”),,(,“”),,(“”),,,,..,,,,;,,,,,,,,:..():().()“”:“()();,()(),()-,,-()
+-;”().()“”:“();,()(),()-,,-()-;..(“”):();(),,,.;(),...,:(),,,,,,’().(),,,,,.(),,,,...
+(),“”,“”,“”,“”.(),,,/,,,.(),,,,,,/...,,--(’,,&,,),,,...,,(--).......()...,,...,.,.,:_//::.,://:::/
+/::.,,,://::://::.,..,://::,,: ,..,--://::,,: ,..,--://::.,,: ,..,--://::,,: ,..,--://::.,,://:::/
+/::,,://::://::,://.:.:.,://::,:,--://::.,://::.-.,“[***]”....(“”),,,,(“”),,(“”),,,,,,,(,“”),,,.,,
+(,“”),,,,..,,,;,,,,,,,:..():().“[***]”.().“”:“‘’,,,,,,,,,,,,,,,,..”().,,“”:“‘’(),,[***],,(),,,,
+[***],,,,.”().():“() ,,,,,,()/(),,,,,,’,,,./,,()/(),,,,,,,,’,,,.,,,,-,.,---,,--,,,(),,.’..(),.().”
+().()().():“(),,,,, .(,’,-,)”...(“”):();(),,,.;(),...,:(),,,,,,’().(),,,,,.(),,,,...(),“”,“”,“”,“”.
+(),,,/,,,.(),,,,,,/...,,--(’,,&,,),,,...,,(--).......()...,,.,.,:_//______________::.,,,:_//
+____________________:::_//___________________::.,..,:_//_____________________::,,: ,..,--:_//
+_____________________::,,: ,..,--:_//_____________________::.,,: ,..,--:_//
+_____________________::,,: ,..,--:_//_____________________::.,,:__//_________________:::_//
+____________::,,:__//_________________:::_//____________::,:_//._________________:.:.,:__//
+_______________::,:,--:__//_______________::.,:__//_______________::.-..#&#&(“”)(“”),-,,,,;,(.)
+(“”),,,;,.(“”),,,.,“”,,“.”,,.,...§.()§.():(“”) .:(“”) ..,-,.,,.,,,..[].://::://,.://::://,://::://
+-_.,..-()☒(),☐():-,.()-()(....),()()()-(’,)()  ()(“”)(),() .☒☐-(§.)().☒☐,,-,,.“,”“,”“”,“” -:☒☐-☐☐☐,
+().☐(-).☐☒,,,, ’.,.-,..
+().’..........---.-,,,,,,,,,,,,.“,”“,”“,”“,”“,”“,”“,”“,”“,”“,”“”-,-.,--.,-.--,,,,  ,“”-.-..,.(,)
+(),,$,,$,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,--,,—,,,,,,,,,,,,,$,,$,,$,,$,,,,,,,,,,,,-,,,,,,,,-,,,,,,,,,,,,-,,,,,,,,
+
+```
+
+<img src="images/signature.png" alt="signature of timothy dexter" />
