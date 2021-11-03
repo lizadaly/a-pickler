@@ -1,4 +1,4 @@
-# A Pickler for the Knowing Ones
+# A Pickler for the Nowing Ones
 
 <img src="images/portrait.png" alt="engraving of the head of Timothy Dexter" width="250" align="right" />
 
@@ -19,7 +19,7 @@ I must be Lord
 
 <br clear="both" />
 
-Dexter commissioned a local sculptor and architect to build a grandiose palace in his home town of Newburyport:
+Dexter commissioned a local sculptor and architect to build a grandiose palace in his home town:
 
 <p align="center">
 <img src="images/lithograph.jpg" alt="A lithograph of Dexter's mansion, featuring his decorative statues" width="80%" />
@@ -39,13 +39,15 @@ I want them to Live for Ever and I beleave thay will it is hard work to
 be A king
 </blockquote>
 
-Dexter's writing style was unique; in the second and subsequent editions of his pamphlet he responded to criticisms that he failed to use punctuation with the following epigraph:
+The mansion eventually burned down, though the property has been rebuilt several times since, most recently in 1988. Only the house is represented [today](https://www.google.com/maps/uv?pb=!1s0x89e2e1d693edeac9%3A0xed0fe9b62b430bb4!3m1!7e115!4s%2Fmaps%2Fplace%2Ftimothy%2Bdexter%2Bhouse%2Bnewburyport%2F%4042.8111469%2C-70.880817%2C3a%2C75y%2C197.29h%2C90t%2Fdata%3D*213m4*211e1*213m2*211sysjRRfLwdYCdKlSqKGHS1w*212e0*214m2*213m1*211s0x89e2e1d693edeac9%3A0xed0fe9b62b430bb4%3Fsa%3DX!5stimothy%20dexter%20house%20newburyport%20-%20Google%20Search!15sCgIgARICCAI&imagekey=!1e2!2sysjRRfLwdYCdKlSqKGHS1w&hl=en&sa=X&ved=2ahUKEwipr_arz_zzAhVqTt8KHeo8AOoQpx96BAhcEAM).
+
+In the second and subsequent editions of his pamphlet he responded to criticisms that he failed to use punctuation with the following epigraph:
 
 <p align="center">
 <img src="images/end.png" alt="end notes from dexter: a long block of punctuation" width="300" />
 </p>
 
-(His phonetic writing style hints at his speaking style; e.g. <i>learning/larning</i>, <i>slaughter/slarter</i>, <i>thought/thort</i> suggest pronunciations similar to <a href="https://en.wikipedia.org/wiki/Midland_American_English">Midland American English</a>, and <i>isle/oile</i> evokes a modern Irish accent.)
+(His phonetic writing hints at his speaking style; e.g. <i>learning/larning</i>, <i>slaughter/slarter</i>, <i>thought/thort</i> suggest pronunciations similar to <a href="https://en.wikipedia.org/wiki/Midland_American_English">Midland American English</a>, and <i>isle/oile</i> evokes a modern Irish accent.)
 
 ### About the edition used
 
