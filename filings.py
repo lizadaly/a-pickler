@@ -51,4 +51,4 @@ if __name__ == "__main__":
     dir = Path(default_dir)
     download_if_needed(dir)
     Path(output_file).open("w").writelines(clean_sgml_junk(dir))
-    print("Now run:\n cat source.html | w3m -dump -T text/html -cols 100 > source.txt")
+    print("Now run:\n cat source.html | w3m -dump -T text/html -cols 100 > output.txt")
