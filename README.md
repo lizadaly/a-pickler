@@ -120,7 +120,7 @@ Using the HTML-to-text capability of [w3m](http://w3m.sourceforge.net/) then pro
 
 ## The output
 
-66,369 words derived from three years of Tesla quarterly reports and amendments. Examples:
+<a href="https://github.com/lizadaly/a-pickler/blob/main/output.txt">66,369 words</a> derived from three years of Tesla quarterly reports and amendments. Examples:
 
 ```
 Between August 10 2018 & September 6 2018 nine purported stockholder class axxons were filed a
