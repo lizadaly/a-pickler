@@ -26,8 +26,8 @@
     true
   ],
   [
-    "ONES.\n",
-    "ONES.\n",
+    "ONES.",
+    "ONES.",
     true
   ],
 
@@ -120,8 +120,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -135,8 +135,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -155,8 +155,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -230,7 +230,7 @@
     true
   ],
   [
-    "Cane\n",
+    "Cane",
     "Cane",
     true
   ],
@@ -284,18 +284,14 @@
     "the",
     true
   ],
-  [
-    "first",
-    "first",
-    true
-  ],
+
   [
     "king",
     "king",
     true
   ],
   [
-    "as\n",
+    "as",
     "as",
     true
   ],
@@ -304,11 +300,7 @@
     "if",
     true
   ],
-  [
-    "they",
-    "they",
-    true
-  ],
+
   [
     "was",
     "was",
@@ -365,7 +357,7 @@
     true
   ],
   [
-    "hearing\n",
+    "hearing",
     "hearing",
     true
   ],
@@ -380,8 +372,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -430,7 +422,7 @@
     true
   ],
   [
-    "well\n",
+    "well",
     "well",
     true
   ],
@@ -444,14 +436,10 @@
     "&",
     true
   ],
+
   [
-    "west",
-    "west",
-    true
-  ],
-  [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -515,7 +503,7 @@
     true
   ],
   [
-    "dun\n",
+    "dun",
     "done",
     true
   ],
@@ -550,8 +538,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -574,11 +562,7 @@
     "ones",
     true
   ],
-  [
-    "they",
-    "they",
-    true
-  ],
+
   [
     "are",
     "are",
@@ -590,7 +574,7 @@
     true
   ],
   [
-    "good\n",
+    "good",
     "good",
     true
   ],
@@ -630,8 +614,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -675,7 +659,7 @@
     true
   ],
   [
-    "to\n",
+    "to",
     "to",
     true
   ],
@@ -760,7 +744,7 @@
     true
   ],
   [
-    "I\n",
+    "I",
     "I",
     true
   ],
@@ -845,7 +829,7 @@
     true
   ],
   [
-    "pleas\n",
+    "pleas",
     "please",
     true
   ],
@@ -925,7 +909,7 @@
     true
   ],
   [
-    "ment\n",
+    "ment",
     "men",
     true
   ],
@@ -1000,7 +984,7 @@
     true
   ],
   [
-    "my\n",
+    "my",
     "my",
     true
   ],
@@ -1025,8 +1009,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -1039,11 +1023,7 @@
     "on",
     true
   ],
-  [
-    "make",
-    "make",
-    true
-  ],
+
   [
     "merry",
     "merry",
@@ -1075,7 +1055,7 @@
     true
   ],
   [
-    "me\n",
+    "me",
     "me",
     true
   ],
@@ -1100,7 +1080,7 @@
     true
   ],
   [
-    "matter",
+    "matur",
     "matter",
     true
   ],
@@ -1109,11 +1089,7 @@
     "what",
     true
   ],
-  [
-    "they",
-    "they",
-    true
-  ],
+
   [
     "worshep",
     "worship",
@@ -1145,7 +1121,7 @@
     true
   ],
   [
-    "there\n",
+    "there",
     "there",
     true
   ],
@@ -1210,12 +1186,22 @@
     true
   ],
   [
+    "figers",
+    "figures",
+    true
+  ],
+  [
+    "figer",
+    "figure",
+    true
+  ],
+  [
     "so",
     "so",
     true
   ],
   [
-    "fast\n",
+    "fast",
     "fast",
     true
   ],
@@ -1300,7 +1286,7 @@
     true
   ],
   [
-    "others\n",
+    "others",
     "others",
     true
   ],
@@ -1375,7 +1361,7 @@
     true
   ],
   [
-    "present\n",
+    "present",
     "present",
     true
   ],
@@ -1440,7 +1426,7 @@
     true
   ],
   [
-    "Councaton\n",
+    "Councaton",
     "Councaton",
     true
   ],
@@ -1525,7 +1511,7 @@
     true
   ],
   [
-    "Lions\n",
+    "Lions",
     "Lions",
     true
   ],
@@ -1615,7 +1601,7 @@
     true
   ],
   [
-    "13\n",
+    "13",
     "13",
     true
   ],
@@ -1695,7 +1681,7 @@
     true
   ],
   [
-    "15\n",
+    "15",
     "15",
     true
   ],
@@ -1785,7 +1771,7 @@
     true
   ],
   [
-    "grand\n",
+    "grand",
     "grand",
     true
   ],
@@ -1875,7 +1861,7 @@
     true
   ],
   [
-    "is\n",
+    "is",
     "is",
     true
   ],
@@ -1945,7 +1931,7 @@
     true
   ],
   [
-    "ground\n",
+    "ground",
     "ground",
     true
   ],
@@ -2020,7 +2006,7 @@
     true
   ],
   [
-    "Solomun\n",
+    "Solomun",
     "Solomon",
     true
   ],
@@ -2059,11 +2045,7 @@
     "the",
     true
   ],
-  [
-    "first",
-    "first",
-    true
-  ],
+
   [
     "in",
     "in",
@@ -2085,7 +2067,7 @@
     true
   ],
   [
-    "tast\n",
+    "tast",
     "taste",
     true
   ],
@@ -2160,7 +2142,7 @@
     true
   ],
   [
-    "for\n",
+    "for",
     "for",
     true
   ],
@@ -2235,7 +2217,7 @@
     true
   ],
   [
-    "to\n",
+    "to",
     "to",
     true
   ],
@@ -2310,7 +2292,7 @@
     true
   ],
   [
-    "I\n",
+    "I",
     "I",
     true
   ],
@@ -2339,11 +2321,7 @@
     "but",
     true
   ],
-  [
-    "old",
-    "old",
-    true
-  ],
+
   [
     "steady",
     "steady",
@@ -2374,13 +2352,9 @@
     "the",
     true
   ],
+
   [
-    "first",
-    "first",
-    true
-  ],
-  [
-    "that\n",
+    "that",
     "that",
     true
   ],
@@ -2399,11 +2373,7 @@
     "the",
     true
   ],
-  [
-    "first",
-    "first",
-    true
-  ],
+
   [
     "best",
     "best",
@@ -2460,7 +2430,7 @@
     true
   ],
   [
-    "the\n",
+    "the",
     "the",
     true
   ],
@@ -2535,8 +2505,8 @@
     true
   ],
   [
-    "&\n",
-    "&\n",
+    "&",
+    "&",
     true
   ],
   [
@@ -2615,7 +2585,7 @@
     true
   ],
   [
-    "garding\n",
+    "garding",
     "garden",
     true
   ],
@@ -2700,7 +2670,7 @@
     true
   ],
   [
-    "cost\n",
+    "cost",
     "cost",
     true
   ],
@@ -2750,8 +2720,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -2770,7 +2740,7 @@
     true
   ],
   [
-    "with\n",
+    "with",
     "with",
     true
   ],
@@ -2840,12 +2810,12 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
-    "haye\n",
+    "haye",
     "have",
     true
   ],
@@ -2880,8 +2850,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -2910,13 +2880,13 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
-    "&\n",
-    "&\n",
+    "&",
+    "&",
     true
   ],
   [
@@ -2950,13 +2920,13 @@
     true
   ],
   [
-    "songs\n",
+    "songs",
     "songs",
     true
   ],
   [
-    "\n",
-    "\n",
+    "",
+    "",
     true
   ],
   [
@@ -3025,7 +2995,7 @@
     true
   ],
   [
-    "much\n",
+    "much",
     "much",
     true
   ],
@@ -3050,8 +3020,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -3120,7 +3090,7 @@
     true
   ],
   [
-    "of\n",
+    "of",
     "of",
     true
   ],
@@ -3159,11 +3129,7 @@
     "as",
     true
   ],
-  [
-    "Any",
-    "Any",
-    true
-  ],
+
   [
     "king",
     "king",
@@ -3200,7 +3166,7 @@
     true
   ],
   [
-    "be\n",
+    "be",
     "be",
     true
   ],
@@ -3280,7 +3246,7 @@
     true
   ],
   [
-    "the\n",
+    "the",
     "the",
     true
   ],
@@ -3360,7 +3326,7 @@
     true
   ],
   [
-    "Name\n",
+    "Name",
     "Name",
     true
   ],
@@ -3435,7 +3401,7 @@
     true
   ],
   [
-    "in\n",
+    "in",
     "in",
     true
   ],
@@ -3520,8 +3486,8 @@
     true
   ],
   [
-    "&\n",
-    "&\n",
+    "&",
+    "&",
     true
   ],
   [
@@ -3584,23 +3550,14 @@
     "Links",
     true
   ],
+
   [
-    "to",
-    "to",
-    true
-  ],
-  [
-    "gether",
-    "together",
-    true
-  ],
-  [
-    "and",
     "&",
+    "and",
     true
   ],
   [
-    "if\n",
+    "if",
     "if",
     true
   ],
@@ -3669,11 +3626,7 @@
     "keep",
     true
   ],
-  [
-    "together\n",
-    "together",
-    true
-  ],
+
   [
     "at",
     "at",
@@ -3755,7 +3708,7 @@
     true
   ],
   [
-    "the\n",
+    "the",
     "the",
     true
   ],
@@ -3830,7 +3783,7 @@
     true
   ],
   [
-    "then\n",
+    "then",
     "then",
     true
   ],
@@ -3900,7 +3853,7 @@
     true
   ],
   [
-    "grat\n",
+    "grat",
     "great",
     true
   ],
@@ -3934,11 +3887,7 @@
     "turn",
     true
   ],
-  [
-    "About",
-    "About",
-    true
-  ],
+
   [
     "Rest",
     "Rest",
@@ -3970,7 +3919,7 @@
     true
   ],
   [
-    "pleased\n",
+    "plased",
     "pleased",
     true
   ],
@@ -4045,7 +3994,7 @@
     true
   ],
   [
-    "part\n",
+    "part",
     "part",
     true
   ],
@@ -4065,13 +4014,13 @@
     true
   ],
   [
-    "least.\n",
-    "least.\n",
+    "least.",
+    "least.",
     true
   ],
   [
-    "\n",
-    "\n",
+    "",
+    "",
     true
   ],
   [
@@ -4370,18 +4319,18 @@
     true
   ],
   [
-    "DEXTER\n",
+    "DEXTER",
     "DEXTER",
     true
   ],
   [
-    "\n",
-    "\n",
+    "",
+    "",
     true
   ],
   [
-    "\n",
-    "\n",
+    "",
+    "",
     true
   ],
   [
@@ -4455,7 +4404,7 @@
     true
   ],
   [
-    "tell\n",
+    "tell",
     "tell",
     true
   ],
@@ -4540,7 +4489,7 @@
     true
   ],
   [
-    "caled\n",
+    "caled",
     "called",
     true
   ],
@@ -4589,18 +4538,9 @@
     "kept",
     true
   ],
+
   [
-    "to",
-    "to",
-    true
-  ],
-  [
-    "gether",
-    "together",
-    true
-  ],
-  [
-    "quiet\n",
+    "quiet",
     "quiet",
     true
   ],
@@ -4675,7 +4615,7 @@
     true
   ],
   [
-    "to\n",
+    "to",
     "to",
     true
   ],
@@ -4750,7 +4690,7 @@
     true
   ],
   [
-    "have\n",
+    "have",
     "have",
     true
   ],
@@ -4820,7 +4760,7 @@
     true
   ],
   [
-    "went\n",
+    "went",
     "went",
     true
   ],
@@ -4869,11 +4809,7 @@
     "they",
     true
   ],
-  [
-    "go",
-    "go",
-    true
-  ],
+
   [
     "there",
     "there",
@@ -4895,7 +4831,7 @@
     true
   ],
   [
-    "see\n",
+    "see",
     "see",
     true
   ],
@@ -4960,7 +4896,7 @@
     true
   ],
   [
-    "Eakers\n",
+    "Eakers",
     "Acres",
     true
   ],
@@ -5035,7 +4971,7 @@
     true
   ],
   [
-    "thay\n",
+    "thay",
     "they",
     true
   ],
@@ -5049,21 +4985,8 @@
     "kept",
     true
   ],
-  [
-    "to",
-    "to",
-    true
-  ],
-  [
-    "gether",
-    "together",
-    true
-  ],
-  [
-    "they",
-    "they",
-    true
-  ],
+
+
   [
     "wood",
     "wood",
@@ -5109,16 +5032,7 @@
     "state",
     true
   ],
-  [
-    "A\n",
-    "A",
-    true
-  ],
-  [
-    "bout",
-    "about",
-    true
-  ],
+
   [
     "halfe",
     "half",
@@ -5190,7 +5104,7 @@
     true
   ],
   [
-    "ot\n",
+    "ot",
     "at",
     true
   ],
@@ -5260,7 +5174,7 @@
     true
   ],
   [
-    "to\n",
+    "to",
     "to",
     true
   ],
@@ -5335,7 +5249,7 @@
     true
   ],
   [
-    "now\n",
+    "now",
     "now",
     true
   ],
@@ -5344,16 +5258,7 @@
     "keep",
     true
   ],
-  [
-    "to",
-    "to",
-    true
-  ],
-  [
-    "gether",
-    "together",
-    true
-  ],
+
   [
     "it",
     "it",
@@ -5375,8 +5280,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -5410,7 +5315,7 @@
     true
   ],
   [
-    "death\n",
+    "death",
     "death",
     true
   ],
@@ -5469,23 +5374,14 @@
     "keep",
     true
   ],
-  [
-    "to",
-    "to",
-    true
-  ],
-  [
-    "gether",
-    "together",
-    true
-  ],
+
   [
     "dont",
     "done",
     true
   ],
   [
-    "brak\n",
+    "brak",
     "break",
     true
   ],
@@ -5550,7 +5446,7 @@
     true
   ],
   [
-    "garding\n",
+    "garding",
     "garden",
     true
   ],
@@ -5625,7 +5521,7 @@
     true
   ],
   [
-    "tide\n",
+    "tide",
     "tide",
     true
   ],
@@ -5705,7 +5601,7 @@
     true
   ],
   [
-    "Liked\n",
+    "Liked",
     "Liked",
     true
   ],
@@ -5770,7 +5666,7 @@
     true
   ],
   [
-    "of\n",
+    "of",
     "of",
     true
   ],
@@ -5785,8 +5681,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -5845,7 +5741,7 @@
     true
   ],
   [
-    "to\n",
+    "to",
     "to",
     true
   ],
@@ -5870,8 +5766,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -5890,8 +5786,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -5915,7 +5811,7 @@
     true
   ],
   [
-    "A\n",
+    "A",
     "A",
     true
   ],
@@ -5990,7 +5886,7 @@
     true
   ],
   [
-    "be\n",
+    "be",
     "be",
     true
   ],
@@ -6060,7 +5956,7 @@
     true
   ],
   [
-    "I\n",
+    "I",
     "I",
     true
   ],
@@ -6140,7 +6036,7 @@
     true
   ],
   [
-    "but\n",
+    "but",
     "but",
     true
   ],
@@ -6155,8 +6051,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -6220,7 +6116,7 @@
     true
   ],
   [
-    "give\n",
+    "give",
     "give",
     true
   ],
@@ -6290,7 +6186,7 @@
     true
   ],
   [
-    "hant\n",
+    "hant",
     "haven't",
     true
   ],
@@ -6345,7 +6241,7 @@
     true
   ],
   [
-    "first",
+    "furst",
     "first",
     true
   ],
@@ -6375,7 +6271,7 @@
     true
   ],
   [
-    "is\n",
+    "is",
     "is",
     true
   ],
@@ -6389,13 +6285,9 @@
     "half",
     true
   ],
+
   [
-    "A",
-    "A",
-    true
-  ],
-  [
-    "Nuf",
+    "A Nuf",
     "enough",
     true
   ],
@@ -6440,12 +6332,12 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
-    "Nuses\n",
+    "Nuses",
     "Nurses",
     true
   ],
@@ -6515,7 +6407,7 @@
     true
   ],
   [
-    "dies\n",
+    "dies",
     "dies",
     true
   ],
@@ -6585,7 +6477,7 @@
     true
   ],
   [
-    "poor\n",
+    "poor",
     "poor",
     true
   ],
@@ -6655,7 +6547,7 @@
     true
   ],
   [
-    "foull\n",
+    "foull",
     "full",
     true
   ],
@@ -6715,13 +6607,13 @@
     true
   ],
   [
-    "present.\n",
-    "present.\n",
+    "present.",
+    "present.",
     true
   ],
   [
-    "\n",
-    "\n",
+    "",
+    "",
     true
   ],
   [
@@ -6795,7 +6687,7 @@
     true
   ],
   [
-    "by\n",
+    "by",
     "by",
     true
   ],
@@ -6875,7 +6767,7 @@
     true
   ],
   [
-    "man\n",
+    "man",
     "man",
     true
   ],
@@ -6955,7 +6847,7 @@
     true
   ],
   [
-    "your\n",
+    "your",
     "your",
     true
   ],
@@ -7040,7 +6932,7 @@
     true
   ],
   [
-    "in\n",
+    "in",
     "in",
     true
   ],
@@ -7105,8 +6997,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -7124,11 +7016,7 @@
     "Laughed",
     true
   ],
-  [
-    "and\n",
-    "and",
-    true
-  ],
+
   [
     "it",
     "it",
@@ -7205,12 +7093,12 @@
     true
   ],
   [
-    "fine\n",
+    "fine",
     "fine",
     true
   ],
   [
-    "fellow--I",
+    "felow--I",
     "fellow--I",
     true
   ],
@@ -7239,11 +7127,7 @@
     "if",
     true
   ],
-  [
-    "any",
-    "any",
-    true
-  ],
+
   [
     "bodey",
     "anybody",
@@ -7280,7 +7164,7 @@
     true
   ],
   [
-    "I\n",
+    "I",
     "I",
     true
   ],
@@ -7320,8 +7204,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -7335,8 +7219,8 @@
     true
   ],
   [
+    "&",
     "and",
-    "&",
     true
   ],
   [
@@ -7365,7 +7249,7 @@
     true
   ],
   [
-    "hounds\n",
+    "hounds",
     "hounds",
     true
   ],
@@ -7420,13 +7304,13 @@
     true
   ],
   [
-    "men\n",
+    "men",
     "men",
     true
   ],
   [
-    "\n",
-    "\n",
+    "",
+    "",
     true
   ],
   [
@@ -7720,18 +7604,18 @@
     true
   ],
   [
-    "DEXTER.\n",
-    "DEXTER.\n",
+    "DEXTER.",
+    "DEXTER.",
     true
   ],
   [
-    "\n",
-    "\n",
+    "",
+    "",
     true
   ],
   [
-    "\n",
-    "\n",
+    "",
+    "",
     true
   ],
   [
@@ -7805,7 +7689,7 @@
     true
   ],
   [
-    "fortin\n",
+    "fortin",
     "fortunw",
     true
   ],
@@ -7890,7 +7774,7 @@
     true
   ],
   [
-    "times\n",
+    "times",
     "times",
     true
   ],
@@ -7970,7 +7854,7 @@
     true
   ],
   [
-    "Lawyer\n",
+    "Lawyer",
     "Lawyer",
     true
   ],
@@ -8040,7 +7924,7 @@
     true
   ],
   [
-    "Dexter\n",
+    "Dexter",
     "Dexter",
     true
   ],
@@ -8115,7 +7999,7 @@
     true
   ],
   [
-    "plase\n",
+    "plase",
     "please",
     true
   ],
@@ -8135,7 +8019,7 @@
     true
   ],
   [
-    "fist",
+    "furst",
     "first",
     true
   ],
@@ -8175,7 +8059,7 @@
     true
   ],
   [
-    "broused\n",
+    "broused",
     "bruised",
     true
   ],
@@ -8240,7 +8124,7 @@
     true
   ],
   [
-    "sum\n",
+    "sum",
     "some",
     true
   ],
@@ -8325,7 +8209,7 @@
     true
   ],
   [
-    "my\n",
+    "my",
     "my",
     true
   ],
@@ -8410,18 +8294,14 @@
     true
   ],
   [
-    "Lost\n",
+    "Lost",
     "Lost",
     true
   ],
+
   [
-    "first",
-    "first",
-    true
-  ],
-  [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -8490,7 +8370,7 @@
     true
   ],
   [
-    "had\n",
+    "had",
     "had",
     true
   ],
@@ -8555,7 +8435,7 @@
     true
   ],
   [
-    "gone\n",
+    "gone",
     "gone",
     true
   ],
@@ -8625,7 +8505,7 @@
     true
   ],
   [
-    "seventeene\n",
+    "seventeene",
     "seventee",
     true
   ],
@@ -8685,7 +8565,7 @@
     true
   ],
   [
-    "sekkent\n",
+    "sekkent",
     "second",
     true
   ],
@@ -8740,7 +8620,7 @@
     true
   ],
   [
-    "or\n",
+    "or",
     "or",
     true
   ],
@@ -8820,7 +8700,7 @@
     true
   ],
   [
-    "sum\n",
+    "sum",
     "some",
     true
   ],
@@ -8895,7 +8775,7 @@
     true
   ],
   [
-    "dear\n",
+    "dear",
     "dear",
     true
   ],
@@ -8975,7 +8855,7 @@
     true
   ],
   [
-    "Littel\n",
+    "Littel",
     "Little",
     true
   ],
@@ -9055,7 +8935,7 @@
     true
   ],
   [
-    "24\n",
+    "24",
     "24",
     true
   ],
@@ -9130,7 +9010,7 @@
     true
   ],
   [
-    "in\n",
+    "in",
     "in",
     true
   ],
@@ -9195,7 +9075,7 @@
     true
   ],
   [
-    "Down\n",
+    "Down",
     "Down",
     true
   ],
@@ -9204,11 +9084,7 @@
     "smartly",
     true
   ],
-  [
-    "make",
-    "make",
-    true
-  ],
+
   [
     "the",
     "the",
@@ -9260,7 +9136,7 @@
     true
   ],
   [
-    "bread\n",
+    "bread",
     "bread",
     true
   ],
@@ -9329,16 +9205,8 @@
     "to",
     true
   ],
-  [
-    "Lie",
-    "Lie",
-    true
-  ],
-  [
-    "and\n",
-    "and",
-    true
-  ],
+
+
   [
     "Not",
     "Not",
@@ -9400,7 +9268,7 @@
     true
   ],
   [
-    "are\n",
+    "are",
     "are",
     true
   ],
@@ -9475,7 +9343,7 @@
     true
   ],
   [
-    "wars\n",
+    "wars",
     "wars",
     true
   ],
@@ -9560,7 +9428,7 @@
     true
   ],
   [
-    "bare\n",
+    "bare",
     "bear",
     true
   ],
@@ -9625,8 +9493,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -9635,7 +9503,7 @@
     true
   ],
   [
-    "worst\n",
+    "worst",
     "worst",
     true
   ],
@@ -9720,7 +9588,7 @@
     true
   ],
   [
-    "sum\n",
+    "sum",
     "some",
     true
   ],
@@ -9790,13 +9658,13 @@
     true
   ],
   [
-    "thing\n",
+    "thing",
     "thing",
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -9875,7 +9743,7 @@
     true
   ],
   [
-    "Lion\n",
+    "Lion",
     "Lion",
     true
   ],
@@ -9965,7 +9833,7 @@
     true
   ],
   [
-    "sum\n",
+    "sum",
     "some",
     true
   ],
@@ -10055,7 +9923,7 @@
     true
   ],
   [
-    "be\n",
+    "be",
     "be",
     true
   ],
@@ -10130,7 +9998,7 @@
     true
   ],
   [
-    "all\n",
+    "all",
     "all",
     true
   ],
@@ -10144,11 +10012,7 @@
     "hears",
     true
   ],
-  [
-    "old",
-    "old",
-    true
-  ],
+
   [
     "&",
     "&",
@@ -10210,7 +10074,7 @@
     true
   ],
   [
-    "Divel\n",
+    "Divel",
     "Devil",
     true
   ],
@@ -10275,7 +10139,7 @@
     true
   ],
   [
-    "hipacrits\n",
+    "hipacrits",
     "hypocrits",
     true
   ],
@@ -10299,11 +10163,7 @@
     "habits",
     true
   ],
-  [
-    "an",
-    "and",
-    true
-  ],
+
   [
     "Costom",
     "Custom",
@@ -10350,7 +10210,7 @@
     true
   ],
   [
-    "sees\n",
+    "sees",
     "see",
     true
   ],
@@ -10420,8 +10280,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -10430,7 +10290,7 @@
     true
   ],
   [
-    "in\n",
+    "in",
     "in",
     true
   ],
@@ -10510,7 +10370,7 @@
     true
   ],
   [
-    "us\n",
+    "us",
     "us",
     true
   ],
@@ -10595,7 +10455,7 @@
     true
   ],
   [
-    "are\n",
+    "are",
     "are",
     true
   ],
@@ -10659,11 +10519,7 @@
     "good",
     true
   ],
-  [
-    "children",
-    "children",
-    true
-  ],
+
   [
     "doue",
     "do",
@@ -10675,7 +10531,7 @@
     true
   ],
   [
-    "things\n",
+    "things",
     "things",
     true
   ],
@@ -10740,7 +10596,7 @@
     true
   ],
   [
-    "up\n",
+    "up",
     "up",
     true
   ],
@@ -10815,7 +10671,7 @@
     true
   ],
   [
-    "bad\n",
+    "bad",
     "bad",
     true
   ],
@@ -10895,7 +10751,7 @@
     true
   ],
   [
-    "pen\n",
+    "pen",
     "pen",
     true
   ],
@@ -10975,13 +10831,13 @@
     true
   ],
   [
-    "shop--------\n",
-    "shop--------\n",
+    "shop--------",
+    "shop--------",
     true
   ],
   [
-    "\n",
-    "\n",
+    "",
+    "",
     true
   ],
   [
@@ -11045,7 +10901,7 @@
     true
   ],
   [
-    "sundays\n",
+    "sundays",
     "sundays",
     true
   ],
@@ -11110,7 +10966,7 @@
     true
   ],
   [
-    "when\n",
+    "when",
     "when",
     true
   ],
@@ -11200,7 +11056,7 @@
     true
   ],
   [
-    "week\n",
+    "week",
     "week",
     true
   ],
@@ -11275,7 +11131,7 @@
     true
   ],
   [
-    "may\n",
+    "may",
     "may",
     true
   ],
@@ -11300,8 +11156,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -11345,7 +11201,7 @@
     true
   ],
   [
-    "foue\n",
+    "foue",
     "foul",
     true
   ],
@@ -11420,7 +11276,7 @@
     true
   ],
   [
-    "world\n",
+    "world",
     "world",
     true
   ],
@@ -11430,8 +11286,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -11505,7 +11361,7 @@
     true
   ],
   [
-    "a\n",
+    "a",
     "a",
     true
   ],
@@ -11524,16 +11380,7 @@
     "people",
     true
   ],
-  [
-    "A",
-    "A",
-    true
-  ],
-  [
-    "bout",
-    "about",
-    true
-  ],
+
   [
     "the",
     "the",
@@ -11575,7 +11422,7 @@
     true
   ],
   [
-    "in\n",
+    "in",
     "in",
     true
   ],
@@ -11650,7 +11497,7 @@
     true
   ],
   [
-    "I\n",
+    "I",
     "I",
     true
   ],
@@ -11740,7 +11587,7 @@
     true
   ],
   [
-    "the\n",
+    "the",
     "the",
     true
   ],
@@ -11785,8 +11632,13 @@
     true
   ],
   [
+    "minss",
     "minds",
-    "minds",
+    true
+  ],
+  [
+    "min",
+    "mind",
     true
   ],
   [
@@ -11815,8 +11667,8 @@
     true
   ],
   [
-    "&\n",
-    "&\n",
+    "&",
+    "&",
     true
   ],
   [
@@ -11875,7 +11727,7 @@
     true
   ],
   [
-    "boddeys\n",
+    "boddeys",
     "bodies",
     true
   ],
@@ -11930,8 +11782,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -11945,13 +11797,13 @@
     true
   ],
   [
-    "father\n",
+    "father",
     "father",
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -11959,16 +11811,8 @@
     "six",
     true
   ],
-  [
-    "children",
-    "children",
-    true
-  ],
-  [
-    "how",
-    "how",
-    true
-  ],
+
+
   [
     "thay",
     "they",
@@ -12000,8 +11844,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -12010,7 +11854,7 @@
     true
   ],
   [
-    "sum\n",
+    "sum",
     "some",
     true
   ],
@@ -12085,7 +11929,7 @@
     true
   ],
   [
-    "figers\n",
+    "figers",
     "fingers",
     true
   ],
@@ -12119,11 +11963,7 @@
     "it",
     true
   ],
-  [
-    "first",
-    "first",
-    true
-  ],
+
   [
     "going",
     "going",
@@ -12145,6 +11985,11 @@
     true
   ],
   [
+    "briges",
+    "bridges",
+    true
+  ],
+  [
     "sum",
     "some",
     true
@@ -12155,7 +12000,7 @@
     true
   ],
   [
-    "tole\n",
+    "tole",
     "toll",
     true
   ],
@@ -12215,7 +12060,7 @@
     true
   ],
   [
-    "costom\n",
+    "costom",
     "custom",
     true
   ],
@@ -12255,13 +12100,13 @@
     true
   ],
   [
-    "self.\n",
-    "self.\n",
+    "self.",
+    "self.",
     true
   ],
   [
-    "\n",
-    "\n",
+    "",
+    "",
     true
   ],
   [
@@ -12555,18 +12400,18 @@
     true
   ],
   [
-    "DEXTER.\n",
-    "DEXTER.\n",
+    "DEXTER.",
+    "DEXTER.",
     true
   ],
   [
-    "\n",
-    "\n",
+    "",
+    "",
     true
   ],
   [
-    "\n",
-    "\n",
+    "",
+    "",
     true
   ],
   [
@@ -12625,7 +12470,7 @@
     true
   ],
   [
-    "Resined\n",
+    "Resined",
     "Refined",
     true
   ],
@@ -12710,7 +12555,7 @@
     true
   ],
   [
-    "I\n",
+    "I",
     "I",
     true
   ],
@@ -12730,6 +12575,11 @@
     true
   ],
   [
+    "hart",
+    "heart",
+    true
+  ],
+  [
     "would",
     "would",
     true
@@ -12785,7 +12635,7 @@
     true
   ],
   [
-    "time\n",
+    "time",
     "time",
     true
   ],
@@ -12865,7 +12715,7 @@
     true
   ],
   [
-    "hur\n",
+    "hur",
     "her",
     true
   ],
@@ -12920,7 +12770,7 @@
     true
   ],
   [
-    "after\n",
+    "after",
     "after",
     true
   ],
@@ -12950,8 +12800,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -12962,6 +12812,11 @@
   [
     "sins",
     "sins",
+    true
+  ],
+  [
+    "wate",
+    "wait",
     true
   ],
   [
@@ -13005,7 +12860,7 @@
     true
   ],
   [
-    "Let\n",
+    "Let",
     "Let",
     true
   ],
@@ -13025,8 +12880,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -13085,7 +12940,7 @@
     true
   ],
   [
-    "praying\n",
+    "praying",
     "praying",
     true
   ],
@@ -13100,8 +12955,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -13130,8 +12985,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -13155,7 +13010,7 @@
     true
   ],
   [
-    "poour\n",
+    "poour",
     "poor",
     true
   ],
@@ -13230,7 +13085,7 @@
     true
   ],
   [
-    "saved\n",
+    "saved",
     "saved",
     true
   ],
@@ -13259,11 +13114,7 @@
     "sinned",
     true
   ],
-  [
-    "against",
-    "against",
-    true
-  ],
+
   [
     "the",
     "the",
@@ -13294,18 +13145,14 @@
     "Asked",
     true
   ],
-  [
-    "her",
-    "her",
-    true
-  ],
+
   [
     "what",
     "what",
     true
   ],
   [
-    "is\n",
+    "is",
     "is",
     true
   ],
@@ -13380,7 +13227,7 @@
     true
   ],
   [
-    "coms\n",
+    "coms",
     "comes",
     true
   ],
@@ -13455,7 +13302,7 @@
     true
   ],
   [
-    "the\n",
+    "the",
     "the",
     true
   ],
@@ -13525,7 +13372,7 @@
     true
   ],
   [
-    "Ever\n",
+    "Ever",
     "Ever",
     true
   ],
@@ -13590,7 +13437,7 @@
     true
   ],
   [
-    "things\n",
+    "things",
     "things",
     true
   ],
@@ -13645,16 +13492,11 @@
     true
   ],
   [
-    "du\n",
+    "du",
     "do",
     true
   ],
   [
-    "\n",
-    "\n",
-    true
-  ],
-  [
     "",
     "",
     true
@@ -13662,36 +13504,6 @@
   [
     "",
     "",
-    true
-  ],
-  [
-    "",
-    "",
-    true
-  ],
-  [
-    "",
-    "",
-    true
-  ],
-  [
-    "",
-    "",
-    true
-  ],
-  [
-    "",
-    "",
-    true
-  ],
-  [
-    "",
-    "",
-    true
-  ],
-  [
-    "*",
-    "*",
     true
   ],
   [
@@ -13830,18 +13642,53 @@
     true
   ],
   [
-    "*\n",
-    "*\n",
+    "*",
+    "*",
     true
   ],
   [
-    "\n",
-    "\n",
+    "",
+    "",
     true
   ],
   [
-    "\n",
-    "\n",
+    "",
+    "",
+    true
+  ],
+  [
+    "",
+    "",
+    true
+  ],
+  [
+    "",
+    "",
+    true
+  ],
+  [
+    "",
+    "",
+    true
+  ],
+  [
+    "",
+    "",
+    true
+  ],
+  [
+    "*",
+    "*",
+    true
+  ],
+  [
+    "",
+    "",
+    true
+  ],
+  [
+    "",
+    "",
     true
   ],
   [
@@ -13900,8 +13747,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -13910,7 +13757,7 @@
     true
   ],
   [
-    "monts\n",
+    "monts",
     "months",
     true
   ],
@@ -13975,7 +13822,7 @@
     true
   ],
   [
-    "doue\n",
+    "doue",
     "due",
     true
   ],
@@ -14055,7 +13902,7 @@
     true
   ],
   [
-    "houeman\n",
+    "houeman",
     "human",
     true
   ],
@@ -14135,7 +13982,7 @@
     true
   ],
   [
-    "thous\n",
+    "thous",
     "those",
     true
   ],
@@ -14205,7 +14052,7 @@
     true
   ],
   [
-    "out\n",
+    "out",
     "out",
     true
   ],
@@ -14275,7 +14122,7 @@
     true
   ],
   [
-    "up\n",
+    "up",
     "up",
     true
   ],
@@ -14344,13 +14191,9 @@
     "years",
     true
   ],
+
   [
-    "old",
-    "old",
-    true
-  ],
-  [
-    "all\n",
+    "all",
     "all",
     true
   ],
@@ -14365,8 +14208,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -14415,8 +14258,8 @@
     true
   ],
   [
-    "&\n",
-    "&\n",
+    "&",
+    "&",
     true
   ],
   [
@@ -14485,7 +14328,7 @@
     true
   ],
   [
-    "houndred\n",
+    "houndred",
     "hundred",
     true
   ],
@@ -14545,8 +14388,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -14555,7 +14398,7 @@
     true
   ],
   [
-    "to\n",
+    "to",
     "to",
     true
   ],
@@ -14614,13 +14457,9 @@
     "good",
     true
   ],
+
   [
-    "common",
-    "common",
-    true
-  ],
-  [
-    "Laning\n",
+    "Laning",
     "Learning",
     true
   ],
@@ -14695,7 +14534,7 @@
     true
   ],
   [
-    "be\n",
+    "be",
     "be",
     true
   ],
@@ -14770,7 +14609,7 @@
     true
   ],
   [
-    "Let\n",
+    "Let",
     "Let",
     true
   ],
@@ -14840,16 +14679,11 @@
     true
   ],
   [
-    "man\n",
+    "man",
     "man",
     true
   ],
   [
-    "\n",
-    "\n",
-    true
-  ],
-  [
     "",
     "",
     true
@@ -15170,23 +15004,24 @@
     true
   ],
   [
-    "T",
-    "TO",
+    "",
+    "",
     true
   ],
+
   [
-    "DEXTER\n",
+    "DEXTER",
     "DEXTER",
     true
   ],
   [
-    "\n",
-    "\n",
+    "",
+    "",
     true
   ],
   [
-    "\n",
-    "\n",
+    "",
+    "",
     true
   ],
   [
@@ -15260,7 +15095,7 @@
     true
   ],
   [
-    "I\n",
+    "I",
     "I",
     true
   ],
@@ -15325,7 +15160,7 @@
     true
   ],
   [
-    "fineshing\n",
+    "fineshing",
     "finishing",
     true
   ],
@@ -15400,7 +15235,7 @@
     true
   ],
   [
-    "hints\n",
+    "hints",
     "hints",
     true
   ],
@@ -15420,8 +15255,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -15485,7 +15320,7 @@
     true
   ],
   [
-    "down\n",
+    "down",
     "down",
     true
   ],
@@ -15515,7 +15350,7 @@
     true
   ],
   [
-    "worme",
+    "wors",
     "worse",
     true
   ],
@@ -15565,7 +15400,7 @@
     true
   ],
   [
-    "fire\n",
+    "fire",
     "fire",
     true
   ],
@@ -15600,8 +15435,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -15634,13 +15469,9 @@
     "&",
     true
   ],
+
   [
-    "blow",
-    "blow",
-    true
-  ],
-  [
-    "the\n",
+    "the",
     "the",
     true
   ],
@@ -15669,11 +15500,7 @@
     "the",
     true
   ],
-  [
-    "old",
-    "old",
-    true
-  ],
+
   [
     "souls",
     "souls",
@@ -15720,7 +15547,7 @@
     true
   ],
   [
-    "my\n",
+    "my",
     "my",
     true
   ],
@@ -15730,8 +15557,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -15795,7 +15622,7 @@
     true
   ],
   [
-    "the\n",
+    "the",
     "the",
     true
   ],
@@ -15875,7 +15702,7 @@
     true
   ],
   [
-    "them\n",
+    "them",
     "them",
     true
   ],
@@ -15950,7 +15777,7 @@
     true
   ],
   [
-    "things\n",
+    "things",
     "things",
     true
   ],
@@ -15975,16 +15802,11 @@
     true
   ],
   [
-    "Amen\n",
+    "Amen",
     "Amen",
     true
   ],
   [
-    "\n",
-    "\n",
-    true
-  ],
-  [
     "",
     "",
     true
@@ -16320,23 +16142,24 @@
     true
   ],
   [
-    "T",
-    "TO",
+    "",
+    "",
     true
   ],
+
   [
-    "D'r\n",
-    "D'r\n",
+    "D'r",
+    "D'r",
     true
   ],
   [
-    "\n",
-    "\n",
+    "",
+    "",
     true
   ],
   [
-    "\n",
-    "\n",
+    "",
+    "",
     true
   ],
   [
@@ -16405,7 +16228,7 @@
     true
   ],
   [
-    "two\n",
+    "two",
     "two",
     true
   ],
@@ -16485,7 +16308,7 @@
     true
   ],
   [
-    "consumson\n",
+    "consumson",
     "consumption",
     true
   ],
@@ -16550,7 +16373,7 @@
     true
   ],
   [
-    "woman\n",
+    "woman",
     "woman",
     true
   ],
@@ -16630,7 +16453,7 @@
     true
   ],
   [
-    "see\n",
+    "see",
     "see",
     true
   ],
@@ -16665,8 +16488,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -16700,8 +16523,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -16715,7 +16538,7 @@
     true
   ],
   [
-    "all\n",
+    "all",
     "all",
     true
   ],
@@ -16725,8 +16548,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -16750,8 +16573,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -16775,8 +16598,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -16790,7 +16613,7 @@
     true
   ],
   [
-    "well\n",
+    "well",
     "well",
     true
   ],
@@ -16860,17 +16683,13 @@
     true
   ],
   [
-    "com\n",
+    "com",
     "come",
     true
   ],
+
   [
-    "A",
-    "A",
-    true
-  ],
-  [
-    "gane",
+    "A gane",
     "again",
     true
   ],
@@ -16885,18 +16704,18 @@
     true
   ],
   [
-    "while\n",
+    "while",
     "while",
     true
   ],
   [
-    "\n",
-    "\n",
+    "",
+    "",
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -16955,7 +16774,7 @@
     true
   ],
   [
-    "then\n",
+    "then",
     "then",
     true
   ],
@@ -17004,16 +16823,8 @@
     "to",
     true
   ],
-  [
-    "make",
-    "make",
-    true
-  ],
-  [
-    "old",
-    "old",
-    true
-  ],
+
+
   [
     "women",
     "women",
@@ -17024,36 +16835,24 @@
     "grunt",
     true
   ],
-  [
-    "and\n",
-    "and",
-    true
-  ],
+
   [
     "yong",
     "young",
     true
   ],
-  [
-    "children",
-    "children",
-    true
-  ],
+
   [
     "cry",
     "cry",
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
-  [
-    "old",
-    "old",
-    true
-  ],
+
   [
     "fouls",
     "fowls",
@@ -17080,8 +16879,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -17095,7 +16894,7 @@
     true
   ],
   [
-    "farimeys\n",
+    "farimeys",
     "families",
     true
   ],
@@ -17120,8 +16919,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -17169,13 +16968,9 @@
     "Live",
     true
   ],
+
   [
-    "old",
-    "old",
-    true
-  ],
-  [
-    "me\n",
+    "me",
     "me",
     true
   ],
@@ -17244,11 +17039,7 @@
     "plenty",
     true
   ],
-  [
-    "and\n",
-    "and",
-    true
-  ],
+
   [
     "if",
     "if",
@@ -17319,11 +17110,7 @@
     "Nicholas",
     true
   ],
-  [
-    "and\n",
-    "and",
-    true
-  ],
+
   [
     "all",
     "all",
@@ -17379,11 +17166,7 @@
     "be",
     true
   ],
-  [
-    "any",
-    "any",
-    true
-  ],
+
   [
     "such",
     "such",
@@ -17400,7 +17183,7 @@
     true
   ],
   [
-    "the\n",
+    "the",
     "the",
     true
   ],
@@ -17465,7 +17248,7 @@
     true
   ],
   [
-    "but\n",
+    "but",
     "but",
     true
   ],
@@ -17484,11 +17267,7 @@
     "is",
     true
   ],
-  [
-    "any",
-    "any",
-    true
-  ],
+
   [
     "put",
     "put",
@@ -17545,7 +17324,7 @@
     true
   ],
   [
-    "or\n",
+    "or",
     "or",
     true
   ],
@@ -17579,11 +17358,7 @@
     "filth",
     true
   ],
-  [
-    "go",
-    "go",
-    true
-  ],
+
   [
     "by",
     "by",
@@ -17605,8 +17380,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -17620,7 +17395,7 @@
     true
   ],
   [
-    "tourd\n",
+    "tourd",
     "toward",
     true
   ],
@@ -17690,7 +17465,7 @@
     true
   ],
   [
-    "houe\n",
+    "houe",
     "home",
     true
   ],
@@ -17770,7 +17545,7 @@
     true
   ],
   [
-    "Crows\n",
+    "Crows",
     "Crow's",
     true
   ],
@@ -17845,7 +17620,7 @@
     true
   ],
   [
-    "sum\n",
+    "sum",
     "some",
     true
   ],
@@ -17915,7 +17690,7 @@
     true
   ],
   [
-    "was\n",
+    "was",
     "was",
     true
   ],
@@ -17990,7 +17765,7 @@
     true
   ],
   [
-    "Crows\n",
+    "Crows",
     "Crow's",
     true
   ],
@@ -18015,28 +17790,28 @@
     true
   ],
   [
-    "Down\n",
+    "Down",
     "Down",
     true
   ],
   [
-    "\n",
-    "\n",
+    "",
+    "",
     true
   ],
   [
-    "\n",
-    "\n",
+    "",
+    "",
     true
   ],
   [
-    "\n",
-    "\n",
+    "",
+    "",
     true
   ],
   [
-    "\n",
-    "\n",
+    "",
+    "",
     true
   ],
   [
@@ -18050,18 +17825,18 @@
     true
   ],
   [
-    "MUSEUM",
+    "MOUSEUM",
     "MUSEUM",
     true
   ],
   [
-    "OF\n",
+    "OF",
     "OF",
     true
   ],
   [
-    "\n",
-    "\n",
+    "",
+    "",
     true
   ],
   [
@@ -18075,18 +17850,18 @@
     true
   ],
   [
-    "ESQ.\n",
-    "ESQ.\n",
+    "ESQ.",
+    "ESQ.",
     true
   ],
   [
-    "\n",
-    "\n",
+    "",
+    "",
     true
   ],
   [
-    "\n",
-    "\n",
+    "",
+    "",
     true
   ],
   [
@@ -18099,11 +17874,7 @@
     "the",
     true
   ],
-  [
-    "first",
-    "first",
-    true
-  ],
+
   [
     "Lord",
     "Lord",
@@ -18155,7 +17926,7 @@
     true
   ],
   [
-    "Newburyport\n",
+    "Newburyport",
     "Newburyport",
     true
   ],
@@ -18195,8 +17966,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -18220,8 +17991,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -18250,7 +18021,7 @@
     true
   ],
   [
-    "as\n",
+    "as",
     "as",
     true
   ],
@@ -18290,6 +18061,11 @@
     true
   ],
   [
+    "follering",
+    "following",
+    true
+  ],
+  [
     "many",
     "many",
     true
@@ -18325,7 +18101,7 @@
     true
   ],
   [
-    "Dont\n",
+    "Dont",
     "Don't",
     true
   ],
@@ -18410,7 +18186,7 @@
     true
   ],
   [
-    "goue\n",
+    "goue",
     "gone",
     true
   ],
@@ -18500,7 +18276,7 @@
     true
   ],
   [
-    "to\n",
+    "to",
     "to",
     true
   ],
@@ -18560,7 +18336,7 @@
     true
   ],
   [
-    "Washington\n",
+    "Washington",
     "Washington",
     true
   ],
@@ -18635,18 +18411,14 @@
     true
   ],
   [
-    "his\n",
+    "his",
     "his",
     true
   ],
+
   [
-    "children",
-    "children",
-    true
-  ],
-  [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -18710,12 +18482,12 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
-    "grate\n",
+    "grate",
     "great",
     true
   ],
@@ -18790,7 +18562,7 @@
     true
   ],
   [
-    "in\n",
+    "in",
     "in",
     true
   ],
@@ -18870,7 +18642,7 @@
     true
   ],
   [
-    "on\n",
+    "on",
     "on",
     true
   ],
@@ -18940,7 +18712,7 @@
     true
   ],
   [
-    "good\n",
+    "good",
     "good",
     true
   ],
@@ -19025,7 +18797,7 @@
     true
   ],
   [
-    "has\n",
+    "has",
     "has",
     true
   ],
@@ -19089,18 +18861,14 @@
     "Not",
     true
   ],
-  [
-    "old",
-    "old",
-    true
-  ],
+
   [
     "plimeth",
     "Plymouth",
     true
   ],
   [
-    "but\n",
+    "but",
     "but",
     true
   ],
@@ -19160,8 +18928,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -19180,7 +18948,7 @@
     true
   ],
   [
-    "we\n",
+    "we",
     "we",
     true
   ],
@@ -19224,11 +18992,7 @@
     "the",
     true
   ],
-  [
-    "first",
-    "first",
-    true
-  ],
+
   [
     "plase",
     "please",
@@ -19246,7 +19010,7 @@
     true
   ],
   [
-    "foude\n",
+    "foude",
     "food",
     true
   ],
@@ -19275,11 +19039,7 @@
     "to",
     true
   ],
-  [
-    "make",
-    "make",
-    true
-  ],
+
   [
     "out",
     "out",
@@ -19321,7 +19081,7 @@
     true
   ],
   [
-    "defend\n",
+    "defend",
     "defend",
     true
   ],
@@ -19336,8 +19096,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -19391,7 +19151,7 @@
     true
   ],
   [
-    "which\n",
+    "which",
     "which",
     true
   ],
@@ -19466,7 +19226,7 @@
     true
   ],
   [
-    "if\n",
+    "if",
     "if",
     true
   ],
@@ -19496,8 +19256,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -19531,7 +19291,7 @@
     true
   ],
   [
-    "Newburyport\n",
+    "Newburyport",
     "Newburyport",
     true
   ],
@@ -19591,12 +19351,12 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
-    "the\n",
+    "the",
     "the",
     true
   ],
@@ -19676,7 +19436,7 @@
     true
   ],
   [
-    "grat\n",
+    "grat",
     "great",
     true
   ],
@@ -19740,11 +19500,7 @@
     "16",
     true
   ],
-  [
-    "and\n",
-    "and",
-    true
-  ],
+
   [
     "then",
     "then",
@@ -19776,8 +19532,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -19796,8 +19552,8 @@
     true
   ],
   [
-    "biddey--I\n",
-    "biddey--I\n",
+    "biddey--I",
+    "biddey--I",
     true
   ],
   [
@@ -19811,8 +19567,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -19836,8 +19592,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -19861,12 +19617,12 @@
     true
   ],
   [
-    "to\n",
+    "to",
     "to",
     true
   ],
   [
-    "gether",
+    "To gether",
     "together",
     true
   ],
@@ -19936,7 +19692,7 @@
     true
   ],
   [
-    "the\n",
+    "the",
     "the",
     true
   ],
@@ -20016,15 +19772,11 @@
     true
   ],
   [
-    "if\n",
+    "if",
     "if",
     true
   ],
-  [
-    "any",
-    "any",
-    true
-  ],
+
   [
     "Despout",
     "Despot",
@@ -20065,11 +19817,7 @@
     "or",
     true
   ],
-  [
-    "Any",
-    "Any",
-    true
-  ],
+
   [
     "maturs",
     "matters",
@@ -20086,7 +19834,7 @@
     true
   ],
   [
-    "it\n",
+    "it",
     "it",
     true
   ],
@@ -20106,8 +19854,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -20121,8 +19869,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -20151,7 +19899,7 @@
     true
   ],
   [
-    "Congress\n",
+    "Congress",
     "Congress",
     true
   ],
@@ -20216,8 +19964,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -20226,7 +19974,7 @@
     true
   ],
   [
-    "may\n",
+    "may",
     "may",
     true
   ],
@@ -20261,8 +20009,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -20301,7 +20049,7 @@
     true
   ],
   [
-    "fore\n",
+    "fore",
     "fore",
     true
   ],
@@ -20391,7 +20139,7 @@
     true
   ],
   [
-    "three\n",
+    "three",
     "three",
     true
   ],
@@ -20456,8 +20204,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -20466,7 +20214,7 @@
     true
   ],
   [
-    "Carry\n",
+    "Carry",
     "Carry",
     true
   ],
@@ -20491,7 +20239,7 @@
     true
   ],
   [
-    "Any",
+    "Aney",
     "Any",
     true
   ],
@@ -20536,7 +20284,7 @@
     true
   ],
   [
-    "your\n",
+    "your",
     "your",
     true
   ],
@@ -20546,8 +20294,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -20611,7 +20359,7 @@
     true
   ],
   [
-    "Creter\n",
+    "Creter",
     "Creature",
     true
   ],
@@ -20686,7 +20434,7 @@
     true
   ],
   [
-    "scare\n",
+    "scare",
     "scare",
     true
   ],
@@ -20761,7 +20509,7 @@
     true
   ],
   [
-    "to\n",
+    "to",
     "to",
     true
   ],
@@ -20845,11 +20593,7 @@
     "the",
     true
   ],
-  [
-    "bull\n",
-    "bull",
-    true
-  ],
+
   [
     "for",
     "for",
@@ -20921,15 +20665,11 @@
     true
   ],
   [
-    "Soloman\n",
+    "Soloman",
     "Solomon",
     true
   ],
-  [
-    "Looking",
-    "Looking",
-    true
-  ],
+
   [
     "with",
     "with",
@@ -20991,7 +20731,7 @@
     true
   ],
   [
-    "ods\n",
+    "ods",
     "odds",
     true
   ],
@@ -21066,7 +20806,7 @@
     true
   ],
   [
-    "Devel\n",
+    "Devel",
     "devil",
     true
   ],
@@ -21111,8 +20851,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -21141,7 +20881,7 @@
     true
   ],
   [
-    "your\n",
+    "your",
     "your",
     true
   ],
@@ -21166,8 +20906,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -21211,7 +20951,7 @@
     true
   ],
   [
-    "Devilif\n",
+    "Devilif",
     "Devil",
     true
   ],
@@ -21240,11 +20980,7 @@
     "old",
     true
   ],
-  [
-    "fellow",
-    "fellow",
-    true
-  ],
+
   [
     "but",
     "but",
@@ -21286,13 +21022,13 @@
     true
   ],
   [
-    "Devel\n",
+    "Devel",
     "devil",
     true
   ],
   [
-    "\n",
-    "\n",
+    "",
+    "",
     true
   ],
   [
@@ -21346,8 +21082,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -21371,7 +21107,7 @@
     true
   ],
   [
-    "you\n",
+    "you",
     "you",
     true
   ],
@@ -21446,7 +21182,7 @@
     true
   ],
   [
-    "know\n",
+    "know",
     "know",
     true
   ],
@@ -21456,8 +21192,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -21496,8 +21232,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -21526,7 +21262,7 @@
     true
   ],
   [
-    "to\n",
+    "to",
     "to",
     true
   ],
@@ -21611,7 +21347,7 @@
     true
   ],
   [
-    "you\n",
+    "you",
     "you",
     true
   ],
@@ -21691,7 +21427,7 @@
     true
   ],
   [
-    "to\n",
+    "to",
     "to",
     true
   ],
@@ -21761,7 +21497,7 @@
     true
   ],
   [
-    "younited\n",
+    "younited",
     "united",
     true
   ],
@@ -21836,7 +21572,7 @@
     true
   ],
   [
-    "by\n",
+    "by",
     "by",
     true
   ],
@@ -21901,13 +21637,13 @@
     true
   ],
   [
-    "kind------\n",
-    "kind------\n",
+    "kind------",
+    "kind------",
     true
   ],
   [
-    "\n",
-    "\n",
+    "",
+    "",
     true
   ],
   [
@@ -21925,11 +21661,7 @@
     "to",
     true
   ],
-  [
-    "make",
-    "make",
-    true
-  ],
+
   [
     "my",
     "my",
@@ -21990,11 +21722,7 @@
     "pudding",
     true
   ],
-  [
-    "and\n",
-    "and",
-    true
-  ],
+
   [
     "goue",
     "went",
@@ -22006,8 +21734,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -22061,7 +21789,7 @@
     true
   ],
   [
-    "gilty\n",
+    "gilty",
     "guilty",
     true
   ],
@@ -22131,7 +21859,7 @@
     true
   ],
   [
-    "backker\n",
+    "backker",
     "backer",
     true
   ],
@@ -22185,13 +21913,9 @@
     "scowls",
     true
   ],
+
   [
-    "A",
-    "A",
-    true
-  ],
-  [
-    "bout",
+    "A bout",
     "about",
     true
   ],
@@ -22201,7 +21925,7 @@
     true
   ],
   [
-    "spit\n",
+    "spit",
     "spit",
     true
   ],
@@ -22276,7 +22000,7 @@
     true
   ],
   [
-    "should\n",
+    "should",
     "should",
     true
   ],
@@ -22295,11 +22019,7 @@
     "therefore",
     true
   ],
-  [
-    "make",
-    "make",
-    true
-  ],
+
   [
     "sum",
     "some",
@@ -22346,7 +22066,7 @@
     true
   ],
   [
-    "ouely\n",
+    "ouely",
     "only",
     true
   ],
@@ -22371,8 +22091,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -22391,8 +22111,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -22405,11 +22125,7 @@
     "is",
     true
   ],
-  [
-    "salt",
-    "salt",
-    true
-  ],
+
   [
     "water",
     "water",
@@ -22426,7 +22142,7 @@
     true
   ],
   [
-    "A\n",
+    "A",
     "A",
     true
   ],
@@ -22456,8 +22172,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -22481,8 +22197,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -22506,7 +22222,7 @@
     true
   ],
   [
-    "black\n",
+    "black",
     "black",
     true
   ],
@@ -22541,15 +22257,11 @@
     true
   ],
   [
-    "bram",
+    "bram ston",
     "brimstone",
     true
   ],
-  [
-    "stone",
-    "stone",
-    true
-  ],
+
   [
     "by",
     "by",
@@ -22581,7 +22293,7 @@
     true
   ],
   [
-    "goue\n",
+    "goue",
     "gone",
     true
   ],
@@ -22600,11 +22312,7 @@
     "Darkness",
     true
   ],
-  [
-    "an",
-    "and",
-    true
-  ],
+
   [
     "takeld",
     "took",
@@ -22656,7 +22364,7 @@
     true
   ],
   [
-    "this\n",
+    "this",
     "this",
     true
   ],
@@ -22741,8 +22449,18 @@
     true
   ],
   [
-    "I\n",
     "I",
+    "I",
+    true
+  ],
+  [
+    "pease",
+    "piece",
+    true
+  ],
+  [
+    "peases",
+    "pieces",
     true
   ],
   [
@@ -22811,7 +22529,7 @@
     true
   ],
   [
-    "to\n",
+    "to",
     "to",
     true
   ],
@@ -22906,7 +22624,7 @@
     true
   ],
   [
-    "mr\n",
+    "mr",
     "or",
     true
   ],
@@ -22931,8 +22649,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -22981,16 +22699,11 @@
     true
   ],
   [
-    "Not\n",
+    "Not",
     "Not",
     true
   ],
   [
-    "\n",
-    "\n",
-    true
-  ],
-  [
     "",
     "",
     true
@@ -23311,33 +23024,34 @@
     true
   ],
   [
-    "T",
-    "TO",
+    "",
+    "",
     true
   ],
+
   [
-    "DEXTER\n",
+    "DEXTER",
     "DEXTER",
     true
   ],
   [
-    "\n",
-    "\n",
+    "",
+    "",
     true
   ],
   [
-    "\n",
-    "\n",
+    "",
+    "",
     true
   ],
   [
-    "\n",
-    "\n",
+    "",
+    "",
     true
   ],
   [
-    "\n",
-    "\n",
+    "",
+    "",
     true
   ],
   [
@@ -23351,13 +23065,13 @@
     true
   ],
   [
-    "GREETING\n",
+    "GREETING",
     "GREETING",
     true
   ],
   [
-    "\n",
-    "\n",
+    "",
+    "",
     true
   ],
   [
@@ -23431,7 +23145,7 @@
     true
   ],
   [
-    "thay\n",
+    "thay",
     "they",
     true
   ],
@@ -23501,7 +23215,7 @@
     true
   ],
   [
-    "Igrent\n",
+    "Igrent",
     "ignorant",
     true
   ],
@@ -23526,8 +23240,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -23546,8 +23260,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -23576,7 +23290,7 @@
     true
   ],
   [
-    "Liers\n",
+    "Liers",
     "Liars",
     true
   ],
@@ -23611,8 +23325,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -23651,7 +23365,7 @@
     true
   ],
   [
-    "sum\n",
+    "sum",
     "some",
     true
   ],
@@ -23726,7 +23440,7 @@
     true
   ],
   [
-    "soone\n",
+    "soone",
     "soon",
     true
   ],
@@ -23776,8 +23490,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -23806,7 +23520,7 @@
     true
   ],
   [
-    "to\n",
+    "to",
     "to",
     true
   ],
@@ -23861,8 +23575,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -23871,7 +23585,7 @@
     true
   ],
   [
-    "more\n",
+    "more",
     "more",
     true
   ],
@@ -23921,8 +23635,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -23946,7 +23660,7 @@
     true
   ],
   [
-    "in\n",
+    "in",
     "in",
     true
   ],
@@ -24021,7 +23735,7 @@
     true
   ],
   [
-    "beaten\n",
+    "beaten",
     "beaten",
     true
   ],
@@ -24096,7 +23810,7 @@
     true
   ],
   [
-    "Lawyer\n",
+    "Lawyer",
     "Lawyer",
     true
   ],
@@ -24171,7 +23885,12 @@
     true
   ],
   [
-    "of\n",
+    "Axxons",
+    "Actions",
+    true
+  ],
+  [
+    "of",
     "of",
     true
   ],
@@ -24201,8 +23920,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -24236,15 +23955,11 @@
     true
   ],
   [
-    "house\n",
+    "house",
     "house",
     true
   ],
-  [
-    "sun",
-    "sun",
-    true
-  ],
+
   [
     "fanting",
     "fainting",
@@ -24271,8 +23986,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -24301,12 +24016,12 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
-    "blind\n",
+    "blind",
     "blind",
     true
   ],
@@ -24381,7 +24096,7 @@
     true
   ],
   [
-    "part\n",
+    "part",
     "part",
     true
   ],
@@ -24461,12 +24176,12 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
-    "A\n",
+    "A",
     "A",
     true
   ],
@@ -24476,8 +24191,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -24536,7 +24251,7 @@
     true
   ],
   [
-    "Rogs\n",
+    "Rogs",
     "rouges",
     true
   ],
@@ -24555,11 +24270,7 @@
     "is",
     true
   ],
-  [
-    "Any",
-    "Any",
-    true
-  ],
+
   [
     "that",
     "that",
@@ -24586,8 +24297,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -24615,16 +24326,7 @@
     "me",
     true
   ],
-  [
-    "A",
-    "A",
-    true
-  ],
-  [
-    "bout\n",
-    "about",
-    true
-  ],
+
   [
     "my",
     "my",
@@ -24680,11 +24382,7 @@
     "to",
     true
   ],
-  [
-    "make",
-    "make",
-    true
-  ],
+
   [
     "up",
     "up",
@@ -24701,7 +24399,7 @@
     true
   ],
   [
-    "Calf\n",
+    "Calf",
     "Calf",
     true
   ],
@@ -24725,13 +24423,9 @@
     "Not",
     true
   ],
+
   [
-    "an",
-    "and",
-    true
-  ],
-  [
-    "Ox",
+    "Off",
     "Of",
     true
   ],
@@ -24776,8 +24470,8 @@
     true
   ],
   [
-    "_Hundred\n",
-    "_Hundred\n",
+    "_Hundred",
+    "_Hundred",
     true
   ],
   [
@@ -24856,7 +24550,7 @@
     true
   ],
   [
-    "the\n",
+    "the",
     "the",
     true
   ],
@@ -24906,8 +24600,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -24921,7 +24615,7 @@
     true
   ],
   [
-    "pease\n",
+    "pease",
     "peace",
     true
   ],
@@ -24986,13 +24680,13 @@
     true
   ],
   [
-    "Coming----\n",
-    "Coming----\n",
+    "Coming----",
+    "Coming----",
     true
   ],
   [
-    "\n",
-    "\n",
+    "",
+    "",
     true
   ],
   [
@@ -25011,13 +24705,13 @@
     true
   ],
   [
-    "1796._\n",
-    "1796._\n",
+    "1796._",
+    "1796._",
     true
   ],
   [
-    "\n",
-    "\n",
+    "",
+    "",
     true
   ],
   [
@@ -25316,21 +25010,11 @@
     true
   ],
   [
-    "DEXTER\n",
+    "DEXTER",
     "DEXTER",
     true
   ],
   [
-    "\n",
-    "\n",
-    true
-  ],
-  [
-    "\n",
-    "\n",
-    true
-  ],
-  [
     "",
     "",
     true
@@ -25343,31 +25027,6 @@
   [
     "",
     "",
-    true
-  ],
-  [
-    "",
-    "",
-    true
-  ],
-  [
-    "",
-    "",
-    true
-  ],
-  [
-    "",
-    "",
-    true
-  ],
-  [
-    "",
-    "",
-    true
-  ],
-  [
-    "*",
-    "*",
     true
   ],
   [
@@ -25506,18 +25165,53 @@
     true
   ],
   [
-    "*\n",
-    "*\n",
+    "*",
+    "*",
     true
   ],
   [
-    "\n",
-    "\n",
+    "",
+    "",
     true
   ],
   [
-    "\n",
-    "\n",
+    "",
+    "",
+    true
+  ],
+  [
+    "",
+    "",
+    true
+  ],
+  [
+    "",
+    "",
+    true
+  ],
+  [
+    "",
+    "",
+    true
+  ],
+  [
+    "",
+    "",
+    true
+  ],
+  [
+    "*",
+    "*",
+    true
+  ],
+  [
+    "",
+    "",
+    true
+  ],
+  [
+    "",
+    "",
     true
   ],
   [
@@ -25536,13 +25230,13 @@
     true
   ],
   [
-    "Herald.\n",
-    "Herald.\n",
+    "Herald.",
+    "Herald.",
     true
   ],
   [
-    "\n",
-    "\n",
+    "",
+    "",
     true
   ],
   [
@@ -25561,13 +25255,13 @@
     true
   ],
   [
-    "March_,\n",
-    "March_,\n",
+    "March_,",
+    "March_,",
     true
   ],
   [
-    "\n",
-    "\n",
+    "",
+    "",
     true
   ],
   [
@@ -25632,18 +25326,28 @@
     true
   ],
   [
-    "Newburyport,\n",
-    "Newburyport,\n",
+    "noue",
+    "new",
     true
   ],
   [
-    "Greeting--\n",
-    "Greeting--\n",
+    "noues",
+    "news",
     true
   ],
   [
-    "\n",
-    "\n",
+    "Newburyport,",
+    "Newburyport,",
+    true
+  ],
+  [
+    "Greeting--",
+    "Greeting--",
+    true
+  ],
+  [
+    "",
+    "",
     true
   ],
   [
@@ -25716,11 +25420,7 @@
     "town,",
     true
   ],
-  [
-    "and\n",
-    "and",
-    true
-  ],
+
   [
     "yer",
     "yer",
@@ -25762,8 +25462,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -25772,7 +25472,7 @@
     true
   ],
   [
-    "broken\n",
+    "broken",
     "broken",
     true
   ],
@@ -25782,8 +25482,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -25837,7 +25537,7 @@
     true
   ],
   [
-    "or\n",
+    "or",
     "or",
     true
   ],
@@ -25846,11 +25546,7 @@
     "are",
     true
   ],
-  [
-    "they",
-    "they",
-    true
-  ],
+
   [
     "afraid",
     "afraid",
@@ -25902,7 +25598,7 @@
     true
   ],
   [
-    "Boast\n",
+    "Boast",
     "Boast",
     true
   ],
@@ -25947,8 +25643,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -25967,7 +25663,7 @@
     true
   ],
   [
-    "had\n",
+    "had",
     "had",
     true
   ],
@@ -26041,13 +25737,9 @@
     "pity",
     true
   ],
+
   [
-    "some",
-    "some",
-    true
-  ],
-  [
-    "bad\n",
+    "bad",
     "bad",
     true
   ],
@@ -26107,12 +25799,12 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
-    "honorable\n",
+    "honorable",
     "honorable",
     true
   ],
@@ -26162,8 +25854,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -26177,7 +25869,7 @@
     true
   ],
   [
-    "dust\n",
+    "dust",
     "dust",
     true
   ],
@@ -26192,8 +25884,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -26222,8 +25914,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -26242,8 +25934,8 @@
     true
   ],
   [
-    "more,\n",
-    "more,\n",
+    "more,",
+    "more,",
     true
   ],
   [
@@ -26257,18 +25949,18 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
-    "live.\n",
-    "live.\n",
+    "live.",
+    "live.",
     true
   ],
   [
-    "\n",
-    "\n",
+    "",
+    "",
     true
   ],
   [
@@ -26276,11 +25968,7 @@
     "Now",
     true
   ],
-  [
-    "fellow",
-    "fellow",
-    true
-  ],
+
   [
     "citizens",
     "citizens",
@@ -26347,7 +26035,7 @@
     true
   ],
   [
-    "so\n",
+    "so",
     "so",
     true
   ],
@@ -26406,18 +26094,14 @@
     "where",
     true
   ],
-  [
-    "they",
-    "they",
-    true
-  ],
+
   [
     "paid",
     "paid",
     true
   ],
   [
-    "one\n",
+    "one",
     "one",
     true
   ],
@@ -26447,13 +26131,13 @@
     true
   ],
   [
-    "government?\n",
-    "government?\n",
+    "government?",
+    "government?",
     true
   ],
   [
-    "\n",
-    "\n",
+    "",
+    "",
     true
   ],
   [
@@ -26517,7 +26201,7 @@
     true
   ],
   [
-    "a\n",
+    "a",
     "a",
     true
   ],
@@ -26542,8 +26226,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -26562,13 +26246,8 @@
     true
   ],
   [
-    "bye.\n",
-    "bye.\n",
-    true
-  ],
-  [
-    "\n",
-    "\n",
+    "bye.",
+    "bye.",
     true
   ],
   [
@@ -26579,36 +26258,6 @@
   [
     "",
     "",
-    true
-  ],
-  [
-    "",
-    "",
-    true
-  ],
-  [
-    "",
-    "",
-    true
-  ],
-  [
-    "",
-    "",
-    true
-  ],
-  [
-    "",
-    "",
-    true
-  ],
-  [
-    "",
-    "",
-    true
-  ],
-  [
-    "*",
-    "*",
     true
   ],
   [
@@ -26747,18 +26396,53 @@
     true
   ],
   [
-    "*\n",
-    "*\n",
+    "*",
+    "*",
     true
   ],
   [
-    "\n",
-    "\n",
+    "",
+    "",
     true
   ],
   [
-    "\n",
-    "\n",
+    "",
+    "",
+    true
+  ],
+  [
+    "",
+    "",
+    true
+  ],
+  [
+    "",
+    "",
+    true
+  ],
+  [
+    "",
+    "",
+    true
+  ],
+  [
+    "",
+    "",
+    true
+  ],
+  [
+    "*",
+    "*",
+    true
+  ],
+  [
+    "",
+    "",
+    true
+  ],
+  [
+    "",
+    "",
     true
   ],
   [
@@ -26811,11 +26495,7 @@
     "things",
     true
   ],
-  [
-    "about\n",
-    "about",
-    true
-  ],
+
   [
     "this",
     "this",
@@ -26827,8 +26507,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -26851,11 +26531,7 @@
     "I",
     true
   ],
-  [
-    "suppose",
-    "suppose",
-    true
-  ],
+
   [
     "I",
     "I",
@@ -26887,7 +26563,7 @@
     true
   ],
   [
-    "guessing\n",
+    "guessing",
     "guessing",
     true
   ],
@@ -26947,12 +26623,12 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
-    "always\n",
+    "always",
     "always",
     true
   ],
@@ -26962,8 +26638,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -26986,11 +26662,7 @@
     "without",
     true
   ],
-  [
-    "any",
-    "any",
-    true
-  ],
+
   [
     "end",
     "end",
@@ -27012,13 +26684,13 @@
     true
   ],
   [
-    "everlasting,\n",
-    "everlasting,\n",
+    "everlasting,",
+    "everlasting,",
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -27072,8 +26744,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -27082,7 +26754,7 @@
     true
   ],
   [
-    "other\n",
+    "other",
     "other",
     true
   ],
@@ -27152,7 +26824,7 @@
     true
   ],
   [
-    "land\n",
+    "land",
     "land",
     true
   ],
@@ -27222,7 +26894,7 @@
     true
   ],
   [
-    "worms\n",
+    "worms",
     "worms",
     true
   ],
@@ -27252,7 +26924,7 @@
     true
   ],
   [
-    "body",
+    "boddey",
     "body",
     true
   ],
@@ -27292,7 +26964,7 @@
     true
   ],
   [
-    "this\n",
+    "this",
     "this",
     true
   ],
@@ -27302,8 +26974,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -27337,8 +27009,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -27357,7 +27029,7 @@
     true
   ],
   [
-    "creation\n",
+    "creation",
     "creation",
     true
   ],
@@ -27432,7 +27104,7 @@
     true
   ],
   [
-    "large\n",
+    "large",
     "large",
     true
   ],
@@ -27481,11 +27153,7 @@
     "great",
     true
   ],
-  [
-    "body",
-    "body",
-    true
-  ],
+
   [
     "is",
     "is",
@@ -27502,8 +27170,8 @@
     true
   ],
   [
-    "nature,\n",
-    "nature,\n",
+    "nature,",
+    "nature,",
     true
   ],
   [
@@ -27572,7 +27240,7 @@
     true
   ],
   [
-    "world\n",
+    "world",
     "world",
     true
   ],
@@ -27582,15 +27250,11 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
-  [
-    "go",
-    "go",
-    true
-  ],
+
   [
     "out",
     "out",
@@ -27637,8 +27301,8 @@
     true
   ],
   [
-    "earth--in\n",
-    "earth--in\n",
+    "earth--in",
+    "earth--in",
     true
   ],
   [
@@ -27702,8 +27366,8 @@
     true
   ],
   [
-    "fish--the\n",
-    "fish--the\n",
+    "fish--the",
+    "fish--the",
     true
   ],
   [
@@ -27738,8 +27402,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -27768,8 +27432,8 @@
     true
   ],
   [
-    "another,\n",
-    "another,\n",
+    "another,",
+    "another,",
     true
   ],
   [
@@ -27777,11 +27441,7 @@
     "but",
     true
   ],
-  [
-    "they",
-    "they",
-    true
-  ],
+
   [
     "are",
     "are",
@@ -27802,11 +27462,7 @@
     "the",
     true
   ],
-  [
-    "whole",
-    "whole",
-    true
-  ],
+
   [
     "of",
     "of",
@@ -27818,8 +27474,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -27843,8 +27499,8 @@
     true
   ],
   [
-    "lion,\n",
-    "lion,\n",
+    "lion,",
+    "lion,",
     true
   ],
   [
@@ -27878,8 +27534,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -27908,7 +27564,7 @@
     true
   ],
   [
-    "know\n",
+    "know",
     "know",
     true
   ],
@@ -27923,8 +27579,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -27957,11 +27613,7 @@
     "what",
     true
   ],
-  [
-    "they",
-    "they",
-    true
-  ],
+
   [
     "know.",
     "know.",
@@ -27978,7 +27630,7 @@
     true
   ],
   [
-    "so\n",
+    "so",
     "so",
     true
   ],
@@ -28038,8 +27690,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -28053,15 +27705,11 @@
     true
   ],
   [
-    "done,\n",
-    "done,\n",
+    "done,",
+    "done,",
     true
   ],
-  [
-    "they",
-    "they",
-    true
-  ],
+
   [
     "will",
     "will",
@@ -28118,8 +27766,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -28128,7 +27776,7 @@
     true
   ],
   [
-    "that\n",
+    "that",
     "that",
     true
   ],
@@ -28203,7 +27851,7 @@
     true
   ],
   [
-    "hundred\n",
+    "hundred",
     "hundred",
     true
   ],
@@ -28213,7 +27861,7 @@
     true
   ],
   [
-    "tons",
+    "tuns",
     "tons",
     true
   ],
@@ -28268,12 +27916,12 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
-    "bring\n",
+    "bring",
     "bring",
     true
   ],
@@ -28287,16 +27935,8 @@
     "the",
     true
   ],
-  [
-    "bones",
-    "bones",
-    true
-  ],
-  [
-    "together,",
-    "together,",
-    true
-  ],
+
+
   [
     "then",
     "then",
@@ -28327,11 +27967,7 @@
     "to",
     true
   ],
-  [
-    "an",
-    "and",
-    true
-  ],
+
   [
     "end.",
     "end.",
@@ -28348,7 +27984,7 @@
     true
   ],
   [
-    "of\n",
+    "of",
     "of",
     true
   ],
@@ -28413,7 +28049,7 @@
     true
   ],
   [
-    "melody\n",
+    "melody",
     "melody",
     true
   ],
@@ -28462,11 +28098,7 @@
     "all",
     true
   ],
-  [
-    "believe",
-    "believe",
-    true
-  ],
+
   [
     "the",
     "the",
@@ -28478,12 +28110,17 @@
     true
   ],
   [
-    "written",
+    "Ritten",
     "written",
     true
   ],
   [
-    "as\n",
+    "Riting",
+    "writing",
+    true
+  ],
+  [
+    "as",
     "as",
     true
   ],
@@ -28563,7 +28200,7 @@
     true
   ],
   [
-    "in\n",
+    "in",
     "in",
     true
   ],
@@ -28623,7 +28260,7 @@
     true
   ],
   [
-    "below\n",
+    "below",
     "below",
     true
   ],
@@ -28693,7 +28330,7 @@
     true
   ],
   [
-    "shape\n",
+    "shape",
     "shape",
     true
   ],
@@ -28712,11 +28349,7 @@
     "a",
     true
   ],
-  [
-    "stone",
-    "stone",
-    true
-  ],
+
   [
     "out",
     "out",
@@ -28768,7 +28401,7 @@
     true
   ],
   [
-    "wont\n",
+    "wont",
     "wont",
     true
   ],
@@ -28777,11 +28410,7 @@
     "you",
     true
   ],
-  [
-    "believe",
-    "believe",
-    true
-  ],
+
   [
     "me",
     "me",
@@ -28793,13 +28422,8 @@
     true
   ],
   [
-    "well.\n",
-    "well.\n",
-    true
-  ],
-  [
-    "\n",
-    "\n",
+    "well.",
+    "well.",
     true
   ],
   [
@@ -28810,36 +28434,6 @@
   [
     "",
     "",
-    true
-  ],
-  [
-    "",
-    "",
-    true
-  ],
-  [
-    "",
-    "",
-    true
-  ],
-  [
-    "",
-    "",
-    true
-  ],
-  [
-    "",
-    "",
-    true
-  ],
-  [
-    "",
-    "",
-    true
-  ],
-  [
-    "*",
-    "*",
     true
   ],
   [
@@ -28978,18 +28572,53 @@
     true
   ],
   [
-    "*\n",
-    "*\n",
+    "*",
+    "*",
     true
   ],
   [
-    "\n",
-    "\n",
+    "",
+    "",
     true
   ],
   [
-    "\n",
-    "\n",
+    "",
+    "",
+    true
+  ],
+  [
+    "",
+    "",
+    true
+  ],
+  [
+    "",
+    "",
+    true
+  ],
+  [
+    "",
+    "",
+    true
+  ],
+  [
+    "",
+    "",
+    true
+  ],
+  [
+    "*",
+    "*",
+    true
+  ],
+  [
+    "",
+    "",
+    true
+  ],
+  [
+    "",
+    "",
     true
   ],
   [
@@ -29003,20 +28632,16 @@
     true
   ],
   [
-    "WONDERS!\n",
-    "WONDERS!\n",
+    "WONDERS!",
+    "WONDERS!",
     true
   ],
   [
-    "\n",
-    "\n",
+    "",
+    "",
     true
   ],
-  [
-    "How",
-    "How",
-    true
-  ],
+
   [
     "great",
     "great",
@@ -29083,18 +28708,18 @@
     true
   ],
   [
+    "&",
     "and",
-    "&",
     true
   ],
   [
-    "behold\n",
+    "behold",
     "behold",
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -29117,11 +28742,7 @@
     "all",
     true
   ],
-  [
-    "believe",
-    "believe",
-    true
-  ],
+
   [
     "half",
     "half",
@@ -29132,14 +28753,10 @@
     "the",
     true
   ],
+
   [
-    "truth,",
-    "truth,",
-    true
-  ],
-  [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -29158,7 +28775,7 @@
     true
   ],
   [
-    "the\n",
+    "the",
     "the",
     true
   ],
@@ -29167,11 +28784,7 @@
     "wonders",
     true
   ],
-  [
-    "how",
-    "how",
-    true
-  ],
+
   [
     "great",
     "great",
@@ -29213,15 +28826,11 @@
     true
   ],
   [
-    "see\n",
+    "see",
     "see",
     true
   ],
-  [
-    "how",
-    "how",
-    true
-  ],
+
   [
     "large",
     "large",
@@ -29288,7 +28897,7 @@
     true
   ],
   [
-    "a\n",
+    "a",
     "a",
     true
   ],
@@ -29302,11 +28911,7 @@
     "bubble",
     true
   ],
-  [
-    "comes",
-    "comes",
-    true
-  ],
+
   [
     "up",
     "up",
@@ -29368,7 +28973,7 @@
     true
   ],
   [
-    "man\n",
+    "man",
     "man",
     true
   ],
@@ -29433,7 +29038,7 @@
     true
   ],
   [
-    "ascend\n",
+    "ascend",
     "ascend",
     true
   ],
@@ -29503,7 +29108,7 @@
     true
   ],
   [
-    "go",
+    "goue",
     "go",
     true
   ],
@@ -29513,7 +29118,7 @@
     true
   ],
   [
-    "high\n",
+    "high",
     "high",
     true
   ],
@@ -29563,7 +29168,7 @@
     true
   ],
   [
-    "fellow's",
+    "felow's",
     "fellow's",
     true
   ],
@@ -29583,7 +29188,7 @@
     true
   ],
   [
-    "the\n",
+    "the",
     "the",
     true
   ],
@@ -29603,18 +29208,13 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
-    "souls.\n",
-    "souls.\n",
-    true
-  ],
-  [
-    "\n",
-    "\n",
+    "souls.",
+    "souls.",
     true
   ],
   [
@@ -29625,36 +29225,6 @@
   [
     "",
     "",
-    true
-  ],
-  [
-    "",
-    "",
-    true
-  ],
-  [
-    "",
-    "",
-    true
-  ],
-  [
-    "",
-    "",
-    true
-  ],
-  [
-    "",
-    "",
-    true
-  ],
-  [
-    "",
-    "",
-    true
-  ],
-  [
-    "*",
-    "*",
     true
   ],
   [
@@ -29793,18 +29363,53 @@
     true
   ],
   [
-    "*\n",
-    "*\n",
+    "*",
+    "*",
     true
   ],
   [
-    "\n",
-    "\n",
+    "",
+    "",
     true
   ],
   [
-    "\n",
-    "\n",
+    "",
+    "",
+    true
+  ],
+  [
+    "",
+    "",
+    true
+  ],
+  [
+    "",
+    "",
+    true
+  ],
+  [
+    "",
+    "",
+    true
+  ],
+  [
+    "",
+    "",
+    true
+  ],
+  [
+    "*",
+    "*",
+    true
+  ],
+  [
+    "",
+    "",
+    true
+  ],
+  [
+    "",
+    "",
     true
   ],
   [
@@ -29847,11 +29452,7 @@
     "A",
     true
   ],
-  [
-    "first",
-    "first",
-    true
-  ],
+
   [
     "Cose",
     "cause",
@@ -29873,7 +29474,7 @@
     true
   ],
   [
-    "most\n",
+    "most",
     "most",
     true
   ],
@@ -29953,7 +29554,7 @@
     true
   ],
   [
-    "my\n",
+    "my",
     "my",
     true
   ],
@@ -29977,11 +29578,7 @@
     "he",
     true
   ],
-  [
-    "Old",
-    "Old",
-    true
-  ],
+
   [
     "in",
     "in",
@@ -29993,8 +29590,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -30003,8 +29600,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -30023,7 +29620,7 @@
     true
   ],
   [
-    "Lawyer\n",
+    "Lawyer",
     "Lawyer",
     true
   ],
@@ -30033,8 +29630,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -30048,8 +29645,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -30063,8 +29660,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -30093,7 +29690,7 @@
     true
   ],
   [
-    "Nothing\n",
+    "Nothing",
     "Nothing",
     true
   ],
@@ -30133,8 +29730,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -30142,11 +29739,7 @@
     "A",
     true
   ],
-  [
-    "old",
-    "old",
-    true
-  ],
+
   [
     "fox",
     "fox",
@@ -30183,7 +29776,7 @@
     true
   ],
   [
-    "tasted\n",
+    "tasted",
     "tasted",
     true
   ],
@@ -30268,7 +29861,7 @@
     true
   ],
   [
-    "b\n",
+    "b",
     "a",
     true
   ],
@@ -30338,8 +29931,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -30353,7 +29946,7 @@
     true
   ],
   [
-    "years\n",
+    "years",
     "years",
     true
   ],
@@ -30448,7 +30041,7 @@
     true
   ],
   [
-    "hell\n",
+    "hell",
     "hell",
     true
   ],
@@ -30528,7 +30121,7 @@
     true
   ],
   [
-    "with\n",
+    "with",
     "with",
     true
   ],
@@ -30568,8 +30161,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -30608,7 +30201,7 @@
     true
   ],
   [
-    "father\n",
+    "father",
     "father",
     true
   ],
@@ -30673,7 +30266,7 @@
     true
   ],
   [
-    "thousand\n",
+    "thousand",
     "thousand",
     true
   ],
@@ -30743,7 +30336,7 @@
     true
   ],
   [
-    "to\n",
+    "to",
     "to",
     true
   ],
@@ -30818,7 +30411,7 @@
     true
   ],
   [
-    "sum\n",
+    "sum",
     "some",
     true
   ],
@@ -30877,24 +30470,20 @@
     "have",
     true
   ],
-  [
-    "Any",
-    "Any",
-    true
-  ],
+
   [
     "witness",
     "witness",
     true
   ],
   [
-    "went\n",
+    "went",
     "went",
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -30968,7 +30557,7 @@
     true
   ],
   [
-    "thay\n",
+    "thay",
     "they",
     true
   ],
@@ -31043,7 +30632,7 @@
     true
   ],
   [
-    "bin\n",
+    "bin",
     "been",
     true
   ],
@@ -31123,7 +30712,7 @@
     true
   ],
   [
-    "he\n",
+    "he",
     "he",
     true
   ],
@@ -31138,8 +30727,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -31203,7 +30792,7 @@
     true
   ],
   [
-    "with\n",
+    "with",
     "with",
     true
   ],
@@ -31293,7 +30882,7 @@
     true
   ],
   [
-    "A\n",
+    "A",
     "A",
     true
   ],
@@ -31327,11 +30916,7 @@
     "Round",
     true
   ],
-  [
-    "her",
-    "her",
-    true
-  ],
+
   [
     "A",
     "A",
@@ -31378,7 +30963,7 @@
     true
   ],
   [
-    "shee\n",
+    "shee",
     "she",
     true
   ],
@@ -31408,8 +30993,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -31453,7 +31038,7 @@
     true
   ],
   [
-    "knows\n",
+    "knows",
     "knows",
     true
   ],
@@ -31533,15 +31118,11 @@
     true
   ],
   [
-    "on\n",
+    "on",
     "on",
     true
   ],
-  [
-    "her",
-    "her",
-    true
-  ],
+
   [
     "side",
     "inside",
@@ -31613,7 +31194,7 @@
     true
   ],
   [
-    "is\n",
+    "is",
     "is",
     true
   ],
@@ -31678,7 +31259,7 @@
     true
   ],
   [
-    "thik\n",
+    "thik",
     "thick",
     true
   ],
@@ -31758,7 +31339,7 @@
     true
   ],
   [
-    "sot\n",
+    "sot",
     "said",
     true
   ],
@@ -31838,7 +31419,7 @@
     true
   ],
   [
-    "of\n",
+    "of",
     "of",
     true
   ],
@@ -31898,7 +31479,7 @@
     true
   ],
   [
-    "According\n",
+    "According",
     "According",
     true
   ],
@@ -31918,8 +31499,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -31973,7 +31554,7 @@
     true
   ],
   [
-    "Thomas\n",
+    "Thomas",
     "Thomas",
     true
   ],
@@ -32028,8 +31609,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -32053,7 +31634,7 @@
     true
   ],
   [
-    "blind\n",
+    "blind",
     "blind",
     true
   ],
@@ -32123,7 +31704,7 @@
     true
   ],
   [
-    "sumthing\n",
+    "sumthing",
     "something",
     true
   ],
@@ -32213,7 +31794,7 @@
     true
   ],
   [
-    "in\n",
+    "in",
     "in",
     true
   ],
@@ -32293,7 +31874,7 @@
     true
   ],
   [
-    "A\n",
+    "A",
     "A",
     true
   ],
@@ -32368,7 +31949,7 @@
     true
   ],
   [
-    "of\n",
+    "of",
     "of",
     true
   ],
@@ -32407,11 +31988,7 @@
     "from",
     true
   ],
-  [
-    "her",
-    "her",
-    true
-  ],
+
   [
     "mouth",
     "mouth",
@@ -32443,7 +32020,7 @@
     true
   ],
   [
-    "tears\n",
+    "tears",
     "tears",
     true
   ],
@@ -32458,8 +32035,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -32508,13 +32085,13 @@
     true
   ],
   [
-    "fare\n",
+    "fare",
     "affair",
     true
   ],
   [
-    "\n",
-    "\n",
+    "",
+    "",
     true
   ],
   [
@@ -32523,13 +32100,13 @@
     true
   ],
   [
-    "am\n",
+    "am",
     "am",
     true
   ],
   [
-    "\n",
-    "\n",
+    "",
+    "",
     true
   ],
   [
@@ -32828,16 +32405,11 @@
     true
   ],
   [
-    "DEXTER\n",
+    "DEXTER",
     "DEXTER",
     true
   ],
   [
-    "\n",
-    "\n",
-    true
-  ],
-  [
     "",
     "",
     true
@@ -32845,36 +32417,6 @@
   [
     "",
     "",
-    true
-  ],
-  [
-    "",
-    "",
-    true
-  ],
-  [
-    "",
-    "",
-    true
-  ],
-  [
-    "",
-    "",
-    true
-  ],
-  [
-    "",
-    "",
-    true
-  ],
-  [
-    "",
-    "",
-    true
-  ],
-  [
-    "*",
-    "*",
     true
   ],
   [
@@ -33013,13 +32555,48 @@
     true
   ],
   [
-    "*\n",
-    "*\n",
+    "*",
+    "*",
     true
   ],
   [
-    "\n",
-    "\n",
+    "",
+    "",
+    true
+  ],
+  [
+    "",
+    "",
+    true
+  ],
+  [
+    "",
+    "",
+    true
+  ],
+  [
+    "",
+    "",
+    true
+  ],
+  [
+    "",
+    "",
+    true
+  ],
+  [
+    "",
+    "",
+    true
+  ],
+  [
+    "*",
+    "*",
+    true
+  ],
+  [
+    "",
+    "",
     true
   ],
   [
@@ -33103,7 +32680,7 @@
     true
   ],
   [
-    "that\n",
+    "that",
     "that",
     true
   ],
@@ -33168,7 +32745,7 @@
     true
   ],
   [
-    "gohst\n",
+    "gohst",
     "ghost",
     true
   ],
@@ -33238,7 +32815,7 @@
     true
   ],
   [
-    "in\n",
+    "in",
     "in",
     true
   ],
@@ -33298,8 +32875,8 @@
     true
   ],
   [
-    "keep",
-    "keep",
+    "kee",
+    "key",
     true
   ],
   [
@@ -33313,7 +32890,7 @@
     true
   ],
   [
-    "for\n",
+    "for",
     "for",
     true
   ],
@@ -33378,7 +32955,7 @@
     true
   ],
   [
-    "wont\n",
+    "wont",
     "wont",
     true
   ],
@@ -33438,8 +33015,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -33448,7 +33025,7 @@
     true
   ],
   [
-    "gentil\n",
+    "gentil",
     "gentlemen",
     true
   ],
@@ -33498,8 +33075,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -33518,7 +33095,7 @@
     true
   ],
   [
-    "wish\n",
+    "wish",
     "wish",
     true
   ],
@@ -33598,7 +33175,7 @@
     true
   ],
   [
-    "had\n",
+    "had",
     "had",
     true
   ],
@@ -33663,7 +33240,7 @@
     true
   ],
   [
-    "hundred\n",
+    "hundred",
     "hundred",
     true
   ],
@@ -33733,7 +33310,7 @@
     true
   ],
   [
-    "the\n",
+    "the",
     "the",
     true
   ],
@@ -33808,7 +33385,7 @@
     true
   ],
   [
-    "would\n",
+    "would",
     "would",
     true
   ],
@@ -33878,7 +33455,7 @@
     true
   ],
   [
-    "Cose\n",
+    "Cose",
     "cause",
     true
   ],
@@ -33943,13 +33520,13 @@
     true
   ],
   [
-    "intress\n",
+    "intress",
     "interest",
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -34023,8 +33600,8 @@
     true
   ],
   [
-    "&\n",
-    "&\n",
+    "&",
+    "&",
     true
   ],
   [
@@ -34098,7 +33675,7 @@
     true
   ],
   [
-    "trosteys\n",
+    "trosteys",
     "trustees",
     true
   ],
@@ -34163,13 +33740,13 @@
     true
   ],
   [
-    "glorey\n",
+    "glorey",
     "glory",
     true
   ],
   [
-    "\n",
-    "\n",
+    "",
+    "",
     true
   ],
   [
@@ -34468,18 +34045,18 @@
     true
   ],
   [
-    "DEXTER\n",
+    "DEXTER",
     "DEXTER",
     true
   ],
   [
-    "\n",
-    "\n",
+    "",
+    "",
     true
   ],
   [
-    "\n",
-    "\n",
+    "",
+    "",
     true
   ],
   [
@@ -34553,7 +34130,7 @@
     true
   ],
   [
-    "meane\n",
+    "meane",
     "mean",
     true
   ],
@@ -34648,7 +34225,7 @@
     true
   ],
   [
-    "I\n",
+    "I",
     "I",
     true
   ],
@@ -34718,7 +34295,7 @@
     true
   ],
   [
-    "haveing\n",
+    "haveing",
     "having",
     true
   ],
@@ -34748,8 +34325,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -34787,11 +34364,7 @@
     "to",
     true
   ],
-  [
-    "make",
-    "make",
-    true
-  ],
+
   [
     "a",
     "a",
@@ -34808,7 +34381,7 @@
     true
   ],
   [
-    "to\n",
+    "to",
     "to",
     true
   ],
@@ -34868,18 +34441,18 @@
     true
   ],
   [
-    "men\n",
+    "men",
     "men",
     true
   ],
   [
-    "\n",
-    "\n",
+    "",
+    "",
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -34922,18 +34495,14 @@
     "fourlegged",
     true
   ],
-  [
-    "Children",
-    "Children",
-    true
-  ],
+
   [
     "the",
     "the",
     true
   ],
   [
-    "holl\n",
+    "holl",
     "whole",
     true
   ],
@@ -34993,7 +34562,7 @@
     true
   ],
   [
-    "woman\n",
+    "woman",
     "woman",
     true
   ],
@@ -35068,17 +34637,13 @@
     true
   ],
   [
-    "fined\n",
+    "fined",
     "sinned",
     true
   ],
+
   [
-    "A",
-    "A",
-    true
-  ],
-  [
-    "ganst",
+    "A ganst",
     "against",
     true
   ],
@@ -35138,7 +34703,7 @@
     true
   ],
   [
-    "with\n",
+    "with",
     "with",
     true
   ],
@@ -35218,7 +34783,7 @@
     true
   ],
   [
-    "gost\n",
+    "gost",
     "ghost",
     true
   ],
@@ -35288,7 +34853,7 @@
     true
   ],
   [
-    "has\n",
+    "has",
     "has",
     true
   ],
@@ -35357,13 +34922,9 @@
     "two",
     true
   ],
+
   [
-    "children",
-    "children",
-    true
-  ],
-  [
-    "suked\n",
+    "suked",
     "sucked",
     true
   ],
@@ -35392,11 +34953,7 @@
     "two",
     true
   ],
-  [
-    "Children",
-    "Children",
-    true
-  ],
+
   [
     "maried",
     "married",
@@ -35423,7 +34980,7 @@
     true
   ],
   [
-    "being\n",
+    "being",
     "being",
     true
   ],
@@ -35453,6 +35010,11 @@
     true
   ],
   [
+    "offen",
+    "offense",
+    true
+  ],
+  [
     "with",
     "with",
     true
@@ -35477,11 +35039,7 @@
     "the",
     true
   ],
-  [
-    "old",
-    "old",
-    true
-  ],
+
   [
     "gost",
     "ghost",
@@ -35498,7 +35056,7 @@
     true
   ],
   [
-    "to\n",
+    "to",
     "to",
     true
   ],
@@ -35578,15 +35136,11 @@
     true
   ],
   [
-    "the\n",
+    "the",
     "the",
     true
   ],
-  [
-    "first",
-    "first",
-    true
-  ],
+
   [
     "plases",
     "pleases",
@@ -35663,7 +35217,7 @@
     true
   ],
   [
-    "being\n",
+    "being",
     "being",
     true
   ],
@@ -35688,7 +35242,7 @@
     true
   ],
   [
-    "blows",
+    "bloues",
     "blows",
     true
   ],
@@ -35743,7 +35297,7 @@
     true
   ],
   [
-    "familey\n",
+    "familey",
     "family",
     true
   ],
@@ -35808,7 +35362,7 @@
     true
   ],
   [
-    "to\n",
+    "to",
     "to",
     true
   ],
@@ -35873,7 +35427,7 @@
     true
   ],
   [
-    "the\n",
+    "the",
     "the",
     true
   ],
@@ -35948,7 +35502,7 @@
     true
   ],
   [
-    "sell\n",
+    "sell",
     "sell",
     true
   ],
@@ -36038,16 +35592,11 @@
     true
   ],
   [
-    "bye\n",
+    "bye",
     "bye",
     true
   ],
   [
-    "\n",
-    "\n",
-    true
-  ],
-  [
     "",
     "",
     true
@@ -36368,45 +35917,42 @@
     true
   ],
   [
-    "T",
-    "TO",
+    "",
+    "",
     true
   ],
+
   [
-    "DEXTER\n",
+    "DEXTER",
     "DEXTER",
     true
   ],
   [
-    "\n",
-    "\n",
+    "",
+    "",
     true
   ],
   [
-    "\n",
-    "\n",
+    "",
+    "",
     true
   ],
   [
-    "[Illustration]\n",
-    "[Illustration]\n",
+    "[Illustration]",
+    "[Illustration]",
     true
   ],
   [
-    "\n",
-    "\n",
+    "",
+    "",
     true
   ],
   [
-    "\n",
-    "\n",
+    "",
+    "",
     true
   ],
-  [
-    "How",
-    "How",
-    true
-  ],
+
   [
     "Did",
     "Did",
@@ -36417,11 +35963,7 @@
     "Dexter",
     true
   ],
-  [
-    "make",
-    "make",
-    true
-  ],
+
   [
     "his",
     "his",
@@ -36473,7 +36015,7 @@
     true
   ],
   [
-    "for\n",
+    "for",
     "for",
     true
   ],
@@ -36543,12 +36085,12 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
-    "all\n",
+    "all",
     "all",
     true
   ],
@@ -36623,7 +36165,7 @@
     true
   ],
   [
-    "so\n",
+    "so",
     "so",
     true
   ],
@@ -36703,7 +36245,7 @@
     true
   ],
   [
-    "the\n",
+    "the",
     "the",
     true
   ],
@@ -36793,7 +36335,7 @@
     true
   ],
   [
-    "tun\n",
+    "tun",
     "ton",
     true
   ],
@@ -36868,7 +36410,7 @@
     true
   ],
   [
-    "Less\n",
+    "Less",
     "Less",
     true
   ],
@@ -36943,7 +36485,7 @@
     true
   ],
   [
-    "A\n",
+    "A",
     "A",
     true
   ],
@@ -37008,7 +36550,7 @@
     true
   ],
   [
-    "hell\n",
+    "hell",
     "hell",
     true
   ],
@@ -37083,12 +36625,12 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
-    "halfe\n",
+    "halfe",
     "half",
     true
   ],
@@ -37103,8 +36645,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -37132,13 +36674,9 @@
     "droll",
     true
   ],
+
   [
-    "A",
-    "A",
-    true
-  ],
-  [
-    "Nouf",
+    "A Nouf",
     "enough",
     true
   ],
@@ -37163,7 +36701,7 @@
     true
   ],
   [
-    "pans\n",
+    "pans",
     "pans",
     true
   ],
@@ -37207,11 +36745,7 @@
     "the",
     true
   ],
-  [
-    "west",
-    "west",
-    true
-  ],
+
   [
     "ingas",
     "indies",
@@ -37238,7 +36772,7 @@
     true
   ],
   [
-    "than\n",
+    "than",
     "than",
     true
   ],
@@ -37303,7 +36837,7 @@
     true
   ],
   [
-    "tuck\n",
+    "tuck",
     "took",
     true
   ],
@@ -37353,7 +36887,7 @@
     true
   ],
   [
-    "mad\n",
+    "mad",
     "made",
     true
   ],
@@ -37418,7 +36952,7 @@
     true
   ],
   [
-    "in\n",
+    "in",
     "in",
     true
   ],
@@ -37493,7 +37027,7 @@
     true
   ],
   [
-    "see\n",
+    "see",
     "see",
     true
   ],
@@ -37563,7 +37097,7 @@
     true
   ],
   [
-    "that\n",
+    "that",
     "that",
     true
   ],
@@ -37638,7 +37172,7 @@
     true
   ],
   [
-    "az\n",
+    "az",
     "as",
     true
   ],
@@ -37653,8 +37187,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -37713,7 +37247,7 @@
     true
   ],
   [
-    "Cash\n",
+    "Cash",
     "Cash",
     true
   ],
@@ -37783,7 +37317,7 @@
     true
   ],
   [
-    "forty\n",
+    "forty",
     "forty",
     true
   ],
@@ -37848,7 +37382,7 @@
     true
   ],
   [
-    "one\n",
+    "one",
     "one",
     true
   ],
@@ -37873,8 +37407,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -37923,7 +37457,7 @@
     true
   ],
   [
-    "one\n",
+    "one",
     "one",
     true
   ],
@@ -37988,8 +37522,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -38003,7 +37537,7 @@
     true
   ],
   [
-    "had\n",
+    "had",
     "had",
     true
   ],
@@ -38038,8 +37572,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -38058,8 +37592,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -38078,7 +37612,7 @@
     true
   ],
   [
-    "three\n",
+    "three",
     "three",
     true
   ],
@@ -38088,8 +37622,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -38143,7 +37677,7 @@
     true
   ],
   [
-    "had\n",
+    "had",
     "had",
     true
   ],
@@ -38208,7 +37742,7 @@
     true
   ],
   [
-    "sent\n",
+    "sent",
     "sent",
     true
   ],
@@ -38262,13 +37796,9 @@
     "money",
     true
   ],
+
   [
-    "A",
-    "A",
-    true
-  ],
-  [
-    "Nuf",
+    "A Nuf",
     "enough",
     true
   ],
@@ -38293,7 +37823,7 @@
     true
   ],
   [
-    "Lated\n",
+    "Lated",
     "speculated",
     true
   ],
@@ -38302,11 +37832,7 @@
     "since",
     true
   ],
-  [
-    "old",
-    "old",
-    true
-  ],
+
   [
     "times",
     "times",
@@ -38353,7 +37879,7 @@
     true
   ],
   [
-    "seven\n",
+    "seven",
     "seven",
     true
   ],
@@ -38382,11 +37908,7 @@
     "the",
     true
   ],
-  [
-    "old",
-    "old",
-    true
-  ],
+
   [
     "A",
     "A",
@@ -38428,7 +37950,7 @@
     true
   ],
   [
-    "sekrett\n",
+    "sekrett",
     "secret",
     true
   ],
@@ -38513,16 +38035,11 @@
     true
   ],
   [
-    "boaz\n",
+    "boaz",
     "boats",
     true
   ],
   [
-    "\n",
-    "\n",
-    true
-  ],
-  [
     "",
     "",
     true
@@ -38843,21 +38360,17 @@
     true
   ],
   [
-    "T",
-    "TO",
+    "",
+    "",
     true
   ],
+
   [
-    "DEXTER\n",
+    "DEXTER",
     "DEXTER",
     true
   ],
   [
-    "\n",
-    "\n",
-    true
-  ],
-  [
     "",
     "",
     true
@@ -38865,36 +38378,6 @@
   [
     "",
     "",
-    true
-  ],
-  [
-    "",
-    "",
-    true
-  ],
-  [
-    "",
-    "",
-    true
-  ],
-  [
-    "",
-    "",
-    true
-  ],
-  [
-    "",
-    "",
-    true
-  ],
-  [
-    "",
-    "",
-    true
-  ],
-  [
-    "*",
-    "*",
     true
   ],
   [
@@ -39033,18 +38516,53 @@
     true
   ],
   [
-    "*\n",
-    "*\n",
+    "*",
+    "*",
     true
   ],
   [
-    "\n",
-    "\n",
+    "",
+    "",
     true
   ],
   [
-    "\n",
-    "\n",
+    "",
+    "",
+    true
+  ],
+  [
+    "",
+    "",
+    true
+  ],
+  [
+    "",
+    "",
+    true
+  ],
+  [
+    "",
+    "",
+    true
+  ],
+  [
+    "",
+    "",
+    true
+  ],
+  [
+    "*",
+    "*",
+    true
+  ],
+  [
+    "",
+    "",
+    true
+  ],
+  [
+    "",
+    "",
     true
   ],
   [
@@ -39123,7 +38641,7 @@
     true
   ],
   [
-    "years\n",
+    "years",
     "years",
     true
   ],
@@ -39178,8 +38696,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -39193,12 +38711,12 @@
     true
   ],
   [
-    "Children",
+    "Shildren",
     "Children",
     true
   ],
   [
-    "Now\n",
+    "Now",
     "Now",
     true
   ],
@@ -39258,7 +38776,7 @@
     true
   ],
   [
-    "that\n",
+    "that",
     "that",
     true
   ],
@@ -39328,7 +38846,7 @@
     true
   ],
   [
-    "three\n",
+    "three",
     "three",
     true
   ],
@@ -39408,7 +38926,7 @@
     true
   ],
   [
-    "had\n",
+    "had",
     "had",
     true
   ],
@@ -39498,7 +39016,7 @@
     true
   ],
   [
-    "as\n",
+    "as",
     "as",
     true
   ],
@@ -39512,11 +39030,7 @@
     "as",
     true
   ],
-  [
-    "Any",
-    "Any",
-    true
-  ],
+
   [
     "hous",
     "house",
@@ -39543,8 +39057,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -39573,7 +39087,7 @@
     true
   ],
   [
-    "sence\n",
+    "sence",
     "since",
     true
   ],
@@ -39648,7 +39162,7 @@
     true
   ],
   [
-    "No\n",
+    "No",
     "No",
     true
   ],
@@ -39698,8 +39212,18 @@
     true
   ],
   [
+    "Caricter",
+    "character",
+    true
+  ],
+  [
+    "Caricters",
+    "characters",
+    true
+  ],
+  [
     "chareags",
-    "charages",
+    "charges",
     true
   ],
   [
@@ -39718,8 +39242,8 @@
     true
   ],
   [
-    "&\n",
-    "&\n",
+    "&",
+    "&",
     true
   ],
   [
@@ -39753,8 +39277,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -39777,18 +39301,14 @@
     "my",
     true
   ],
-  [
-    "old",
-    "old",
-    true
-  ],
+
   [
     "head",
     "head",
     true
   ],
   [
-    "has\n",
+    "has",
     "has",
     true
   ],
@@ -39858,7 +39378,7 @@
     true
   ],
   [
-    "to\n",
+    "to",
     "to",
     true
   ],
@@ -39868,8 +39388,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -39933,13 +39453,13 @@
     true
   ],
   [
-    "Amen\n",
+    "Amen",
     "Amen",
     true
   ],
   [
-    "\n",
-    "\n",
+    "",
+    "",
     true
   ],
   [
@@ -39963,16 +39483,11 @@
     true
   ],
   [
-    "trouth\n",
+    "trouth",
     "truth",
     true
   ],
   [
-    "\n",
-    "\n",
-    true
-  ],
-  [
     "",
     "",
     true
@@ -40293,26 +39808,17 @@
     true
   ],
   [
-    "T",
-    "TO",
+    "",
+    "",
     true
   ],
+
   [
-    "DEXTER\n",
+    "DEXTER",
     "DEXTER",
     true
   ],
   [
-    "\n",
-    "\n",
-    true
-  ],
-  [
-    "\n",
-    "\n",
-    true
-  ],
-  [
     "",
     "",
     true
@@ -40325,31 +39831,6 @@
   [
     "",
     "",
-    true
-  ],
-  [
-    "",
-    "",
-    true
-  ],
-  [
-    "",
-    "",
-    true
-  ],
-  [
-    "",
-    "",
-    true
-  ],
-  [
-    "",
-    "",
-    true
-  ],
-  [
-    "*",
-    "*",
     true
   ],
   [
@@ -40488,18 +39969,53 @@
     true
   ],
   [
-    "*\n",
-    "*\n",
+    "*",
+    "*",
     true
   ],
   [
-    "\n",
-    "\n",
+    "",
+    "",
     true
   ],
   [
-    "\n",
-    "\n",
+    "",
+    "",
+    true
+  ],
+  [
+    "",
+    "",
+    true
+  ],
+  [
+    "",
+    "",
+    true
+  ],
+  [
+    "",
+    "",
+    true
+  ],
+  [
+    "",
+    "",
+    true
+  ],
+  [
+    "*",
+    "*",
+    true
+  ],
+  [
+    "",
+    "",
+    true
+  ],
+  [
+    "",
+    "",
     true
   ],
   [
@@ -40573,7 +40089,7 @@
     true
   ],
   [
-    "to\n",
+    "to",
     "to",
     true
   ],
@@ -40608,8 +40124,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -40628,8 +40144,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -40643,7 +40159,7 @@
     true
   ],
   [
-    "of\n",
+    "of",
     "of",
     true
   ],
@@ -40678,8 +40194,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -40712,11 +40228,7 @@
     "Dead",
     true
   ],
-  [
-    "and\n",
-    "and",
-    true
-  ],
+
   [
     "Lawyers",
     "Lawyers",
@@ -40763,8 +40275,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -40788,7 +40300,7 @@
     true
   ],
   [
-    "mankind\n",
+    "mankind",
     "mankind",
     true
   ],
@@ -40858,7 +40370,7 @@
     true
   ],
   [
-    "hell\n",
+    "hell",
     "hell",
     true
   ],
@@ -40878,8 +40390,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -40923,7 +40435,7 @@
     true
   ],
   [
-    "uppon\n",
+    "uppon",
     "upon",
     true
   ],
@@ -40998,7 +40510,7 @@
     true
   ],
   [
-    "as\n",
+    "as",
     "as",
     true
   ],
@@ -41068,13 +40580,13 @@
     true
   ],
   [
-    "years\n",
+    "years",
     "years",
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -41118,8 +40630,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -41138,7 +40650,7 @@
     true
   ],
   [
-    "Ripe\n",
+    "Ripe",
     "Ripe",
     true
   ],
@@ -41218,7 +40730,7 @@
     true
   ],
   [
-    "Consler\n",
+    "Consler",
     "Counsellor",
     true
   ],
@@ -41253,18 +40765,18 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
-    "Amen\n",
+    "Amen",
     "Amen",
     true
   ],
   [
-    "\n",
-    "\n",
+    "",
+    "",
     true
   ],
   [
@@ -41563,18 +41075,18 @@
     true
   ],
   [
-    "DEXTER\n",
+    "DEXTER",
     "DEXTER",
     true
   ],
   [
-    "\n",
-    "\n",
+    "",
+    "",
     true
   ],
   [
-    "\n",
-    "\n",
+    "",
+    "",
     true
   ],
   [
@@ -41592,11 +41104,7 @@
     "thing",
     true
   ],
-  [
-    "further",
-    "further",
-    true
-  ],
+
   [
     "I",
     "I",
@@ -41638,7 +41146,7 @@
     true
   ],
   [
-    "Creature\n",
+    "Creature",
     "Creature",
     true
   ],
@@ -41647,11 +41155,7 @@
     "which",
     true
   ],
-  [
-    "some",
-    "some",
-    true
-  ],
+
   [
     "fools",
     "fools",
@@ -41673,8 +41177,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -41703,8 +41207,8 @@
     true
   ],
   [
-    "wanted--But\n",
-    "wanted--But\n",
+    "wanted--But",
+    "wanted--But",
     true
   ],
   [
@@ -41768,16 +41272,11 @@
     true
   ],
   [
-    "Dye\n",
+    "Dye",
     "Dye",
     true
   ],
   [
-    "\n",
-    "\n",
-    true
-  ],
-  [
     "",
     "",
     true
@@ -42098,21 +41597,17 @@
     true
   ],
   [
-    "T",
-    "TO",
+    "",
+    "",
     true
   ],
+
   [
-    "DEXTER\n",
+    "DEXTER",
     "DEXTER",
     true
   ],
   [
-    "\n",
-    "\n",
-    true
-  ],
-  [
     "",
     "",
     true
@@ -42120,36 +41615,6 @@
   [
     "",
     "",
-    true
-  ],
-  [
-    "",
-    "",
-    true
-  ],
-  [
-    "",
-    "",
-    true
-  ],
-  [
-    "",
-    "",
-    true
-  ],
-  [
-    "",
-    "",
-    true
-  ],
-  [
-    "",
-    "",
-    true
-  ],
-  [
-    "*",
-    "*",
     true
   ],
   [
@@ -42288,18 +41753,53 @@
     true
   ],
   [
-    "*\n",
-    "*\n",
+    "*",
+    "*",
     true
   ],
   [
-    "\n",
-    "\n",
+    "",
+    "",
     true
   ],
   [
-    "\n",
-    "\n",
+    "",
+    "",
+    true
+  ],
+  [
+    "",
+    "",
+    true
+  ],
+  [
+    "",
+    "",
+    true
+  ],
+  [
+    "",
+    "",
+    true
+  ],
+  [
+    "",
+    "",
+    true
+  ],
+  [
+    "*",
+    "*",
+    true
+  ],
+  [
+    "",
+    "",
+    true
+  ],
+  [
+    "",
+    "",
     true
   ],
   [
@@ -42332,11 +41832,7 @@
     "gone",
     true
   ],
-  [
-    "old",
-    "old",
-    true
-  ],
+
   [
     "french",
     "french",
@@ -42363,12 +41859,12 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
-    "Lads\n",
+    "Lads",
     "Lads",
     true
   ],
@@ -42443,7 +41939,7 @@
     true
   ],
   [
-    "staed\n",
+    "staed",
     "stayed",
     true
   ],
@@ -42508,7 +42004,7 @@
     true
   ],
   [
-    "directed\n",
+    "directed",
     "directed",
     true
   ],
@@ -42532,11 +42028,7 @@
     "when",
     true
   ],
-  [
-    "old",
-    "old",
-    true
-  ],
+
   [
     "good",
     "good",
@@ -42573,7 +42065,7 @@
     true
   ],
   [
-    "preach\n",
+    "preach",
     "preach",
     true
   ],
@@ -42653,12 +42145,12 @@
     true
   ],
   [
-    "of\n",
+    "of",
     "of",
     true
   ],
   [
-    "Children",
+    "Shildren",
     "Children",
     true
   ],
@@ -42713,8 +42205,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -42728,7 +42220,7 @@
     true
   ],
   [
-    "was\n",
+    "was",
     "was",
     true
   ],
@@ -42783,8 +42275,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -42808,7 +42300,7 @@
     true
   ],
   [
-    "the\n",
+    "the",
     "the",
     true
   ],
@@ -42883,7 +42375,7 @@
     true
   ],
   [
-    "minester\n",
+    "minester",
     "minister",
     true
   ],
@@ -42902,11 +42394,7 @@
     "say",
     true
   ],
-  [
-    "how",
-    "how",
-    true
-  ],
+
   [
     "Larg",
     "Large",
@@ -42932,11 +42420,7 @@
     "guess",
     true
   ],
-  [
-    "they",
-    "they",
-    true
-  ],
+
   [
     "held",
     "held",
@@ -42958,13 +42442,13 @@
     true
   ],
   [
-    "Each\n",
+    "Each",
     "Each",
     true
   ],
   [
-    "\n",
-    "\n",
+    "",
+    "",
     true
   ],
   [
@@ -42978,13 +42462,13 @@
     true
   ],
   [
-    "27\n",
+    "27",
     "of",
     true
   ],
   [
-    "\n",
-    "\n",
+    "",
+    "",
     true
   ],
   [
@@ -43283,16 +42767,11 @@
     true
   ],
   [
-    "DEXTER\n",
+    "DEXTER",
     "DEXTER",
     true
   ],
   [
-    "\n",
-    "\n",
-    true
-  ],
-  [
     "",
     "",
     true
@@ -43300,36 +42779,6 @@
   [
     "",
     "",
-    true
-  ],
-  [
-    "",
-    "",
-    true
-  ],
-  [
-    "",
-    "",
-    true
-  ],
-  [
-    "",
-    "",
-    true
-  ],
-  [
-    "",
-    "",
-    true
-  ],
-  [
-    "",
-    "",
-    true
-  ],
-  [
-    "*",
-    "*",
     true
   ],
   [
@@ -43468,18 +42917,53 @@
     true
   ],
   [
-    "*\n",
-    "*\n",
+    "*",
+    "*",
     true
   ],
   [
-    "\n",
-    "\n",
+    "",
+    "",
     true
   ],
   [
-    "\n",
-    "\n",
+    "",
+    "",
+    true
+  ],
+  [
+    "",
+    "",
+    true
+  ],
+  [
+    "",
+    "",
+    true
+  ],
+  [
+    "",
+    "",
+    true
+  ],
+  [
+    "",
+    "",
+    true
+  ],
+  [
+    "*",
+    "*",
+    true
+  ],
+  [
+    "",
+    "",
+    true
+  ],
+  [
+    "",
+    "",
     true
   ],
   [
@@ -43563,7 +43047,7 @@
     true
   ],
   [
-    "Jouels\n",
+    "Jouels",
     "Jewels",
     true
   ],
@@ -43638,7 +43122,7 @@
     true
   ],
   [
-    "me\n",
+    "me",
     "me",
     true
   ],
@@ -43723,7 +43207,7 @@
     true
   ],
   [
-    "me\n",
+    "me",
     "me",
     true
   ],
@@ -43803,7 +43287,7 @@
     true
   ],
   [
-    "storey\n",
+    "storey",
     "story",
     true
   ],
@@ -43822,11 +43306,7 @@
     "on",
     true
   ],
-  [
-    "Any",
-    "Any",
-    true
-  ],
+
   [
     "mouskel",
     "musical",
@@ -43847,11 +43327,7 @@
     "Nor",
     true
   ],
-  [
-    "make",
-    "make",
-    true
-  ],
+
   [
     "A",
     "A",
@@ -43888,7 +43364,7 @@
     true
   ],
   [
-    "Could\n",
+    "Could",
     "Could",
     true
   ],
@@ -43948,8 +43424,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -43963,7 +43439,7 @@
     true
   ],
   [
-    "sumthing\n",
+    "sumthing",
     "something",
     true
   ],
@@ -44038,7 +43514,7 @@
     true
   ],
   [
-    "Clam\n",
+    "Clam",
     "Clam",
     true
   ],
@@ -44053,8 +43529,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -44118,7 +43594,7 @@
     true
   ],
   [
-    "if\n",
+    "if",
     "if",
     true
   ],
@@ -44208,18 +43684,18 @@
     true
   ],
   [
-    "&\n",
-    "&\n",
-    true
-  ],
-  [
-    "sisters",
-    "sisters",
-    true
-  ],
-  [
-    "and",
     "&",
+    "&",
+    true
+  ],
+  [
+    "sisters",
+    "sisters",
+    true
+  ],
+  [
+    "&",
+    "and",
     true
   ],
   [
@@ -44258,8 +43734,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -44278,7 +43754,7 @@
     true
   ],
   [
-    "into\n",
+    "into",
     "into",
     true
   ],
@@ -44338,8 +43814,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -44358,7 +43834,7 @@
     true
   ],
   [
-    "has\n",
+    "has",
     "has",
     true
   ],
@@ -44427,11 +43903,7 @@
     "ghosts",
     true
   ],
-  [
-    "and\n",
-    "and",
-    true
-  ],
+
   [
     "mister",
     "mister",
@@ -44503,7 +43975,7 @@
     true
   ],
   [
-    "thay\n",
+    "thay",
     "they",
     true
   ],
@@ -44512,11 +43984,7 @@
     "wilt",
     true
   ],
-  [
-    "make",
-    "make",
-    true
-  ],
+
   [
     "a",
     "a",
@@ -44583,7 +44051,7 @@
     true
   ],
   [
-    "the\n",
+    "the",
     "the",
     true
   ],
@@ -44593,8 +44061,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -44643,8 +44111,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -44658,7 +44126,7 @@
     true
   ],
   [
-    "ginrel\n",
+    "ginrel",
     "general",
     true
   ],
@@ -44687,13 +44155,9 @@
     "hand",
     true
   ],
+
   [
-    "A",
-    "A",
-    true
-  ],
-  [
-    "Nuf",
+    "A Nuf",
     "enough",
     true
   ],
@@ -44743,7 +44207,7 @@
     true
   ],
   [
-    "Emper\n",
+    "Emper",
     "Emporer",
     true
   ],
@@ -44828,7 +44292,7 @@
     true
   ],
   [
-    "spiled\n",
+    "spiled",
     "spilled",
     true
   ],
@@ -44918,8 +44382,8 @@
     true
   ],
   [
-    "&\n",
-    "&\n",
+    "&",
+    "&",
     true
   ],
   [
@@ -44998,12 +44462,12 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
-    "mister\n",
+    "mister",
     "mister",
     true
   ],
@@ -45093,7 +44557,7 @@
     true
   ],
   [
-    "your\n",
+    "your",
     "your",
     true
   ],
@@ -45113,8 +44577,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -45167,11 +44631,7 @@
     "Bonneparte",
     true
   ],
-  [
-    "and\n",
-    "and",
-    true
-  ],
+
   [
     "gorge",
     "gorge",
@@ -45248,7 +44708,7 @@
     true
   ],
   [
-    "what\n",
+    "what",
     "what",
     true
   ],
@@ -45312,11 +44772,7 @@
     "was",
     true
   ],
-  [
-    "born",
-    "born",
-    true
-  ],
+
   [
     "when",
     "when",
@@ -45328,7 +44784,7 @@
     true
   ],
   [
-    "powers\n",
+    "powers",
     "powers",
     true
   ],
@@ -45408,7 +44864,7 @@
     true
   ],
   [
-    "grat\n",
+    "grat",
     "great",
     true
   ],
@@ -45473,7 +44929,7 @@
     true
   ],
   [
-    "Joupeter\n",
+    "Joupeter",
     "Jupiter",
     true
   ],
@@ -45553,7 +45009,7 @@
     true
   ],
   [
-    "beth\n",
+    "beth",
     "bath",
     true
   ],
@@ -45638,7 +45094,7 @@
     true
   ],
   [
-    "quaker\n",
+    "quaker",
     "quaker",
     true
   ],
@@ -45723,7 +45179,7 @@
     true
   ],
   [
-    "all\n",
+    "all",
     "all",
     true
   ],
@@ -45783,8 +45239,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -45793,8 +45249,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -45808,7 +45264,7 @@
     true
   ],
   [
-    "my\n",
+    "my",
     "my",
     true
   ],
@@ -45893,7 +45349,7 @@
     true
   ],
   [
-    "word\n",
+    "word",
     "word",
     true
   ],
@@ -45968,13 +45424,13 @@
     true
   ],
   [
-    "firme\n",
+    "firme",
     "affirm",
     true
   ],
   [
-    "\n",
-    "\n",
+    "",
+    "",
     true
   ],
   [
@@ -46273,18 +45729,18 @@
     true
   ],
   [
-    "DEXTER\n",
+    "DEXTER",
     "DEXTER",
     true
   ],
   [
-    "\n",
-    "\n",
+    "",
+    "",
     true
   ],
   [
-    "\n",
-    "\n",
+    "",
+    "",
     true
   ],
   [
@@ -46353,7 +45809,7 @@
     true
   ],
   [
-    "I\n",
+    "I",
     "I",
     true
   ],
@@ -46373,8 +45829,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -46398,8 +45854,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -46427,26 +45883,18 @@
     "to",
     true
   ],
-  [
-    "please",
-    "please",
-    true
-  ],
+
   [
     "I",
     "I",
     true
   ],
   [
-    "can\n",
+    "can",
     "can",
     true
   ],
-  [
-    "make",
-    "make",
-    true
-  ],
+
   [
     "as",
     "as",
@@ -46483,8 +45931,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -46517,11 +45965,7 @@
     "men",
     true
   ],
-  [
-    "and\n",
-    "and",
-    true
-  ],
+
   [
     "Amen",
     "Amen",
@@ -46563,7 +46007,7 @@
     true
   ],
   [
-    "make",
+    "mak",
     "make",
     true
   ],
@@ -46598,7 +46042,7 @@
     true
   ],
   [
-    "happy\n",
+    "happy",
     "happy",
     true
   ],
@@ -46673,7 +46117,7 @@
     true
   ],
   [
-    "god\n",
+    "god",
     "god",
     true
   ],
@@ -46713,16 +46157,11 @@
     true
   ],
   [
-    "bye\n",
+    "bye",
     "bye",
     true
   ],
   [
-    "\n",
-    "\n",
-    true
-  ],
-  [
     "",
     "",
     true
@@ -47043,23 +46482,24 @@
     true
   ],
   [
-    "T",
-    "TO",
+    "",
+    "",
     true
   ],
+
   [
-    "DEXTER\n",
+    "DEXTER",
     "DEXTER",
     true
   ],
   [
-    "\n",
-    "\n",
+    "",
+    "",
     true
   ],
   [
-    "\n",
-    "\n",
+    "",
+    "",
     true
   ],
   [
@@ -47138,7 +46578,7 @@
     true
   ],
   [
-    "man\n",
+    "man",
     "man",
     true
   ],
@@ -47218,7 +46658,7 @@
     true
   ],
   [
-    "you\n",
+    "you",
     "you",
     true
   ],
@@ -47235,6 +46675,11 @@
   [
     "in",
     "in",
+    true
+  ],
+  [
+    "bloue",
+    "blue",
     true
   ],
   [
@@ -47283,7 +46728,7 @@
     true
   ],
   [
-    "promes\n",
+    "promes",
     "promise",
     true
   ],
@@ -47333,8 +46778,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -47363,7 +46808,7 @@
     true
   ],
   [
-    "all\n",
+    "all",
     "all",
     true
   ],
@@ -47453,7 +46898,7 @@
     true
   ],
   [
-    "Nock\n",
+    "Nock",
     "knock",
     true
   ],
@@ -47498,8 +46943,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -47533,16 +46978,11 @@
     true
   ],
   [
-    "Luch\n",
+    "Luch",
     "luck",
     true
   ],
   [
-    "\n",
-    "\n",
-    true
-  ],
-  [
     "",
     "",
     true
@@ -47863,23 +47303,24 @@
     true
   ],
   [
-    "T",
-    "TO",
+    "",
+    "",
     true
   ],
+
   [
-    "DEXTER\n",
+    "DEXTER",
     "DEXTER",
     true
   ],
   [
-    "\n",
-    "\n",
+    "",
+    "",
     true
   ],
   [
-    "\n",
-    "\n",
+    "",
+    "",
     true
   ],
   [
@@ -47958,7 +47399,7 @@
     true
   ],
   [
-    "Rite\n",
+    "Rite",
     "Write",
     true
   ],
@@ -48038,7 +47479,7 @@
     true
   ],
   [
-    "this\n",
+    "this",
     "this",
     true
   ],
@@ -48108,7 +47549,7 @@
     true
   ],
   [
-    "Divels\n",
+    "Divels",
     "Devils",
     true
   ],
@@ -48183,7 +47624,7 @@
     true
   ],
   [
-    "far\n",
+    "far",
     "far",
     true
   ],
@@ -48253,7 +47694,7 @@
     true
   ],
   [
-    "years\n",
+    "years",
     "years",
     true
   ],
@@ -48338,7 +47779,7 @@
     true
   ],
   [
-    "men\n",
+    "men",
     "men",
     true
   ],
@@ -48428,7 +47869,7 @@
     true
   ],
   [
-    "it\n",
+    "it",
     "it",
     true
   ],
@@ -48513,7 +47954,7 @@
     true
   ],
   [
-    "father\n",
+    "father",
     "father",
     true
   ],
@@ -48588,16 +48029,11 @@
     true
   ],
   [
-    "men\n",
+    "men",
     "men",
     true
   ],
   [
-    "\n",
-    "\n",
-    true
-  ],
-  [
     "",
     "",
     true
@@ -48918,23 +48354,24 @@
     true
   ],
   [
-    "T",
-    "TO",
+    "",
+    "",
     true
   ],
+
   [
-    "DEXTER\n",
+    "DEXTER",
     "DEXTER",
     true
   ],
   [
-    "\n",
-    "\n",
+    "",
+    "",
     true
   ],
   [
-    "\n",
-    "\n",
+    "",
+    "",
     true
   ],
   [
@@ -49018,7 +48455,7 @@
     true
   ],
   [
-    "my\n",
+    "my",
     "my",
     true
   ],
@@ -49068,7 +48505,7 @@
     true
   ],
   [
-    "blows",
+    "blous",
     "blows",
     true
   ],
@@ -49088,7 +48525,7 @@
     true
   ],
   [
-    "of\n",
+    "of",
     "of",
     true
   ],
@@ -49158,7 +48595,7 @@
     true
   ],
   [
-    "a\n",
+    "a",
     "a",
     true
   ],
@@ -49183,8 +48620,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -49243,7 +48680,7 @@
     true
   ],
   [
-    "money\n",
+    "money",
     "money",
     true
   ],
@@ -49343,7 +48780,7 @@
     true
   ],
   [
-    "Live\n",
+    "Live",
     "Live",
     true
   ],
@@ -49423,7 +48860,7 @@
     true
   ],
   [
-    "grate\n",
+    "grate",
     "great",
     true
   ],
@@ -49484,7 +48921,7 @@
   ],
   [
     "Deatey",
-    "Date",
+    "Deity",
     true
   ],
   [
@@ -49503,7 +48940,7 @@
     true
   ],
   [
-    "goue\n",
+    "goue",
     "gone",
     true
   ],
@@ -49552,19 +48989,15 @@
     "Learning",
     true
   ],
-  [
-    "make",
-    "make",
-    true
-  ],
+
   [
     "Rougs",
     "Rough",
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -49578,7 +49011,7 @@
     true
   ],
   [
-    "the\n",
+    "the",
     "the",
     true
   ],
@@ -49673,13 +49106,13 @@
     true
   ],
   [
-    "time\n",
+    "time",
     "time",
     true
   ],
   [
-    "\n",
-    "\n",
+    "",
+    "",
     true
   ],
   [
@@ -50013,16 +49446,11 @@
     true
   ],
   [
-    "trouth\n",
+    "trouth",
     "truth",
     true
   ],
   [
-    "\n",
-    "\n",
-    true
-  ],
-  [
     "",
     "",
     true
@@ -50030,36 +49458,6 @@
   [
     "",
     "",
-    true
-  ],
-  [
-    "",
-    "",
-    true
-  ],
-  [
-    "",
-    "",
-    true
-  ],
-  [
-    "",
-    "",
-    true
-  ],
-  [
-    "",
-    "",
-    true
-  ],
-  [
-    "",
-    "",
-    true
-  ],
-  [
-    "*",
-    "*",
     true
   ],
   [
@@ -50198,18 +49596,53 @@
     true
   ],
   [
-    "*\n",
-    "*\n",
+    "*",
+    "*",
     true
   ],
   [
-    "\n",
-    "\n",
+    "",
+    "",
     true
   ],
   [
-    "\n",
-    "\n",
+    "",
+    "",
+    true
+  ],
+  [
+    "",
+    "",
+    true
+  ],
+  [
+    "",
+    "",
+    true
+  ],
+  [
+    "",
+    "",
+    true
+  ],
+  [
+    "",
+    "",
+    true
+  ],
+  [
+    "*",
+    "*",
+    true
+  ],
+  [
+    "",
+    "",
+    true
+  ],
+  [
+    "",
+    "",
     true
   ],
   [
@@ -50237,11 +49670,7 @@
     "me",
     true
   ],
-  [
-    "how",
-    "how",
-    true
-  ],
+
   [
     "the",
     "the",
@@ -50288,7 +49717,7 @@
     true
   ],
   [
-    "made\n",
+    "made",
     "made",
     true
   ],
@@ -50348,8 +49777,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -50358,8 +49787,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -50368,7 +49797,7 @@
     true
   ],
   [
-    "the\n",
+    "the",
     "the",
     true
   ],
@@ -50448,7 +49877,7 @@
     true
   ],
   [
-    "then\n",
+    "then",
     "then",
     true
   ],
@@ -50498,8 +49927,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -50523,7 +49952,7 @@
     true
   ],
   [
-    "all\n",
+    "all",
     "all",
     true
   ],
@@ -50558,8 +49987,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -50598,13 +50027,13 @@
     true
   ],
   [
-    "I\n",
+    "I",
     "I",
     true
   ],
   [
-    "\n",
-    "\n",
+    "",
+    "",
     true
   ],
   [
@@ -50903,18 +50332,18 @@
     true
   ],
   [
-    "DEXTER\n",
+    "DEXTER",
     "DEXTER",
     true
   ],
   [
-    "\n",
-    "\n",
+    "",
+    "",
     true
   ],
   [
-    "\n",
-    "\n",
+    "",
+    "",
     true
   ],
   [
@@ -50938,8 +50367,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -50953,8 +50382,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -50983,7 +50412,7 @@
     true
   ],
   [
-    "my\n",
+    "my",
     "my",
     true
   ],
@@ -51013,8 +50442,8 @@
     true
   ],
   [
+    "&",
     "and",
-    "&",
     true
   ],
   [
@@ -51058,7 +50487,7 @@
     true
   ],
   [
-    "for\n",
+    "for",
     "for",
     true
   ],
@@ -51123,16 +50552,11 @@
     true
   ],
   [
-    "selfe\n",
+    "selfe",
     "self",
     true
   ],
   [
-    "\n",
-    "\n",
-    true
-  ],
-  [
     "",
     "",
     true
@@ -51453,23 +50877,24 @@
     true
   ],
   [
-    "T",
-    "TO",
+    "",
+    "",
     true
   ],
+
   [
-    "DEXTER\n",
+    "DEXTER",
     "DEXTER",
     true
   ],
   [
-    "\n",
-    "\n",
+    "",
+    "",
     true
   ],
   [
-    "\n",
-    "\n",
+    "",
+    "",
     true
   ],
   [
@@ -51498,8 +50923,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -51508,8 +50933,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -51532,11 +50957,7 @@
     "ink",
     true
   ],
-  [
-    "and\n",
-    "and",
-    true
-  ],
+
   [
     "printers",
     "printers",
@@ -51548,8 +50969,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -51573,8 +50994,8 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -51608,7 +51029,7 @@
     true
   ],
   [
-    "six\n",
+    "six",
     "six",
     true
   ],
@@ -51693,13 +51114,13 @@
     true
   ],
   [
-    "over\n",
+    "over",
     "over",
     true
   ],
   [
-    "\n",
-    "\n",
+    "",
+    "",
     true
   ],
   [
@@ -51998,28 +51419,28 @@
     true
   ],
   [
-    "DEXTER\n",
+    "DEXTER",
     "DEXTER",
     true
   ],
   [
-    "\n",
-    "\n",
+    "",
+    "",
     true
   ],
   [
-    "\n",
-    "\n",
+    "",
+    "",
     true
   ],
   [
-    "\n",
-    "\n",
+    "",
+    "",
     true
   ],
   [
-    "\n",
-    "\n",
+    "",
+    "",
     true
   ],
   [
@@ -52078,7 +51499,7 @@
     true
   ],
   [
-    "fust\n",
+    "fust",
     "first",
     true
   ],
@@ -52117,24 +51538,15 @@
     "in",
     true
   ],
-  [
-    "A",
-    "A",
-    true
-  ],
-  [
-    "Nuf",
-    "enough",
-    true
-  ],
+
   [
     "here",
     "here",
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
@@ -52153,12 +51565,12 @@
     true
   ],
   [
-    "and",
     "&",
+    "and",
     true
   ],
   [
-    "solt\n",
+    "solt",
     "salt",
     true
   ],
@@ -52172,194 +51584,15 @@
     "as",
     true
   ],
+
   [
-    "they",
-    "they",
-    true
-  ],
-  [
-    "plese\n",
+    "plese",
     "please",
     true
   ],
   [
-    "\n",
-    "\n",
-    true
-  ],
-  [
     "",
     "",
-    true
-  ],
-  [
-    "",
-    "",
-    true
-  ],
-  [
-    ",,",
-    ",,",
-    true
-  ],
-  [
-    ",",
-    ",",
-    true
-  ],
-  [
-    ",",
-    ",",
-    true
-  ],
-  [
-    ",",
-    ",",
-    true
-  ],
-  [
-    ",",
-    ",",
-    true
-  ],
-  [
-    ",",
-    ",",
-    true
-  ],
-  [
-    ",",
-    ",",
-    true
-  ],
-  [
-    ",",
-    ",",
-    true
-  ],
-  [
-    ",",
-    ",",
-    true
-  ],
-  [
-    ",",
-    ",",
-    true
-  ],
-  [
-    ",",
-    ",",
-    true
-  ],
-  [
-    ",",
-    ",",
-    true
-  ],
-  [
-    ",",
-    ",",
-    true
-  ],
-  [
-    ",",
-    ",",
-    true
-  ],
-  [
-    ",,",
-    ",,",
-    true
-  ],
-  [
-    ",,",
-    ",,",
-    true
-  ],
-  [
-    ",",
-    ",",
-    true
-  ],
-  [
-    ",,",
-    ",,",
-    true
-  ],
-  [
-    ",",
-    ",",
-    true
-  ],
-  [
-    ",",
-    ",",
-    true
-  ],
-  [
-    ",",
-    ",",
-    true
-  ],
-  [
-    ",",
-    ",",
-    true
-  ],
-  [
-    ",",
-    ",",
-    true
-  ],
-  [
-    ",",
-    ",",
-    true
-  ],
-  [
-    ",",
-    ",",
-    true
-  ],
-  [
-    ",",
-    ",",
-    true
-  ],
-  [
-    ",",
-    ",",
-    true
-  ],
-  [
-    ",",
-    ",",
-    true
-  ],
-  [
-    ",",
-    ",",
-    true
-  ],
-  [
-    ",",
-    ",",
-    true
-  ],
-  [
-    ",",
-    ",",
-    true
-  ],
-  [
-    ",",
-    ",",
-    true
-  ],
-  [
-    ",,\n",
-    ",,\n",
     true
   ],
   [
@@ -52533,8 +51766,8 @@
     true
   ],
   [
-    ",,\n",
-    ",,\n",
+    ",,",
+    ",,",
     true
   ],
   [
@@ -52708,8 +51941,8 @@
     true
   ],
   [
-    ",,\n",
-    ",,\n",
+    ",,",
+    ",,",
     true
   ],
   [
@@ -52883,8 +52116,8 @@
     true
   ],
   [
-    ",,\n",
-    ",,\n",
+    ",,",
+    ",,",
     true
   ],
   [
@@ -53058,8 +52291,8 @@
     true
   ],
   [
-    ",,\n",
-    ",,\n",
+    ",,",
+    ",,",
     true
   ],
   [
@@ -53233,8 +52466,8 @@
     true
   ],
   [
-    ",,\n",
-    ",,\n",
+    ",,",
+    ",,",
     true
   ],
   [
@@ -53408,8 +52641,8 @@
     true
   ],
   [
-    ",,\n",
-    ",,\n",
+    ",,",
+    ",,",
     true
   ],
   [
@@ -53583,8 +52816,8 @@
     true
   ],
   [
-    ",,\n",
-    ",,\n",
+    ",,",
+    ",,",
     true
   ],
   [
@@ -53758,13 +52991,8 @@
     true
   ],
   [
-    ",,\n",
-    ",,\n",
-    true
-  ],
-  [
-    "\n",
-    "\n",
+    ",,",
+    ",,",
     true
   ],
   [
@@ -53778,168 +53006,173 @@
     true
   ],
   [
-    ";;",
-    ";;",
+    ",,",
+    ",,",
     true
   ],
   [
-    ";",
-    ";",
+    ",",
+    ",",
     true
   ],
   [
-    ";",
-    ";",
+    ",",
+    ",",
     true
   ],
   [
-    ";",
-    ";",
+    ",",
+    ",",
     true
   ],
   [
-    ";",
-    ";",
+    ",",
+    ",",
     true
   ],
   [
-    ";",
-    ";",
+    ",",
+    ",",
     true
   ],
   [
-    ";",
-    ";",
+    ",",
+    ",",
     true
   ],
   [
-    ";",
-    ";",
+    ",",
+    ",",
     true
   ],
   [
-    ";",
-    ";",
+    ",",
+    ",",
     true
   ],
   [
-    ";",
-    ";",
+    ",",
+    ",",
     true
   ],
   [
-    ";",
-    ";",
+    ",",
+    ",",
     true
   ],
   [
-    ";",
-    ";",
+    ",",
+    ",",
     true
   ],
   [
-    ";",
-    ";",
+    ",",
+    ",",
     true
   ],
   [
-    ";",
-    ";",
+    ",",
+    ",",
     true
   ],
   [
-    ";;",
-    ";;",
+    ",,",
+    ",,",
     true
   ],
   [
-    ";;",
-    ";;",
+    ",,",
+    ",,",
     true
   ],
   [
-    ";",
-    ";",
+    ",",
+    ",",
     true
   ],
   [
-    ";;",
-    ";;",
+    ",,",
+    ",,",
     true
   ],
   [
-    ";",
-    ";",
+    ",",
+    ",",
     true
   ],
   [
-    ";",
-    ";",
+    ",",
+    ",",
     true
   ],
   [
-    ";",
-    ";",
+    ",",
+    ",",
     true
   ],
   [
-    ";",
-    ";",
+    ",",
+    ",",
     true
   ],
   [
-    ";",
-    ";",
+    ",",
+    ",",
     true
   ],
   [
-    ";",
-    ";",
+    ",",
+    ",",
     true
   ],
   [
-    ";",
-    ";",
+    ",",
+    ",",
     true
   ],
   [
-    ";",
-    ";",
+    ",",
+    ",",
     true
   ],
   [
-    ";",
-    ";",
+    ",",
+    ",",
     true
   ],
   [
-    ";",
-    ";",
+    ",",
+    ",",
     true
   ],
   [
-    ";",
-    ";",
+    ",",
+    ",",
     true
   ],
   [
-    ";",
-    ";",
+    ",",
+    ",",
     true
   ],
   [
-    ";",
-    ";",
+    ",",
+    ",",
     true
   ],
   [
-    ";",
-    ";",
+    ",",
+    ",",
     true
   ],
   [
-    ";;\n",
-    ";;\n",
+    ",,",
+    ",,",
+    true
+  ],
+  [
+    "",
+    "",
     true
   ],
   [
@@ -54113,8 +53346,8 @@
     true
   ],
   [
-    ";;\n",
-    ";;\n",
+    ";;",
+    ";;",
     true
   ],
   [
@@ -54288,8 +53521,8 @@
     true
   ],
   [
-    ";;\n",
-    ";;\n",
+    ";;",
+    ";;",
     true
   ],
   [
@@ -54463,8 +53696,8 @@
     true
   ],
   [
-    ";;\n",
-    ";;\n",
+    ";;",
+    ";;",
     true
   ],
   [
@@ -54638,13 +53871,188 @@
     true
   ],
   [
-    ";;\n",
-    ";;\n",
+    ";;",
+    ";;",
     true
   ],
   [
-    "\n",
-    "\n",
+    "",
+    "",
+    true
+  ],
+  [
+    "",
+    "",
+    true
+  ],
+  [
+    ";;",
+    ";;",
+    true
+  ],
+  [
+    ";",
+    ";",
+    true
+  ],
+  [
+    ";",
+    ";",
+    true
+  ],
+  [
+    ";",
+    ";",
+    true
+  ],
+  [
+    ";",
+    ";",
+    true
+  ],
+  [
+    ";",
+    ";",
+    true
+  ],
+  [
+    ";",
+    ";",
+    true
+  ],
+  [
+    ";",
+    ";",
+    true
+  ],
+  [
+    ";",
+    ";",
+    true
+  ],
+  [
+    ";",
+    ";",
+    true
+  ],
+  [
+    ";",
+    ";",
+    true
+  ],
+  [
+    ";",
+    ";",
+    true
+  ],
+  [
+    ";",
+    ";",
+    true
+  ],
+  [
+    ";",
+    ";",
+    true
+  ],
+  [
+    ";;",
+    ";;",
+    true
+  ],
+  [
+    ";;",
+    ";;",
+    true
+  ],
+  [
+    ";",
+    ";",
+    true
+  ],
+  [
+    ";;",
+    ";;",
+    true
+  ],
+  [
+    ";",
+    ";",
+    true
+  ],
+  [
+    ";",
+    ";",
+    true
+  ],
+  [
+    ";",
+    ";",
+    true
+  ],
+  [
+    ";",
+    ";",
+    true
+  ],
+  [
+    ";",
+    ";",
+    true
+  ],
+  [
+    ";",
+    ";",
+    true
+  ],
+  [
+    ";",
+    ";",
+    true
+  ],
+  [
+    ";",
+    ";",
+    true
+  ],
+  [
+    ";",
+    ";",
+    true
+  ],
+  [
+    ";",
+    ";",
+    true
+  ],
+  [
+    ";",
+    ";",
+    true
+  ],
+  [
+    ";",
+    ";",
+    true
+  ],
+  [
+    ";",
+    ";",
+    true
+  ],
+  [
+    ";",
+    ";",
+    true
+  ],
+  [
+    ";;",
+    ";;",
+    true
+  ],
+  [
+    "",
+    "",
     true
   ],
   [
@@ -54818,8 +54226,8 @@
     true
   ],
   [
-    "::\n",
-    "::\n",
+    "::",
+    "::",
     true
   ],
   [
@@ -54993,8 +54401,8 @@
     true
   ],
   [
-    "::\n",
-    "::\n",
+    "::",
+    "::",
     true
   ],
   [
@@ -55168,8 +54576,8 @@
     true
   ],
   [
-    "::\n",
-    "::\n",
+    "::",
+    "::",
     true
   ],
   [
@@ -55343,188 +54751,13 @@
     true
   ],
   [
-    "::\n",
-    "::\n",
-    true
-  ],
-  [
-    "\n",
-    "\n",
+    "::",
+    "::",
     true
   ],
   [
     "",
     "",
-    true
-  ],
-  [
-    "",
-    "",
-    true
-  ],
-  [
-    "??",
-    "??",
-    true
-  ],
-  [
-    "?",
-    "?",
-    true
-  ],
-  [
-    "?",
-    "?",
-    true
-  ],
-  [
-    "?",
-    "?",
-    true
-  ],
-  [
-    "?",
-    "?",
-    true
-  ],
-  [
-    "?",
-    "?",
-    true
-  ],
-  [
-    "?",
-    "?",
-    true
-  ],
-  [
-    "?",
-    "?",
-    true
-  ],
-  [
-    "?",
-    "?",
-    true
-  ],
-  [
-    "?",
-    "?",
-    true
-  ],
-  [
-    "?",
-    "?",
-    true
-  ],
-  [
-    "?",
-    "?",
-    true
-  ],
-  [
-    "?",
-    "?",
-    true
-  ],
-  [
-    "?",
-    "?",
-    true
-  ],
-  [
-    "??",
-    "??",
-    true
-  ],
-  [
-    "??",
-    "??",
-    true
-  ],
-  [
-    "?",
-    "?",
-    true
-  ],
-  [
-    "??",
-    "??",
-    true
-  ],
-  [
-    "?",
-    "?",
-    true
-  ],
-  [
-    "?",
-    "?",
-    true
-  ],
-  [
-    "?",
-    "?",
-    true
-  ],
-  [
-    "?",
-    "?",
-    true
-  ],
-  [
-    "?",
-    "?",
-    true
-  ],
-  [
-    "?",
-    "?",
-    true
-  ],
-  [
-    "?",
-    "?",
-    true
-  ],
-  [
-    "?",
-    "?",
-    true
-  ],
-  [
-    "?",
-    "?",
-    true
-  ],
-  [
-    "?",
-    "?",
-    true
-  ],
-  [
-    "?",
-    "?",
-    true
-  ],
-  [
-    "?",
-    "?",
-    true
-  ],
-  [
-    "?",
-    "?",
-    true
-  ],
-  [
-    "?",
-    "?",
-    true
-  ],
-  [
-    "??\n",
-    "??\n",
     true
   ],
   [
@@ -55698,8 +54931,8 @@
     true
   ],
   [
-    "??\n",
-    "??\n",
+    "??",
+    "??",
     true
   ],
   [
@@ -55873,8 +55106,183 @@
     true
   ],
   [
-    "??\n",
-    "??\n",
+    "??",
+    "??",
+    true
+  ],
+  [
+    "",
+    "",
+    true
+  ],
+  [
+    "",
+    "",
+    true
+  ],
+  [
+    "??",
+    "??",
+    true
+  ],
+  [
+    "?",
+    "?",
+    true
+  ],
+  [
+    "?",
+    "?",
+    true
+  ],
+  [
+    "?",
+    "?",
+    true
+  ],
+  [
+    "?",
+    "?",
+    true
+  ],
+  [
+    "?",
+    "?",
+    true
+  ],
+  [
+    "?",
+    "?",
+    true
+  ],
+  [
+    "?",
+    "?",
+    true
+  ],
+  [
+    "?",
+    "?",
+    true
+  ],
+  [
+    "?",
+    "?",
+    true
+  ],
+  [
+    "?",
+    "?",
+    true
+  ],
+  [
+    "?",
+    "?",
+    true
+  ],
+  [
+    "?",
+    "?",
+    true
+  ],
+  [
+    "?",
+    "?",
+    true
+  ],
+  [
+    "??",
+    "??",
+    true
+  ],
+  [
+    "??",
+    "??",
+    true
+  ],
+  [
+    "?",
+    "?",
+    true
+  ],
+  [
+    "??",
+    "??",
+    true
+  ],
+  [
+    "?",
+    "?",
+    true
+  ],
+  [
+    "?",
+    "?",
+    true
+  ],
+  [
+    "?",
+    "?",
+    true
+  ],
+  [
+    "?",
+    "?",
+    true
+  ],
+  [
+    "?",
+    "?",
+    true
+  ],
+  [
+    "?",
+    "?",
+    true
+  ],
+  [
+    "?",
+    "?",
+    true
+  ],
+  [
+    "?",
+    "?",
+    true
+  ],
+  [
+    "?",
+    "?",
+    true
+  ],
+  [
+    "?",
+    "?",
+    true
+  ],
+  [
+    "?",
+    "?",
+    true
+  ],
+  [
+    "?",
+    "?",
+    true
+  ],
+  [
+    "?",
+    "?",
+    true
+  ],
+  [
+    "?",
+    "?",
+    true
+  ],
+  [
+    "??",
+    "??",
     true
   ],
   [
@@ -56048,188 +55456,13 @@
     true
   ],
   [
-    "??\n",
-    "??\n",
-    true
-  ],
-  [
-    "\n",
-    "\n",
+    "??",
+    "??",
     true
   ],
   [
     "",
     "",
-    true
-  ],
-  [
-    "",
-    "",
-    true
-  ],
-  [
-    "!!",
-    "!!",
-    true
-  ],
-  [
-    "!",
-    "!",
-    true
-  ],
-  [
-    "!",
-    "!",
-    true
-  ],
-  [
-    "!",
-    "!",
-    true
-  ],
-  [
-    "!",
-    "!",
-    true
-  ],
-  [
-    "!",
-    "!",
-    true
-  ],
-  [
-    "!",
-    "!",
-    true
-  ],
-  [
-    "!",
-    "!",
-    true
-  ],
-  [
-    "!",
-    "!",
-    true
-  ],
-  [
-    "!",
-    "!",
-    true
-  ],
-  [
-    "!",
-    "!",
-    true
-  ],
-  [
-    "!",
-    "!",
-    true
-  ],
-  [
-    "!",
-    "!",
-    true
-  ],
-  [
-    "!",
-    "!",
-    true
-  ],
-  [
-    "!!",
-    "!!",
-    true
-  ],
-  [
-    "!!",
-    "!!",
-    true
-  ],
-  [
-    "!",
-    "!",
-    true
-  ],
-  [
-    "!!",
-    "!!",
-    true
-  ],
-  [
-    "!",
-    "!",
-    true
-  ],
-  [
-    "!",
-    "!",
-    true
-  ],
-  [
-    "!",
-    "!",
-    true
-  ],
-  [
-    "!",
-    "!",
-    true
-  ],
-  [
-    "!",
-    "!",
-    true
-  ],
-  [
-    "!",
-    "!",
-    true
-  ],
-  [
-    "!",
-    "!",
-    true
-  ],
-  [
-    "!",
-    "!",
-    true
-  ],
-  [
-    "!",
-    "!",
-    true
-  ],
-  [
-    "!",
-    "!",
-    true
-  ],
-  [
-    "!",
-    "!",
-    true
-  ],
-  [
-    "!",
-    "!",
-    true
-  ],
-  [
-    "!",
-    "!",
-    true
-  ],
-  [
-    "!",
-    "!",
-    true
-  ],
-  [
-    "!!\n",
-    "!!\n",
     true
   ],
   [
@@ -56403,8 +55636,8 @@
     true
   ],
   [
-    "!!\n",
-    "!!\n",
+    "!!",
+    "!!",
     true
   ],
   [
@@ -56578,8 +55811,8 @@
     true
   ],
   [
-    "!!\n",
-    "!!\n",
+    "!!",
+    "!!",
     true
   ],
   [
@@ -56753,13 +55986,8 @@
     true
   ],
   [
-    "!!\n",
-    "!!\n",
-    true
-  ],
-  [
-    "\n",
-    "\n",
+    "!!",
+    "!!",
     true
   ],
   [
@@ -56773,343 +56001,173 @@
     true
   ],
   [
-    "''",
-    "''",
+    "!!",
+    "!!",
     true
   ],
   [
-    "'",
-    "'",
+    "!",
+    "!",
     true
   ],
   [
-    "'",
-    "'",
+    "!",
+    "!",
     true
   ],
   [
-    "'",
-    "'",
+    "!",
+    "!",
     true
   ],
   [
-    "'",
-    "'",
+    "!",
+    "!",
     true
   ],
   [
-    "'",
-    "'",
+    "!",
+    "!",
     true
   ],
   [
-    "'",
-    "'",
+    "!",
+    "!",
     true
   ],
   [
-    "'",
-    "'",
+    "!",
+    "!",
     true
   ],
   [
-    "'",
-    "'",
+    "!",
+    "!",
     true
   ],
   [
-    "'",
-    "'",
+    "!",
+    "!",
     true
   ],
   [
-    "'",
-    "'",
+    "!",
+    "!",
     true
   ],
   [
-    "'",
-    "'",
+    "!",
+    "!",
     true
   ],
   [
-    "'",
-    "'",
+    "!",
+    "!",
     true
   ],
   [
-    "'",
-    "'",
+    "!",
+    "!",
     true
   ],
   [
-    "''",
-    "''",
+    "!!",
+    "!!",
     true
   ],
   [
-    "''",
-    "''",
+    "!!",
+    "!!",
     true
   ],
   [
-    "'",
-    "'",
+    "!",
+    "!",
     true
   ],
   [
-    "''",
-    "''",
+    "!!",
+    "!!",
     true
   ],
   [
-    "'",
-    "'",
+    "!",
+    "!",
     true
   ],
   [
-    "'",
-    "'",
+    "!",
+    "!",
     true
   ],
   [
-    "'",
-    "'",
+    "!",
+    "!",
     true
   ],
   [
-    "'",
-    "'",
+    "!",
+    "!",
     true
   ],
   [
-    "'",
-    "'",
+    "!",
+    "!",
     true
   ],
   [
-    "'",
-    "'",
+    "!",
+    "!",
     true
   ],
   [
-    "'",
-    "'",
+    "!",
+    "!",
     true
   ],
   [
-    "'",
-    "'",
+    "!",
+    "!",
     true
   ],
   [
-    "'",
-    "'",
+    "!",
+    "!",
     true
   ],
   [
-    "'",
-    "'",
+    "!",
+    "!",
     true
   ],
   [
-    "'",
-    "'",
+    "!",
+    "!",
     true
   ],
   [
-    "'",
-    "'",
+    "!",
+    "!",
     true
   ],
   [
-    "'",
-    "'",
+    "!",
+    "!",
     true
   ],
   [
-    "'",
-    "'",
+    "!",
+    "!",
     true
   ],
   [
-    "''\n",
-    "''\n",
-    true
-  ],
-  [
-    "",
-    "",
+    "!!",
+    "!!",
     true
   ],
   [
     "",
     "",
-    true
-  ],
-  [
-    "''",
-    "''",
-    true
-  ],
-  [
-    "'",
-    "'",
-    true
-  ],
-  [
-    "'",
-    "'",
-    true
-  ],
-  [
-    "'",
-    "'",
-    true
-  ],
-  [
-    "'",
-    "'",
-    true
-  ],
-  [
-    "'",
-    "'",
-    true
-  ],
-  [
-    "'",
-    "'",
-    true
-  ],
-  [
-    "'",
-    "'",
-    true
-  ],
-  [
-    "'",
-    "'",
-    true
-  ],
-  [
-    "'",
-    "'",
-    true
-  ],
-  [
-    "'",
-    "'",
-    true
-  ],
-  [
-    "'",
-    "'",
-    true
-  ],
-  [
-    "'",
-    "'",
-    true
-  ],
-  [
-    "'",
-    "'",
-    true
-  ],
-  [
-    "''",
-    "''",
-    true
-  ],
-  [
-    "''",
-    "''",
-    true
-  ],
-  [
-    "'",
-    "'",
-    true
-  ],
-  [
-    "''",
-    "''",
-    true
-  ],
-  [
-    "'",
-    "'",
-    true
-  ],
-  [
-    "'",
-    "'",
-    true
-  ],
-  [
-    "'",
-    "'",
-    true
-  ],
-  [
-    "'",
-    "'",
-    true
-  ],
-  [
-    "'",
-    "'",
-    true
-  ],
-  [
-    "'",
-    "'",
-    true
-  ],
-  [
-    "'",
-    "'",
-    true
-  ],
-  [
-    "'",
-    "'",
-    true
-  ],
-  [
-    "'",
-    "'",
-    true
-  ],
-  [
-    "'",
-    "'",
-    true
-  ],
-  [
-    "'",
-    "'",
-    true
-  ],
-  [
-    "'",
-    "'",
-    true
-  ],
-  [
-    "'",
-    "'",
-    true
-  ],
-  [
-    "'",
-    "'",
-    true
-  ],
-  [
-    "''\n",
-    "''\n",
     true
   ],
   [
@@ -57283,8 +56341,8 @@
     true
   ],
   [
-    "''\n",
-    "''\n",
+    "''",
+    "''",
     true
   ],
   [
@@ -57458,13 +56516,8 @@
     true
   ],
   [
-    "''\n",
-    "''\n",
-    true
-  ],
-  [
-    "\n",
-    "\n",
+    "''",
+    "''",
     true
   ],
   [
@@ -57478,343 +56531,168 @@
     true
   ],
   [
-    "..",
-    "..",
+    "''",
+    "''",
     true
   ],
   [
-    ".",
-    ".",
+    "'",
+    "'",
     true
   ],
   [
-    ".",
-    ".",
+    "'",
+    "'",
     true
   ],
   [
-    ".",
-    ".",
+    "'",
+    "'",
     true
   ],
   [
-    ".",
-    ".",
+    "'",
+    "'",
     true
   ],
   [
-    ".",
-    ".",
+    "'",
+    "'",
     true
   ],
   [
-    ".",
-    ".",
+    "'",
+    "'",
     true
   ],
   [
-    ".",
-    ".",
+    "'",
+    "'",
     true
   ],
   [
-    ".",
-    ".",
+    "'",
+    "'",
     true
   ],
   [
-    ".",
-    ".",
+    "'",
+    "'",
     true
   ],
   [
-    ".",
-    ".",
+    "'",
+    "'",
     true
   ],
   [
-    ".",
-    ".",
+    "'",
+    "'",
     true
   ],
   [
-    ".",
-    ".",
+    "'",
+    "'",
     true
   ],
   [
-    ".",
-    ".",
+    "'",
+    "'",
     true
   ],
   [
-    "..",
-    "..",
+    "''",
+    "''",
     true
   ],
   [
-    "..",
-    "..",
+    "''",
+    "''",
     true
   ],
   [
-    ".",
-    ".",
+    "'",
+    "'",
     true
   ],
   [
-    "..",
-    "..",
+    "''",
+    "''",
     true
   ],
   [
-    ".",
-    ".",
+    "'",
+    "'",
     true
   ],
   [
-    ".",
-    ".",
+    "'",
+    "'",
     true
   ],
   [
-    ".",
-    ".",
+    "'",
+    "'",
     true
   ],
   [
-    ".",
-    ".",
+    "'",
+    "'",
     true
   ],
   [
-    ".",
-    ".",
+    "'",
+    "'",
     true
   ],
   [
-    ".",
-    ".",
+    "'",
+    "'",
     true
   ],
   [
-    ".",
-    ".",
+    "'",
+    "'",
     true
   ],
   [
-    ".",
-    ".",
+    "'",
+    "'",
     true
   ],
   [
-    ".",
-    ".",
+    "'",
+    "'",
     true
   ],
   [
-    ".",
-    ".",
+    "'",
+    "'",
     true
   ],
   [
-    ".",
-    ".",
+    "'",
+    "'",
     true
   ],
   [
-    ".",
-    ".",
+    "'",
+    "'",
     true
   ],
   [
-    ".",
-    ".",
+    "'",
+    "'",
     true
   ],
   [
-    ".",
-    ".",
+    "'",
+    "'",
     true
   ],
   [
-    "..\n",
-    "..\n",
-    true
-  ],
-  [
-    "",
-    "",
-    true
-  ],
-  [
-    "",
-    "",
-    true
-  ],
-  [
-    "..",
-    "..",
-    true
-  ],
-  [
-    ".",
-    ".",
-    true
-  ],
-  [
-    ".",
-    ".",
-    true
-  ],
-  [
-    ".",
-    ".",
-    true
-  ],
-  [
-    ".",
-    ".",
-    true
-  ],
-  [
-    ".",
-    ".",
-    true
-  ],
-  [
-    ".",
-    ".",
-    true
-  ],
-  [
-    ".",
-    ".",
-    true
-  ],
-  [
-    ".",
-    ".",
-    true
-  ],
-  [
-    ".",
-    ".",
-    true
-  ],
-  [
-    ".",
-    ".",
-    true
-  ],
-  [
-    ".",
-    ".",
-    true
-  ],
-  [
-    ".",
-    ".",
-    true
-  ],
-  [
-    ".",
-    ".",
-    true
-  ],
-  [
-    "..",
-    "..",
-    true
-  ],
-  [
-    "..",
-    "..",
-    true
-  ],
-  [
-    ".",
-    ".",
-    true
-  ],
-  [
-    "..",
-    "..",
-    true
-  ],
-  [
-    ".",
-    ".",
-    true
-  ],
-  [
-    ".",
-    ".",
-    true
-  ],
-  [
-    ".",
-    ".",
-    true
-  ],
-  [
-    ".",
-    ".",
-    true
-  ],
-  [
-    ".",
-    ".",
-    true
-  ],
-  [
-    ".",
-    ".",
-    true
-  ],
-  [
-    ".",
-    ".",
-    true
-  ],
-  [
-    ".",
-    ".",
-    true
-  ],
-  [
-    ".",
-    ".",
-    true
-  ],
-  [
-    ".",
-    ".",
-    true
-  ],
-  [
-    ".",
-    ".",
-    true
-  ],
-  [
-    ".",
-    ".",
-    true
-  ],
-  [
-    ".",
-    ".",
-    true
-  ],
-  [
-    ".",
-    ".",
-    true
-  ],
-  [
-    "..\n",
-    "..\n",
+    "''",
+    "''",
     true
   ],
   [
@@ -57828,168 +56706,173 @@
     true
   ],
   [
-    "..",
-    "..",
+    "''",
+    "''",
     true
   ],
   [
-    ".",
-    ".",
+    "'",
+    "'",
     true
   ],
   [
-    ".",
-    ".",
+    "'",
+    "'",
     true
   ],
   [
-    ".",
-    ".",
+    "'",
+    "'",
     true
   ],
   [
-    ".",
-    ".",
+    "'",
+    "'",
     true
   ],
   [
-    ".",
-    ".",
+    "'",
+    "'",
     true
   ],
   [
-    ".",
-    ".",
+    "'",
+    "'",
     true
   ],
   [
-    ".",
-    ".",
+    "'",
+    "'",
     true
   ],
   [
-    ".",
-    ".",
+    "'",
+    "'",
     true
   ],
   [
-    ".",
-    ".",
+    "'",
+    "'",
     true
   ],
   [
-    ".",
-    ".",
+    "'",
+    "'",
     true
   ],
   [
-    ".",
-    ".",
+    "'",
+    "'",
     true
   ],
   [
-    ".",
-    ".",
+    "'",
+    "'",
     true
   ],
   [
-    ".",
-    ".",
+    "'",
+    "'",
     true
   ],
   [
-    "..",
-    "..",
+    "''",
+    "''",
     true
   ],
   [
-    "..",
-    "..",
+    "''",
+    "''",
     true
   ],
   [
-    ".",
-    ".",
+    "'",
+    "'",
     true
   ],
   [
-    "..",
-    "..",
+    "''",
+    "''",
     true
   ],
   [
-    ".",
-    ".",
+    "'",
+    "'",
     true
   ],
   [
-    ".",
-    ".",
+    "'",
+    "'",
     true
   ],
   [
-    ".",
-    ".",
+    "'",
+    "'",
     true
   ],
   [
-    ".",
-    ".",
+    "'",
+    "'",
     true
   ],
   [
-    ".",
-    ".",
+    "'",
+    "'",
     true
   ],
   [
-    ".",
-    ".",
+    "'",
+    "'",
     true
   ],
   [
-    ".",
-    ".",
+    "'",
+    "'",
     true
   ],
   [
-    ".",
-    ".",
+    "'",
+    "'",
     true
   ],
   [
-    ".",
-    ".",
+    "'",
+    "'",
     true
   ],
   [
-    ".",
-    ".",
+    "'",
+    "'",
     true
   ],
   [
-    ".",
-    ".",
+    "'",
+    "'",
     true
   ],
   [
-    ".",
-    ".",
+    "'",
+    "'",
     true
   ],
   [
-    ".",
-    ".",
+    "'",
+    "'",
     true
   ],
   [
-    ".",
-    ".",
+    "'",
+    "'",
     true
   ],
   [
-    "..\n",
-    "..\n",
+    "''",
+    "''",
+    true
+  ],
+  [
+    "",
+    "",
     true
   ],
   [
@@ -58163,13 +57046,538 @@
     true
   ],
   [
-    "..\n",
-    "..\n",
+    "..",
+    "..",
     true
   ],
   [
-    "\n",
-    "\n",
+    "",
+    "",
+    true
+  ],
+  [
+    "",
+    "",
+    true
+  ],
+  [
+    "..",
+    "..",
+    true
+  ],
+  [
+    ".",
+    ".",
+    true
+  ],
+  [
+    ".",
+    ".",
+    true
+  ],
+  [
+    ".",
+    ".",
+    true
+  ],
+  [
+    ".",
+    ".",
+    true
+  ],
+  [
+    ".",
+    ".",
+    true
+  ],
+  [
+    ".",
+    ".",
+    true
+  ],
+  [
+    ".",
+    ".",
+    true
+  ],
+  [
+    ".",
+    ".",
+    true
+  ],
+  [
+    ".",
+    ".",
+    true
+  ],
+  [
+    ".",
+    ".",
+    true
+  ],
+  [
+    ".",
+    ".",
+    true
+  ],
+  [
+    ".",
+    ".",
+    true
+  ],
+  [
+    ".",
+    ".",
+    true
+  ],
+  [
+    "..",
+    "..",
+    true
+  ],
+  [
+    "..",
+    "..",
+    true
+  ],
+  [
+    ".",
+    ".",
+    true
+  ],
+  [
+    "..",
+    "..",
+    true
+  ],
+  [
+    ".",
+    ".",
+    true
+  ],
+  [
+    ".",
+    ".",
+    true
+  ],
+  [
+    ".",
+    ".",
+    true
+  ],
+  [
+    ".",
+    ".",
+    true
+  ],
+  [
+    ".",
+    ".",
+    true
+  ],
+  [
+    ".",
+    ".",
+    true
+  ],
+  [
+    ".",
+    ".",
+    true
+  ],
+  [
+    ".",
+    ".",
+    true
+  ],
+  [
+    ".",
+    ".",
+    true
+  ],
+  [
+    ".",
+    ".",
+    true
+  ],
+  [
+    ".",
+    ".",
+    true
+  ],
+  [
+    ".",
+    ".",
+    true
+  ],
+  [
+    ".",
+    ".",
+    true
+  ],
+  [
+    ".",
+    ".",
+    true
+  ],
+  [
+    "..",
+    "..",
+    true
+  ],
+  [
+    "",
+    "",
+    true
+  ],
+  [
+    "",
+    "",
+    true
+  ],
+  [
+    "..",
+    "..",
+    true
+  ],
+  [
+    ".",
+    ".",
+    true
+  ],
+  [
+    ".",
+    ".",
+    true
+  ],
+  [
+    ".",
+    ".",
+    true
+  ],
+  [
+    ".",
+    ".",
+    true
+  ],
+  [
+    ".",
+    ".",
+    true
+  ],
+  [
+    ".",
+    ".",
+    true
+  ],
+  [
+    ".",
+    ".",
+    true
+  ],
+  [
+    ".",
+    ".",
+    true
+  ],
+  [
+    ".",
+    ".",
+    true
+  ],
+  [
+    ".",
+    ".",
+    true
+  ],
+  [
+    ".",
+    ".",
+    true
+  ],
+  [
+    ".",
+    ".",
+    true
+  ],
+  [
+    ".",
+    ".",
+    true
+  ],
+  [
+    "..",
+    "..",
+    true
+  ],
+  [
+    "..",
+    "..",
+    true
+  ],
+  [
+    ".",
+    ".",
+    true
+  ],
+  [
+    "..",
+    "..",
+    true
+  ],
+  [
+    ".",
+    ".",
+    true
+  ],
+  [
+    ".",
+    ".",
+    true
+  ],
+  [
+    ".",
+    ".",
+    true
+  ],
+  [
+    ".",
+    ".",
+    true
+  ],
+  [
+    ".",
+    ".",
+    true
+  ],
+  [
+    ".",
+    ".",
+    true
+  ],
+  [
+    ".",
+    ".",
+    true
+  ],
+  [
+    ".",
+    ".",
+    true
+  ],
+  [
+    ".",
+    ".",
+    true
+  ],
+  [
+    ".",
+    ".",
+    true
+  ],
+  [
+    ".",
+    ".",
+    true
+  ],
+  [
+    ".",
+    ".",
+    true
+  ],
+  [
+    ".",
+    ".",
+    true
+  ],
+  [
+    ".",
+    ".",
+    true
+  ],
+  [
+    "..",
+    "..",
+    true
+  ],
+  [
+    "",
+    "",
+    true
+  ],
+  [
+    "",
+    "",
+    true
+  ],
+  [
+    "..",
+    "..",
+    true
+  ],
+  [
+    ".",
+    ".",
+    true
+  ],
+  [
+    ".",
+    ".",
+    true
+  ],
+  [
+    ".",
+    ".",
+    true
+  ],
+  [
+    ".",
+    ".",
+    true
+  ],
+  [
+    ".",
+    ".",
+    true
+  ],
+  [
+    ".",
+    ".",
+    true
+  ],
+  [
+    ".",
+    ".",
+    true
+  ],
+  [
+    ".",
+    ".",
+    true
+  ],
+  [
+    ".",
+    ".",
+    true
+  ],
+  [
+    ".",
+    ".",
+    true
+  ],
+  [
+    ".",
+    ".",
+    true
+  ],
+  [
+    ".",
+    ".",
+    true
+  ],
+  [
+    ".",
+    ".",
+    true
+  ],
+  [
+    "..",
+    "..",
+    true
+  ],
+  [
+    "..",
+    "..",
+    true
+  ],
+  [
+    ".",
+    ".",
+    true
+  ],
+  [
+    "..",
+    "..",
+    true
+  ],
+  [
+    ".",
+    ".",
+    true
+  ],
+  [
+    ".",
+    ".",
+    true
+  ],
+  [
+    ".",
+    ".",
+    true
+  ],
+  [
+    ".",
+    ".",
+    true
+  ],
+  [
+    ".",
+    ".",
+    true
+  ],
+  [
+    ".",
+    ".",
+    true
+  ],
+  [
+    ".",
+    ".",
+    true
+  ],
+  [
+    ".",
+    ".",
+    true
+  ],
+  [
+    ".",
+    ".",
+    true
+  ],
+  [
+    ".",
+    ".",
+    true
+  ],
+  [
+    ".",
+    ".",
+    true
+  ],
+  [
+    ".",
+    ".",
+    true
+  ],
+  [
+    ".",
+    ".",
+    true
+  ],
+  [
+    ".",
+    ".",
+    true
+  ],
+  [
+    "..",
+    "..",
+    true
+  ],
+  [
+    "",
+    "",
     true
   ],
   [
@@ -58343,8 +57751,8 @@
     true
   ],
   [
-    "--\n",
-    "--\n",
+    "--",
+    "--",
     true
   ],
   [
@@ -58518,8 +57926,8 @@
     true
   ],
   [
-    "--\n",
-    "--\n",
+    "--",
+    "--",
     true
   ],
   [
@@ -58693,23 +58101,23 @@
     true
   ],
   [
-    "--\n",
-    "--\n",
+    "--",
+    "--",
     true
   ],
   [
-    "\n",
-    "\n",
+    "",
+    "",
     true
   ],
   [
-    "\n",
-    "\n",
+    "",
+    "",
     true
   ],
   [
-    "\n",
-    "\n",
+    "",
+    "",
     true
   ]
 ]
