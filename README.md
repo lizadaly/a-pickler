@@ -169,12 +169,7 @@ stockholder litigation could result in substantial costs & a diversion of our ma
 and in closing:
 
 ```
-
-
-
-Segnetoure Page- Letter]
-
-
+Segnetoure Page- Letter
 
 -....(“”),,,,(“”),,(“”),,,,,(“”),,(,“”),,(“”),,,,..,,,,;,,,,,,,,:..():().()“”:“()();,()(),()-,,-()
 -;”().()“”:“();,()(),()-,,-()-;..(“”):();(),,,.;(),...,:(),,,,,,’().(),,,,,.(),,,,...
