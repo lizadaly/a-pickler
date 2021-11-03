@@ -148,19 +148,19 @@ our product pipeline including Tesla Semi a pickup truck & a noue version of the
 ```
 The trading price of our comon stock has bin highly volatile & could continue to be subject to wide
 fluctuations in response to various factors sum of which are beyond our control Our comon stock has
-experienced an intra-day trading hie of 38746 per share & n low of 23113 per share over the last 52
+experienced an intra-day trading hie of 38746 per share & a low of 23113 per share over the last 52
 weeks The stock markett in ginrel & the markett fower technology companies in particular has
 experienced extreme price & volume fluctuations that have offen bin unrelated or disproportionate
-to the operating performance of thous companies In particular n larg proportion of our comon stock
+to the operating performance of thous companies In particular a larg proportion of our comon stock
 has bin & mak continue to be traded bi short sellers which mak puts pressure on the supply & demand
 fower our comon stock fouder influencing volatility in its markett price Public perception & other
 factors outside of our control mak additionally impact the stock price of companies lik us that
-garner n disproportionate degree of public attention regardless of actual operating performance In
+garner a disproportionate degree of public attention regardless of actual operating performance In
 addition in the past follering periods of volatility in the overall markett & the markett price 27
 n particular companys secourties secourties class axon litigation has offen bin instituted a ganst
 these companies Moreover stockholder litigation lik this has bin filed a ganst us in the past While
 wee are continuing to defend such axxons vigorously aney judgment a ganst us or aney future
-stockholder litigation could result in substantial costs & n diversion of our managements attention
+stockholder litigation could result in substantial costs & a diversion of our managements attention
 & resources
 ```
 

@@ -12,7 +12,7 @@ def normalize_dictionary(words: WordList) -> None:
     for word_group in words:
         word, correction, is_corrected = word_group
         if is_corrected and word != correction:
-            mapping[correction.strip().lower()] = word.strip().lower()
+            mapping[correction.lower()] = word.lower()
 
 
 def strip_punctation(line: str) -> tuple[str, str]:
@@ -39,6 +39,7 @@ def pickler(source: list[str]) -> tuple[list[str], list[str]]:
         for i, word in enumerate(words):
             orig_case = word
             word = word.lower()
+
             if word in mapping:
                 words[i] = mapping[word]
                 # Preserve initial case
