@@ -37,12 +37,24 @@ def clean_sgml_junk(dir: Path) -> list[str]:
                     text = el.text
                     if text and text.strip():
                         picklered, punct = pickler([text.strip()])
-                        punctuation.append("".join(punct))
+                        punctuation.append(re.sub(r"\s+", "", "".join(punct)))
                         el.text = "".join(picklered)
                 output.append(
                     html.tostring(parsed, encoding="unicode", pretty_print=True)
                 )
-    output.append(f"<p>{''.join(punctuation)}")
+    # Sort the punctuation such that it's symmetric-ish
+    # punctuation = sorted("".join(punctuation))
+    final_punct: list[str] = []
+
+    # Split every 70 characters
+    split: list[str] = re.findall(".{1,70}", "".join(punctuation))
+    for group in split:
+        g = sorted(group)
+        left = [l for i, l in enumerate(g) if i % 2]
+        right = reversed([l for i, l in enumerate(g) if not i % 2])
+        final_punct.append("".join(left) + "".join(right))
+    p = "\n".join(final_punct)
+    output.append(f"<pre>{p}</pre>")
     return output
 
 

@@ -18,7 +18,7 @@ def normalize_dictionary(words: WordList) -> None:
 def strip_punctation(line: str) -> tuple[str, str]:
     """Strip punctuation from a line, returning the removed punctuation and the updated line"""
     punct = str.maketrans(
-        dict.fromkeys("'!\"#$%&'()*+,./:;<=>?@[\\]^_`{|}~'’“”")
+        dict.fromkeys("'!\"#$%&'()*+,./:;<=>?@[]^_`{|}~'’“”\\")
     )  # string.punctuation plus smart quotes minus hyphens
     non_punct = str.maketrans(dict.fromkeys(string.ascii_letters + string.digits + " "))
     alpha_only = line.translate(punct).replace("  ", " ")
