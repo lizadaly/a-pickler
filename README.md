@@ -166,7 +166,7 @@ stockholder litigation could result in substantial costs & a diversion of our ma
 & resources
 ```
 
-and in closing:
+and in closing, all punctuation extracted from the source text:
 
 ```
 Segnetoure Page- Letter
