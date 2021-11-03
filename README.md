@@ -1,17 +1,31 @@
 # A Pickler for the Knowing Ones
 
-<img src="images/portrait.png" alt="engraving of the head of Timothy Dexter" />
+<img src="images/portrait.png" alt="engraving of the head of Timothy Dexter" width="250" align="right" />
 
 A translator and generator to produce text in the style of [A Pickle for the Knowing Ones](https://www.gutenberg.org/cache/epub/43453/pg43453-images.html) (1802)
 by noted eccentric [Timothy Dexter](https://en.wikipedia.org/wiki/Timothy_Dexter) (1747-1806). The final output is an entry in National Novel Generation Month 2021.
 
-## About the original work and author
 
 [Timothy Dexter](https://en.wikipedia.org/wiki/Timothy_Dexter) was a merchant and "entrepreneur" who married rich and had an unlikely providential career selling literal coals to Newscastle and other dubious business ventures.
 
-Dexter commissioned a local sculpture and architect to build a self-aggrandizing palace in his home town of Newburyport, which he describes in his self-published pamphlet, "A Pickle for the Knowing Ones" (1802):
+"A Pickle for the Knowing Ones" is unique in its use of idiosyncratic and self-aggrandizing language. Dexter wrote phonetically, with no punctuation, in turn praising himself, castigating his enemies, railing at his creditors and debtors, and insulting his wife. The local community of Newburyport continued to reproduce his initial pamphlet for decades after his death.
 
-<img src="images/lithograph.jpg" alt="A lithograph of Dexter's mansion, featuring his decorative statues" />
+<blockquote>
+  
+Ime the first Lord in the younited States of A mercary Now of Newburyport
+it is the voise of the peopel and I cant Help it and so Let it goue Now as
+I must be Lord 
+  </blockquote>
+  
+<br clear="both" />
+
+
+
+Dexter commissioned a local sculptor and architect to build a grandiose palace in his home town of Newburyport:
+
+<p align="center">
+<img src="images/lithograph.jpg" alt="A lithograph of Dexter's mansion, featuring his decorative statues" width="80%" />
+</p>
 
 <blockquote>
 the doue
@@ -29,15 +43,17 @@ be A king
 
 Dexter's writing style was unique; in the second and subsequent editions of his pamphlet he responded to criticisms that he failed to use punctuation with the following epigraph:
 
-<img src="images/end.png" alt="end notes from dexter: a long block of punctuation" />
+<p align="center">
+<img src="images/end.png" alt="end notes from dexter: a long block of punctuation" width="300" />
+</p>
 
 (His phonetic writing style hints at his speaking style; e.g. <i>learning/larning</i>, <i>slaughter/slarter</i>, <i>thought/thort</i> suggest pronunciations similar to <a href="https://en.wikipedia.org/wiki/Midland_American_English">Midland American English</a>, and <i>isle/oile</i> evokes a modern Irish accent.)
 
 ### About the edition used
 
-The digital edition used as a source text is from Project Gutenberg, published posthumously in 1848 by Blanchard & Sargent of Newburyport.
+The digital edition used as a source text is from <a href="https://www.gutenberg.org/cache/epub/43453/pg43453-images.html">Project Gutenberg</a>, published posthumously in 1848 by Blanchard & Sargent of Newburyport.
 
-I own a different edition published in 1848 by John G. Tilton. Tilton also published the lithograph of Dexter's mansion reproduced above. The two editions differ in sequencing, material coverage, and even in their spellings (and misspellings!) ome of this I attribute to OCR/transcriber error, but many differences certainly exist in the sources. These were inexpensive pamphlets distributed to make fun of Dexter, not scholarly works. My edition features amusingly dry footnotes from the editor.
+I own a different edition published in 1848 by John G. Tilton. Tilton also published the <a href="https://www.loc.gov/resource/pga.03578/">lithograph of Dexter's mansion</a> reproduced above. The two editions differ in sequencing, material coverage, and even in their spellings (and misspellings!). Some of this I attribute to OCR/transcriber error, but many differences certainly exist in the sources. These were inexpensive pamphlets distributed to make fun of Dexter, not scholarly works. My edition features amusingly dry footnotes from the editor.
 
 ## Project goals
 
