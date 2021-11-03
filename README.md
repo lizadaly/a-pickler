@@ -110,7 +110,7 @@ It is a truth universally acknowledged, that a single man (??) loves punctuation
 Itt is a trouth universally acknowledged that a single man leovs punctuation ,(??)!!
 ```
 
-## `filings.py`
+### `filings.py`
 
 This downloads recent quarterly earnings reports (10-Q filings) from the [EDGAR database](https://www.sec.gov/edgar/searchedgar/companysearch.html) provided by the US Securities and Exchange Commission using [sec-edgar-downloader](https://github.com/jadchaar/sec-edgar-downloader), parses the reports, then passes the output through the pickler.
 
@@ -118,7 +118,7 @@ EDGAR reports are in a bespoke SGML format with wrapped HTML; this extracts the 
 
 Using the HTML-to-text capability of [w3m](http://w3m.sourceforge.net/) then produces nicely-formatted plain text.
 
-### The output
+## The output
 
 66,369 words derived from three years of Tesla quarterly reports and amendments. Examples:
 
