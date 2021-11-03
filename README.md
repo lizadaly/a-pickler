@@ -59,11 +59,11 @@ Transform a modern text with ideological similarity to Dexter's business initiat
 
 This repo contains the following utilities:
 
-[] A dictionary generator, to iterate through the source of _A Pickle for the Knowing Ones_ and generate a map of Dexter's spellings to standard English. The program should suggest words, skip known words, and store the dictionary.
+* A dictionary generator, to iterate through the source of _A Pickle for the Knowing Ones_ and generate a map of Dexter's spellings to standard English. The program should suggest words, skip known words, and store the dictionary.
 
-[] A script, `pickler.py`, to take an input text and turn it into a Dexter-style rendering including puncutation treatment.
+* A script, `pickler.py`, to take an input text and turn it into a Dexter-style rendering including puncutation treatment.
 
-[] A programmatic downloader for the source data, `filings.py` to be SEC quarterly earnings reports from Telsa, Inc.
+* A programmatic downloader for the source data, `filings.py` to download SEC quarterly earnings reports from Telsa, Inc. and pass the source text into `pickler.py`.
 
 ### Dictionary generator
 
