@@ -3,7 +3,7 @@
 <img src="images/portrait.png" alt="engraving of the head of Timothy Dexter" width="250" align="right" />
 
 A translator and generator to produce text in the style of [A Pickle for the Knowing Ones](https://www.gutenberg.org/cache/epub/43453/pg43453-images.html) (1802)
-by noted eccentric [Timothy Dexter](https://en.wikipedia.org/wiki/Timothy_Dexter) (1747-1806). The final output is an entry in National Novel Generation Month 2021.
+by noted eccentric [Timothy Dexter](https://en.wikipedia.org/wiki/Timothy_Dexter) (1747-1806). The final output is an entry in [National Novel Generation Month 2021](https://github.com/NaNoGenMo/2021/).
 
 [Timothy Dexter](https://en.wikipedia.org/wiki/Timothy_Dexter) was a merchant and "entrepreneur" who married rich and had an unlikely providential career selling literal coals to Newcastle and other dubious business ventures.
 
