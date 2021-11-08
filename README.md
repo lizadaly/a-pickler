@@ -5,7 +5,7 @@
 A translator and generator to produce text in the style of [A Pickle for the Knowing Ones](https://www.gutenberg.org/cache/epub/43453/pg43453-images.html) (1802)
 by noted eccentric [Timothy Dexter](https://en.wikipedia.org/wiki/Timothy_Dexter) (1747-1806). The final output is an entry in National Novel Generation Month 2021.
 
-[Timothy Dexter](https://en.wikipedia.org/wiki/Timothy_Dexter) was a merchant and "entrepreneur" who married rich and had an unlikely providential career selling literal coals to Newscastle and other dubious business ventures.
+[Timothy Dexter](https://en.wikipedia.org/wiki/Timothy_Dexter) was a merchant and "entrepreneur" who married rich and had an unlikely providential career selling literal coals to Newcastle and other dubious business ventures.
 
 "A Pickle for the Knowing Ones" is unique in its use of idiosyncratic and self-aggrandizing language. Dexter wrote phonetically, with no punctuation, in turn praising himself, castigating his enemies, railing at his creditors and debtors, and insulting his wife. The local community of Newburyport continued to reproduce his initial pamphlet for decades after his death.
 
