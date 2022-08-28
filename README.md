@@ -114,7 +114,7 @@ Itt is a trouth universally acknowledged that a single man leovs punctuation ,(?
 
 This downloads recent quarterly earnings reports (10-Q filings) from the [EDGAR database](https://www.sec.gov/edgar/searchedgar/companysearch.html) provided by the US Securities and Exchange Commission using [sec-edgar-downloader](https://github.com/jadchaar/sec-edgar-downloader), parses the reports, then passes the output through the pickler.
 
-EDGAR reports are in a bespoke SGML format with wrapped HTML; this extracts the HTML blob, passes the text nodes to `pickler.py`, updates them in replace, then writes out the transformed HTML.
+EDGAR reports are in a bespoke SGML format with wrapped HTML; this extracts the HTML blob, passes the text nodes to `pickler.py`, updates them in place, then writes out the transformed HTML.
 
 Using the HTML-to-text capability of [w3m](http://w3m.sourceforge.net/) then produces nicely-formatted plain text.
 
