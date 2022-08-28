@@ -96,7 +96,7 @@ Any words added replace the `spellchecked_word` value in the dictionary, and fli
 
 This takes an input text, as a list of strings, remaps all words according to the dictionary generated above, and removes all punctuation. The punctuation is then appended to the end, as Dexter did.
 
-A test suite generates the process on a few samples:
+A test suite demonstrates the process on a few samples:
 
 **Source:**
 
